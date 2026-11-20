@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Federico Ninivaggi</title>
+<link>https://fniniv.github.io/blog/</link>
+<atom:link href="https://fniniv.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.9.30</generator>
+<lastBuildDate>Wed, 18 Nov 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>AC Boise ha raccolto i punti che le sue occasioni valevano</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-11-18-ac-boise-ha-raccolto-i-punti-che-le-sue-occasioni-valevano/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#2F6B3A;--tema-fg:#F4EEDF;--tema-acc:#F2C46B;--tema-ink:#2F6B3A;--tinta:#E6E8DA;}</style>
+<header class="apertura column-screen apertura-long" style="--fig-bg:#2F6B3A;--fig-fg:#F4EEDF;--fig-acc:#F2C46B"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 21 · calcio · 18 nov 2026</p><h1 class="apertura-titolo">AC Boise ha raccolto i punti che le sue occasioni valevano</h1><p class="apertura-sommario">La prima stagione di Athletic Club Boise in League One, letta sui dati pubblici dei tiri: occasioni tra le migliori del campionato, punti all’altezza, una seconda metà più forte e una finale persa nel finale a Charlotte.</p><p class="tag-riga"><a class="tag-argomento" href="../../../blog/index.html#category=Calcio">Calcio</a></p><a class="testata-torna" href="../../../blog/calcio.html">↩ torna a Calcio</a></div></div></header>
+
+<script>(function(){const b=document.querySelector('.barra-lettura');function s(){const h=document.documentElement;
+const t=h.scrollHeight-h.clientHeight;b.style.transform='scaleX('+(t>0?h.scrollTop/t:0)+')';}
+addEventListener('scroll',s,{passive:true});s();})();</script>
+<div class="in-breve">
+<p>Nella stagione regolare Athletic Club Boise ha creato e concesso occasioni che valevano quanti punti quelle di qualunque altra squadra della USL League One. Ha chiuso con quasi tutti i punti che quelle occasioni meritavano.</p>
+<p>Nella seconda metà della stagione Boise ha creato più che nella prima senza concedere di più, e i suoi punti sono saliti ancora perché ha subito meno gol su occasioni di valore simile.</p>
+<p>Il titolo è andato a Charlotte Independence, che ha raccolto molti più punti di quanti ne meritassero le sue occasioni: lo scarto più ampio del campionato.</p>
+<p>In finale Boise è stata in vantaggio fino agli ultimi minuti, ma nelle due partite giocate negli stadi di casa di Charlotte i padroni di casa hanno creato di più anche a punteggio pari.</p>
+</div>
+<div class="capoverso-primo">
+<p>Athletic Club Boise ha chiuso la sua prima stagione in USL League One, il terzo livello del calcio professionistico americano, con una finale persa e un posto tra le squadre migliori del campionato per la qualità delle occasioni. Nella stagione regolare i suoi punti sono finiti vicini a dove quelle occasioni li collocavano, e la finale è andata 4-2 a Charlotte Independence, la squadra che ha superato le proprie occasioni più di chiunque altro.</p>
+</div>
+<p>Il risultato conta perché la prossima stagione Boise sale in USL Championship, il secondo livello, su invito della lega, come <a href="https://www.kivitv.com/video/sports/athletic-club-boise-to-join-usl-championship-in-2027-expand-stadium">ha riportato KIVI</a>. Una squadra che ha perso punti per sfortuna può aspettarsi di riaverli senza cambiare nulla, e i numeri di Boise non offrono questa consolazione, anche se descrivono una squadra migliorata nel corso dell’anno. Secondo <a href="https://idahonews.com/newsletter-daily/ac-boise-falls-4-2-in-usl-league-1-final-against-charlotte-independence">Idaho News</a>, il club è stato solo la seconda squadra di espansione a raggiungere la finale nella sua prima stagione.</p>
+<section id="come-si-contano-le-occasioni" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="come-si-contano-le-occasioni">Come si contano le occasioni</h2>
+<p>I dati vengono da American Soccer Analysis, ASA, il sito che pubblica dati avanzati sui campionati nordamericani, compresi i tiri della League One. Ogni tiro ha un valore in gol attesi, o xG: la probabilità che un tiro di quel tipo, da quel punto, diventi gol. La somma degli xG di una squadra dice quanti gol valevano le sue occasioni, e ASA trasforma gli xG di una partita in punti attesi, cioè i punti che quelle occasioni porterebbero.<sup>1</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;Il <a href="https://www.americansocceranalysis.com/glossary">glossario</a> di ASA definisce i punti attesi come «Expected team points earned based on xG (team model)».</p></div></div><p>Questo campionato chiede un metro suo. Nella stagione regolare le squadre della League One hanno segnato circa nove gol ogni dieci attesi, quindi restare sotto gli xG qui è normale. Da qui in avanti i gol di una squadra si misurano sul tasso del campionato e non su quello del modello.</p>
+</section>
+<section id="tra-le-prime-tre-per-occasioni" class="level2">
+<h2 class="anchored" data-anchor-id="tra-le-prime-tre-per-occasioni">Tra le prime tre per occasioni</h2>
+<p>Secondo ASA le occasioni di Boise valevano 1,78 punti attesi a partita, il valore più alto del campionato, di un soffio davanti a Union Omaha e Forward Madison. La base è stata la difesa: nessun’altra squadra ha concesso occasioni di valore più basso.</p>
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-18-ac-boise-ha-raccolto-i-punti-che-le-sue-occasioni-valevano/figura_1_punti_attesi.png" class="img-fluid" alt="Grafico a dispersione delle 17 squadre della USL League One nella stagione regolare 2026, con i punti attesi a partita sull'asse orizzontale e i punti a partita su quello verticale, e una diagonale tratteggiata dove i punti sono uguali ai punti attesi. Athletic Club Boise si trova sulla diagonale, con 1,78 punti attesi e 1,81 punti a partita. Charlotte Independence si trova molto sopra, con 1,52 punti attesi e 2,06 punti a partita."></p>
+<p>Nel grafico ogni punto è una squadra, collocata per punti attesi a partita in orizzontale e per punti a partita in verticale. Una squadra sulla linea tratteggiata ha raccolto quanto meritavano le sue occasioni, e una squadra sopra la linea ha raccolto di più. Boise è sulla linea, con 58 punti contro 56,8 attesi.</p>
+<p>Quella corrispondenza quasi esatta è arrivata per una strada più stretta di quanto dica il totale. Sul tasso del campionato Boise ha segnato circa quattro gol in meno di quanto promettevano le sue occasioni e ne ha subiti circa tre in più di quanto valevano i tiri avversari. Le due punte con le occasioni migliori spiegano più di tutto l’ammanco in attacco: insieme hanno segnato 14 gol da occasioni che al tasso del campionato ne avrebbero prodotti circa 19.</p>
+<p>Le partite strette hanno restituito i punti. Delle 25 partite di campionato che Boise ha pareggiato o deciso con un gol di scarto ne ha perse solo cinque, e una sola squadra ha fatto meglio in partite del genere.</p>
+</section>
+<section id="una-seconda-metà-più-forte" class="level2">
+<h2 class="anchored" data-anchor-id="una-seconda-metà-più-forte">Una seconda metà più forte</h2>
+<p>Le occasioni di Boise sono cresciute di valore nel corso dell’anno, da 1,57 gol attesi a partita nella prima metà del campionato a 2,03 nella seconda, mentre il valore di quelle concesse è cambiato appena.</p>
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-18-ac-boise-ha-raccolto-i-punti-che-le-sue-occasioni-valevano/figura_2_stagione.png" class="img-fluid" alt="Grafico a linee della stagione regolare 2026 di Athletic Club Boise, dalla partita 8 alla 32, con la media delle otto partite precedenti dei gol attesi creati e concessi. Una linea verticale tratteggiata indica la metà della stagione, dopo la partita 16. I gol attesi creati salgono dopo la metà della stagione, quelli concessi restano piatti."></p>
+<p>Il grafico segue la media delle otto partite di campionato precedenti: la linea verde riporta gli xG creati da Boise e quella grigia gli xG concessi. Dopo la linea tratteggiata di metà stagione la verde sale mentre la grigia resta piatta. La crescita si è vista anche in trasferta, anche se su sette e nove partite fuori casa una differenza di quella misura rientra in quanto produce il caso.</p>
+<p>I punti sono saliti più di quanto spieghino le sole occasioni. Nella seconda metà i punti attesi sono cresciuti di circa quattro e i punti veri di dieci, soprattutto perché Boise ha subito 16 gol su tiro dopo i 22 della prima metà, a parità di valore delle occasioni concesse. Una parte del livello della seconda metà si regge quindi su gol subiti al di sotto del valore delle occasioni concesse, uno scarto che potrebbe non durare.</p>
+</section>
+<section id="charlotte-17-punti-sopra-le-sue-occasioni" class="level2">
+<h2 class="anchored" data-anchor-id="charlotte-17-punti-sopra-le-sue-occasioni">Charlotte, 17 punti sopra le sue occasioni</h2>
+<p>Charlotte Independence ha chiuso prima con occasioni che per valore erano solo seste, e nei dati di ASA nessun’altra squadra si è avvicinata a meno di dieci punti da quel surplus.</p>
+<p>Il surplus è venuto da tutte e due le aree. Sul tasso del campionato Charlotte ha segnato circa nove gol in più di quanto promettevano le sue occasioni e ne ha subiti circa dodici in meno di quanto valevano i tiri avversari. Così ha chiuso con la migliore differenza reti del campionato.</p>
+<p>Scarti di questo tipo vanno in tutte e due le direzioni. Greenville Triumph SC e New York Cosmos sono rimaste ciascuna tra tredici e quindici punti sotto le proprie occasioni, mentre per il resto del campionato la dispersione tra punti e punti attesi è di circa sei punti in una stagione. I dati di tiro non dicono quanta parte del surplus di Charlotte venga dal portiere, dagli attaccanti o dagli errori degli avversari.</p>
+</section>
+<section id="calci-dangolo-e-trasferte" class="level2">
+<h2 class="anchored" data-anchor-id="calci-dangolo-e-trasferte">Calci d’angolo e trasferte</h2>
+<p>I calci d’angolo hanno dato a Boise il 15% dei suoi gol attesi, contro il 12% del campionato nel suo insieme, e nessuna squadra ha concesso meno da angolo. I due totali sono piccoli, meno di dieci gol in tutta la stagione, quindi bastano pochi colpi di testa in un senso o nell’altro per cambiare la classifica.</p>
+<p>In media, in League One la differenza di xG di una squadra è stata di circa 0,9 gol a partita più favorevole in casa che in trasferta. Boise è stata l’unica squadra le cui occasioni in trasferta hanno superato quelle concesse, con un margine che il caso da solo può produrre.</p>
+</section>
+<section id="le-ultime-tre-partite" class="level2">
+<h2 class="anchored" data-anchor-id="le-ultime-tre-partite">Le ultime tre partite</h2>
+<p>Boise ha aperto i playoff come aveva giocato la stagione, con un 2-0 in casa su One Knoxville in cui non ha concesso quasi nessuna occasione. Contro Chattanooga Red Wolves le sono serviti i supplementari e un solo gol per passare, dopo aver tirato più del doppio dell’avversario.</p>
+<p>La finale si è giocata allo Sportsplex at Matthews, uno dei due stadi in cui Charlotte ha giocato le partite in casa. Charlotte aveva vinto la stagione regolare, e con essa <a href="https://ussoccer.com/stories/2026/10/federation/everything-you-need-to-know-about-the-2026-usl-league-one-playoffs">il fattore campo per tutti i playoff</a>. Boise era in vantaggio all’intervallo, secondo Idaho News, ed era ancora avanti 2-1 negli ultimi minuti, prima che Charlotte segnasse tre gol nel finale.</p>
+<p>Le occasioni spiegano la sconfitta meglio della sfortuna, anche se in modo meno netto di quanto dicano i totali. Su tutta la finale le occasioni di Charlotte valevano molto più di quelle di Boise, ma il 57% dei gol attesi di Charlotte è arrivato mentre inseguiva, quando qualunque squadra si spinge in avanti. A punteggio pari Charlotte ha comunque creato occasioni da 1,3 gol attesi contro 0,8 di Boise.</p>
+<p>La partita di maggio all’American Legion Memorial Stadium, dove Charlotte ha giocato la maggior parte delle gare in casa, era andata allo stesso modo. A punteggio pari Charlotte aveva creato occasioni di gran lunga migliori, un rigore sbagliato compreso, e aveva vinto con un gol di scarto. A Boise, a settembre, l’equilibrio si è rovesciato e la partita è finita in parità.</p>
+</section>
+<section id="che-cosa-dice-la-stagione" class="level2">
+<h2 class="anchored" data-anchor-id="che-cosa-dice-la-stagione">Che cosa dice la stagione</h2>
+<p>Per le occasioni create e concesse, la prima stagione di Boise è stata quella di una squadra di vertice, e i punti sono stati all’altezza di quelle occasioni nel corso dell’anno. La seconda metà è stata più forte nelle occasioni e ancora di più nei risultati, aiutata da meno gol subiti. Charlotte, la campione, è andata oltre i propri numeri più di chiunque altro, e in casa ha superato Boise due volte.</p>
+<p>Per lo staff e i tifosi di Boise, questa lettura cambia che cosa aspettarsi dalle prove dell’ultima stagione.</p>
+<ul>
+<li>Non aspettatevi un rimbalzo della fortuna su una stagione intera, perché in League One i punti di Boise corrispondevano già alle sue occasioni.</li>
+<li>Giudicate i primi mesi sulle occasioni create e concesse, perché in questo campionato la classifica si è allontanata da esse di tre punti o più per la maggior parte delle squadre.</li>
+</ul>
+<p>La lettura si basa su una sola stagione in terza serie. La prossima porta avversari più forti e una rosa cambiata, e nulla nei dati della League One misura come le occasioni di Boise reggeranno un livello più in alto. Il modello di xG è di ASA, e nessuna fonte che questo pezzo ha potuto controllare pubblica quanto si adatti alla League One. Una stima sul solo campionato direbbe se i gol mancanti dipendono dal modello o dai giocatori. Il pezzo usa solo i dati di tiro e lascia fuori i valori di ASA per passaggi e recuperi. I dati pubblici di questo campionato, poi, non registrano gli infortuni.</p>
+<p><em>Come è fatto questo pezzo.</em> Dati dall’interfaccia pubblica di <a href="https://app.americansocceranalysis.com/">American Soccer Analysis</a> per la stagione 2026 della USL League One, scaricati il 18 novembre. ASA registra tutte le partite della stagione regolare tranne due, entrambe in casa di Chattanooga. I gol attesi sono la somma degli xG di ASA per ogni tiro; i punti attesi sono il valore calcolato da ASA sul suo modello di xG per squadra, che differisce di poco dalla somma tiro per tiro. La stagione si divide dopo la prima metà delle partite di campionato, e una divisione all’inizio di luglio dà lo stesso quadro. I gol confrontati con gli xG escludono le autoreti, che non hanno un tiro, e ASA può ancora rivedere i tiri della finale nei giorni successivi. I grafici restano in inglese.</p>
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · 18 novembre 2026</p>
+</div>
+</section>
+
+
+ ]]></description>
+  <category>Calcio</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-11-18-ac-boise-ha-raccolto-i-punti-che-le-sue-occasioni-valevano/</guid>
+  <pubDate>Wed, 18 Nov 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>AC Boise’s points matched its chances, among League One’s best</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-11-18-ac-boise-s-points-matched-its-chances-among-league-one-s-bes/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#2F6B3A;--tema-fg:#F4EEDF;--tema-acc:#F2C46B;--tema-ink:#2F6B3A;--tinta:#E6E8DA;}</style>
+<header class="apertura column-screen apertura-long" style="--fig-bg:#2F6B3A;--fig-fg:#F4EEDF;--fig-acc:#F2C46B"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 22 · football · Nov 18, 2026</p><h1 class="apertura-titolo">AC Boise’s points matched its chances, among League One’s best</h1><p class="apertura-sommario">Athletic Club Boise’s first League One season, read through public shot data: chances among the league’s best, points to match, a stronger second half, and a final lost late at Charlotte.</p><p class="tag-riga"><a class="tag-argomento" href="../../../en/blog.html#category=Football">Football</a></p><a class="testata-torna" href="../../../en/blog_calcio.html">↩ back to Football</a></div></div></header>
+
+<script>(function(){const b=document.querySelector('.barra-lettura');function s(){const h=document.documentElement;
+const t=h.scrollHeight-h.clientHeight;b.style.transform='scaleX('+(t>0?h.scrollTop/t:0)+')';}
+addEventListener('scroll',s,{passive:true});s();})();</script>
+<div class="in-breve">
+<p>Over the regular season, Athletic Club Boise created and allowed chances worth as many points as those of any team in USL League One. It finished with close to the points those chances deserved.</p>
+<p>In the second half of the season Boise created more than in the first without allowing more, and its points rose further still because it conceded fewer goals from chances of similar value.</p>
+<p>The title went to Charlotte Independence, which won far more points than its own chances deserved, the widest gap in the league.</p>
+<p>In the final Boise led until the closing minutes, yet across both games played at Charlotte’s home stadiums the hosts created more, even while the game was tied.</p>
+</div>
+<div class="capoverso-primo">
+<p>Athletic Club Boise ended its first season in USL League One, the third tier of American professional soccer, with a lost final and a place among the league’s best teams by the quality of its chances. Over the regular season its points came out close to where those chances put them, and the final went 4-2 to Charlotte Independence, a team that beat its own chances by a wider margin than anyone else.</p>
+</div>
+<p>It matters because Boise moves up to the USL Championship, the second tier, next season at the league’s invitation, as <a href="https://www.kivitv.com/video/sports/athletic-club-boise-to-join-usl-championship-in-2027-expand-stadium">KIVI reported</a>. A team that lost points to bad luck could expect them back without changing anything, and Boise’s numbers offer no such comfort, although they also describe a side that improved as the year went on. According to <a href="https://idahonews.com/newsletter-daily/ac-boise-falls-4-2-in-usl-league-1-final-against-charlotte-independence">Idaho News</a>, the club was only the second expansion team to reach the final in its first season.</p>
+<section id="how-the-chances-are-counted" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="how-the-chances-are-counted">How the chances are counted</h2>
+<p>The data come from American Soccer Analysis, or ASA, the site that publishes advanced data for North American leagues, League One shots included. Each shot carries a value in expected goals, or xG: the probability that a shot of that kind, from that spot, becomes a goal. A team’s xG adds up to the goals its chances were worth, and ASA turns the xG of a game into expected points, the points those chances would bring.<sup>1</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;ASA’s <a href="https://www.americansocceranalysis.com/glossary">glossary</a> defines expected points as “Expected team points earned based on xG (team model)”.</p></div></div><p>This league needs its own yardstick. League One teams scored about nine goals for each ten expected over the regular season, so falling short of xG is normal here. In what follows, a team’s goals are measured against that league rate rather than against the model.</p>
+</section>
+<section id="among-the-best-three-by-chances" class="level2">
+<h2 class="anchored" data-anchor-id="among-the-best-three-by-chances">Among the best three by chances</h2>
+<p>By ASA’s measure, Boise’s chances were worth 1.78 expected points a game, the highest figure in the division by a hair over Union Omaha and Forward Madison. Defence was the base of it, since no other team allowed chances of lower value.</p>
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-18-ac-boise-s-points-matched-its-chances-among-league-one-s-bes/figura_1_punti_attesi.png" class="img-fluid" alt="Scatter plot of the 17 USL League One teams in the 2026 regular season, with expected points per game on the horizontal axis and points per game on the vertical axis, and a dashed diagonal where points equal expected points. Athletic Club Boise is on the diagonal at 1.78 expected points and 1.81 points per game. Charlotte Independence is far above it, at 1.52 expected points and 2.06 points per game."></p>
+<p>In the chart each dot is a team, placed by expected points per game across and by points per game up. A team on the dashed line won what its chances deserved, and a team above it won more. Boise is on the line, with 58 points against an expected tally of 56.8.</p>
+<p>That near match came by a narrower road than the total suggests. Measured against the league rate, Boise scored about four goals fewer than its chances implied and conceded about three more than the shots against it were worth. The two strikers with the most valuable chances account for more than the whole shortfall up front: between them they scored 14 goals from chances that would have produced about 19 at the league rate.</p>
+<p>Close games brought the points back. Of the 25 league games that Boise drew or decided by a single goal it lost only five, and just one team had a better record in such games.</p>
+</section>
+<section id="a-stronger-second-half" class="level2">
+<h2 class="anchored" data-anchor-id="a-stronger-second-half">A stronger second half</h2>
+<p>Boise’s chances grew in value through the year, from 1.57 expected goals a game in the first half of the league season to 2.03 in the second, while the value of what it allowed barely changed.</p>
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-18-ac-boise-s-points-matched-its-chances-among-league-one-s-bes/figura_2_stagione.png" class="img-fluid" alt="Line chart of Athletic Club Boise's 2026 regular season, from league game 8 to game 32, showing the eight-game average of expected goals created and expected goals allowed. A dashed vertical line shows midseason after game 16. Expected goals created rise after midseason, while expected goals allowed stay flat."></p>
+<p>The chart follows the average of the previous eight league games, in which the green line tracks the xG Boise created and the grey line the xG it allowed, and after the dashed midseason line the green climbs while the grey stays flat. The rise showed away from home as well, although over seven and nine away games a difference of that size is within what chance produces.</p>
+<p>Points rose more than the chances alone would explain. Over the second half expected points grew by about four and actual points by ten, largely because Boise conceded 16 goals from shots after 22 in the first half, from chances allowed of similar value. Part of the second-half level therefore rests on goals conceded below the value of the chances allowed, a gap that may not last.</p>
+</section>
+<section id="charlotte-17-points-above-its-chances" class="level2">
+<h2 class="anchored" data-anchor-id="charlotte-17-points-above-its-chances">Charlotte, 17 points above its chances</h2>
+<p>Charlotte Independence finished first from chances whose value ranked only sixth, and in ASA’s data no other team came within ten points of its surplus.</p>
+<p>That surplus came from both ends of the pitch. By the league rate, Charlotte scored about nine goals more than its chances implied and conceded about twelve fewer than the shots against it were worth, which gave it the best goal difference in the division.</p>
+<p>Gaps of this kind run both ways. Greenville Triumph SC and New York Cosmos each fell between thirteen and fifteen points short of their chances, while for the rest of the league the spread between points and expected points is about six points over a season. Shot data cannot say how much of Charlotte’s surplus came from its goalkeeper, from its finishers or from its opponents’ misses.</p>
+</section>
+<section id="corners-and-the-road" class="level2">
+<h2 class="anchored" data-anchor-id="corners-and-the-road">Corners and the road</h2>
+<p>Corners gave Boise 15% of its expected goals, against 12% for the league as a whole, and no team allowed less from them. Both totals are small, worth fewer than ten goals over the season, so a handful of headers either way would change the ranking.</p>
+<p>On average, a team’s xG difference in League One was about 0.9 goals a game better at home than away. Boise was the only team whose chances on the road outweighed those it allowed, by a margin that chance alone could produce.</p>
+</section>
+<section id="the-three-games-at-the-end" class="level2">
+<h2 class="anchored" data-anchor-id="the-three-games-at-the-end">The three games at the end</h2>
+<p>Boise opened the playoffs as it had played the season, with a 2-0 home win over One Knoxville in which it allowed almost no chances. Against Chattanooga Red Wolves it needed extra time and a single goal to go through, after taking more than twice as many shots as its opponent.</p>
+<p>The final was played at the Sportsplex at Matthews, one of the two stadiums where Charlotte played its home games. Charlotte had won the regular season, and with it <a href="https://ussoccer.com/stories/2026/10/federation/everything-you-need-to-know-about-the-2026-usl-league-one-playoffs">home field throughout the playoffs</a>. Boise led at the break, according to Idaho News, and was still ahead 2-1 in the closing minutes, before Charlotte scored three late goals.</p>
+<p>Chances explain the defeat better than luck does, although less sharply than the totals suggest. Over the whole final Charlotte’s chances were worth far more than Boise’s, but 57% of Charlotte’s expected goals came while it was chasing the game, when any side pushes forward. While the game was tied, Charlotte still created chances worth 1.3 expected goals to Boise’s 0.8.</p>
+<p>The May meeting at the American Legion Memorial Stadium, where Charlotte played most of its home games, had gone the same way. With the game level Charlotte created by far the better chances, a missed penalty among them, and won by a single goal. In Boise in September the balance reversed and the game ended level.</p>
+</section>
+<section id="what-the-season-says" class="level2">
+<h2 class="anchored" data-anchor-id="what-the-season-says">What the season says</h2>
+<p>By the chances it created and allowed, Boise’s first season was that of a top side, and its points matched those chances over the year. The second half was stronger in chances and stronger still in results, helped by fewer goals conceded. Charlotte, the champion, ran further ahead of its numbers than anyone, and at home it outplayed Boise twice.</p>
+<p>For Boise’s staff and supporters, the reading changes what to expect from last season’s evidence.</p>
+<ul>
+<li>Expect no rebound from luck over a full season, because Boise’s points already matched its chances in League One.</li>
+<li>Judge the first months on the chances created and allowed, since in this league the table drifted from them by three points or more for most teams.</li>
+</ul>
+<p>The reading rests on one season in the third tier. Next season brings stronger opponents and a changed squad, and nothing in League One data measures how Boise’s chances will travel up a level. ASA owns the xG model, and no source this piece could check publishes how well it fits League One. A fit on this league alone would show whether the missing goals belong to the model or to the players. This piece uses shot data only, leaving aside ASA’s values for passing and ball-winning, and public data for this league do not record injuries.</p>
+<p><em>How this piece was made.</em> Data from the public interface of <a href="https://app.americansocceranalysis.com/">American Soccer Analysis</a> for the 2026 USL League One season, retrieved on 18 November. ASA records every regular-season game but two, both of them Chattanooga home games. Expected goals are the sum of ASA’s xG for each shot; expected points are ASA’s own figure, built on its team-level xG model, which differs slightly from the shot-by-shot sum. The season is split after the first half of the league games, and a split at the start of July gives the same picture. Goals compared with xG exclude own goals, which have no shot attached, and ASA may still revise the shots of the final in the days after it.</p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · November 18, 2026</p>
+</div>
+</section>
+
+
+ ]]></description>
+  <category>Football</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-11-18-ac-boise-s-points-matched-its-chances-among-league-one-s-bes/</guid>
+  <pubDate>Wed, 18 Nov 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Quando la garanzia pubblica decade, il working paper in un video</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-11-17-quando-la-garanzia-pubblica-decade-il-working-paper-in-un-vi/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#2B2D42;--tema-fg:#F4EEDF;--tema-acc:#F2B544;--tema-ink:#2B2D42;--tinta:#E5E2DB;}</style>
+<header class="apertura column-screen" style="--fig-bg:#2B2D42;--fig-fg:#F4EEDF;--fig-acc:#F2B544"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 16 · video · 17 nov 2026</p><h1 class="apertura-titolo">Quando la garanzia pubblica decade, il working paper in un video</h1><p class="apertura-sommario">Il Fondo centrale di garanzia nega il rimborso se la banca ha istruito la pratica senza diligenza: il ragionamento del working paper e il caso di Banca Progetto.</p><p class="tag-riga"><a class="tag-argomento" href="../../../blog/index.html#category=Mercati e credito">Mercati e credito</a><a class="tag-argomento" href="../../../blog/index.html#category=Politiche pubbliche">Politiche pubbliche</a></p><a class="testata-torna" href="../../../blog/video.html">↩ torna a Video</a></div></div></header>
+<p>Il Fondo centrale di garanzia rimborsa alla banca gran parte del prestito che una piccola impresa non restituisce. Il rimborso decade se la banca ha istruito la pratica senza la dovuta diligenza, e il working paper «Guarantees That Negligence Voids» studia che cosa cambia per gli incentivi della banca e per il suo capitale. Il video segue il ragionamento fino al caso di Banca Progetto, in meno di due minuti.</p>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-big-play-centered vjs-fluid" controls="" preload="auto" data-setup="{}" title="Guarantees That Negligence Voids, il video"><source src="video_moral_hazard_sito_it.mp4"></video></div>
+<p>Le cifre del video vengono dal manoscritto. L’abstract completo sta nella pagina <a href="../../..\finanza.html">Credito e finanza</a>.</p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · 17 novembre 2026</p>
+</div>
+
+ ]]></description>
+  <category>Mercati e credito</category>
+  <category>Politiche pubbliche</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-11-17-quando-la-garanzia-pubblica-decade-il-working-paper-in-un-vi/</guid>
+  <pubDate>Tue, 17 Nov 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>When a public guarantee is voided, the working paper in a video</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-11-17-when-a-public-guarantee-is-voided-the-working-paper-in-a-vid/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#2B2D42;--tema-fg:#F4EEDF;--tema-acc:#F2B544;--tema-ink:#2B2D42;--tinta:#E5E2DB;}</style>
+<header class="apertura column-screen" style="--fig-bg:#2B2D42;--fig-fg:#F4EEDF;--fig-acc:#F2B544"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 20 · video · Nov 17, 2026</p><h1 class="apertura-titolo">When a public guarantee is voided, the working paper in a video</h1><p class="apertura-sommario">Italy’s Central Guarantee Fund refuses to pay if the bank screened the loan without due diligence: the argument of the working paper and the case of Banca Progetto.</p><p class="tag-riga"><a class="tag-argomento" href="../../../en/blog.html#category=Markets and credit">Markets and credit</a><a class="tag-argomento" href="../../../en/blog.html#category=Public policy">Public policy</a></p><a class="testata-torna" href="../../../en/blog_video.html">↩ back to Video</a></div></div></header>
+<p>Italy’s Central Guarantee Fund repays the bank most of a small-firm loan that goes unpaid. The repayment is voided if the bank screened the loan without due diligence, and the working paper «Guarantees That Negligence Voids» studies what this does to the bank’s incentives and to its capital. The video follows the argument to the case of Banca Progetto in under two minutes.</p>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-big-play-centered vjs-fluid" controls="" preload="auto" data-setup="{}" title="Guarantees That Negligence Voids, the video"><source src="video_moral_hazard_sito_en.mp4"></video></div>
+<p>The figures in the video come from the manuscript. The full abstract is on the <a href="../../..\en/research.html">Research</a> page.</p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · November 17, 2026</p>
+</div>
+
+ ]]></description>
+  <category>Markets and credit</category>
+  <category>Public policy</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-11-17-when-a-public-guarantee-is-voided-the-working-paper-in-a-vid/</guid>
+  <pubDate>Tue, 17 Nov 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Daniela Arques, London City’s passing hub</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-11-16-daniela-arques-london-city-s-passing-hub/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#2F6B3A;--tema-fg:#F4EEDF;--tema-acc:#F2C46B;--tema-ink:#2F6B3A;--tinta:#E6E8DA;}</style>
+<header class="apertura column-screen" style="--fig-bg:#2F6B3A;--fig-fg:#F4EEDF;--fig-acc:#F2C46B"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 13 · football · Nov 16, 2026</p><h1 class="apertura-titolo">Daniela Arques, London City’s passing hub</h1><p class="apertura-sommario">Where she plays, how she passes and how she compares with the WSL’s central midfielders, in three graphics.</p><p class="tag-riga"><a class="tag-argomento" href="../../../en/blog.html#category=Football">Football</a></p><a class="testata-torna" href="../../../en/blog_calcio.html">↩ back to Football</a></div></div></header>
+
+<p>Daniela Arques is London City’s passing hub: only two WSL central midfielders pass more often than her.</p>
+<p>She builds through the middle from deep, then drifts left. In the two games she began on the bench, Grace Geyoro moved over to the left.</p>
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-16-daniela-arques-london-city-s-passing-hub/figura_1_dove.png" class="img-fluid" alt="Heat map of Daniela Arques's 690 touches for London City Lionesses, Women's Super League 2026/27, on a pitch with London City attacking upwards. The darkest areas are in her own half, in front of the defence, and on the left of the opponents' half. Text: Sits deep. 58% of her touches come in her own half, against 50% for a typical WSL holding midfielder; only 4 of the other 16 stay deeper."></p>
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-16-daniela-arques-london-city-s-passing-hub/figura_2_rotte.png" class="img-fluid" alt="Her 8 most-used passing routes as arrows on a pitch, London City attacking upwards. Her three signature routes, used at least 1.5 times as often as by a typical central midfielder, are highlighted on the left flank: two short passes along the left touchline in the opponents' half and a diagonal towards the wing. Text: Drifts left. In her own half she passes mostly through the middle; past halfway 42% of her passes start on the left, against 32% for a typical WSL central midfielder, and only 4 of the other 29 go left more often. In the 2 games she began on the bench, Grace Geyoro moved left: 68% of her passes started there, against 18% alongside Arques."></p>
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-16-daniela-arques-london-city-s-passing-hub/figura_3_confronto.png" class="img-fluid" alt="Ten measures comparing Daniela Arques with the 30 WSL central midfielders with at least 540 minutes, one dot per player; rank 1 is the highest value. On the ball: 3rd for touches and 3rd for passes per 90 minutes, 12th for pass accuracy, 6th for progressive passes, 20th for passes before a shot, 17th for long balls, 19th for touches in the opponents' half. Off the ball: 10th for balls won, 14th for how far up she wins the ball, 2nd of 11 for aerial duels won, 14 of 21. Text: London City's hub. Only 2 WSL central midfielders pass the ball more often; Grace Geyoro ranks 18th."></p>
+<p><em>Women’s Super League 2026/27, matches up to 15 November 2026.</em></p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · November 16, 2026</p>
+</div>
+
+ ]]></description>
+  <category>Football</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-11-16-daniela-arques-london-city-s-passing-hub/</guid>
+  <pubDate>Mon, 16 Nov 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Frida Maanum’s match against London City</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-11-16-frida-maanum-s-match-against-london-city/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#2F6B3A;--tema-fg:#F4EEDF;--tema-acc:#F2C46B;--tema-ink:#2F6B3A;--tinta:#E6E8DA;}</style>
+<header class="apertura column-screen" style="--fig-bg:#2F6B3A;--fig-fg:#F4EEDF;--fig-acc:#F2C46B"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 14 · football · Nov 16, 2026</p><h1 class="apertura-titolo">Frida Maanum’s match against London City</h1><p class="apertura-sommario">Her touches, passes, ball wins and shots in the 1-1 draw of 15 November 2026, on one graphic.</p><p class="tag-riga"><a class="tag-argomento" href="../../../en/blog.html#category=Football">Football</a></p><a class="testata-torna" href="../../../en/blog_calcio.html">↩ back to Football</a></div></div></header>
+
+<p>First WSL start of the season for Frida Maanum, and all three of Arsenal’s big chances went through her: she scored the opener, set up a second and had the third saved at 1-1 in the 77th minute. In all she had a hand in 9 of Arsenal’s 17 shots.</p>
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-16-frida-maanum-s-match-against-london-city/figura.png" class="img-fluid" alt="Graphic titled Frida Maanum's match: Arsenal 1-1 London City, Women's Super League. Stat line: 98 minutes, 49 touches, 22 of 31 passes completed, 7 progressive passes, 4 key passes, 5 shots with 1 goal, 5 ball wins. A heat map shows 67% of her touches in the opponent's half and 47% on the left third of the pitch. A pass map shows her passes, with progressive passes in blue and key passes in red. A pitch shows her 5 ball wins, 3 of them in her own half. A shot map shows 4 of her 5 shots taken inside the box, including the goal in the 10th minute."></p>
+<p><strong>How to read it.</strong> A big chance is a clear scoring chance. A key pass is the pass before a teammate’s shot. A progressive pass is completed, gains at least a tenth of the pitch and cuts the distance to the goal line by at least a quarter. The heat map blurs each of her 49 touches over about 14 metres. Ball wins are balls won back by recoveries, interceptions or tackles, counted once per ball.</p>
+<p><em>Women’s Super League 2026/27.</em></p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · November 16, 2026</p>
+</div>
+
+ ]]></description>
+  <category>Football</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-11-16-frida-maanum-s-match-against-london-city/</guid>
+  <pubDate>Mon, 16 Nov 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>In trent’anni il reddito dei 25-34enni si è allontanato da quello dei 50-64enni</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-11-14-il-reddito-dei-25-34enni-rispetto-ai-50-64enni/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#E58A4E;--tema-fg:#2B2118;--tema-acc:#1F3A5F;--tema-ink:#A3461A;--tinta:#F8EBDC;}</style>
+<header class="apertura column-screen apertura-grafici" style="--fig-bg:#E58A4E;--fig-fg:#2B2118;--fig-acc:#1F3A5F"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 07 · grafici · 14 nov 2026</p><h1 class="apertura-titolo">In trent’anni il reddito dei <span style="white-space:nowrap">25-34enni</span> si è allontanato da quello dei <span style="white-space:nowrap">50-64enni</span></h1><p class="apertura-sommario">Il reddito per fascia d’età dal 1987 al 2022, dall’Indagine sui bilanci delle famiglie della Banca d’Italia.</p><p class="tag-riga"><a class="tag-argomento" href="../../../blog/index.html#category=Lavoro e redditi">Lavoro e redditi</a></p><a class="testata-torna" href="../../../blog/grafici.html">↩ torna a Grafici</a></div></div><div class="apertura-grafico">
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-14-il-reddito-dei-25-34enni-rispetto-ai-50-64enni/figura.png" class="img-fluid" alt="Due grafici a linee dal 1987 al 2022. In alto, il reddito mediano dei 25-34enni in percentuale di quello dei 50-64enni: la linea di tutte le persone scende dal 96% del 1991 al 66% del 2022, con un minimo vicino al 43% nel 2014; la linea di chi ha un reddito scende dal 97% al 74%. In basso, le due mediane in euro del 2022: i 50-64enni salgono da circa 16.000 a 20.000 euro l'anno, i 25-34enni restano intorno ai 13.000 euro."></p>
+</div></header>
+<p>Nel 1991 il reddito netto dei 25-34enni quasi equivaleva a quello dei 50-64enni, nel 2022 ne valeva due terzi.</p>
+<p>Il pannello in alto mostra il reddito mediano dei 25-34enni in percentuale di quello dei 50-64enni. Sotto la linea del 100% i più giovani hanno un reddito più basso.</p>
+<p>La linea blu conta come zero chi non ha reddito, come uno studente o un disoccupato senza sussidio. La linea arancione considera solo chi ha un reddito e scende anch’essa: i più giovani hanno perso terreno anche quando un reddito lo hanno.</p>
+<p>La distanza tra le due linee dipende soprattutto da quante persone non hanno reddito in ciascuna fascia d’età. Questa quota è calata più tra i 50-64enni che tra i 25-34enni, da poco più di un quinto a un ottavo, e per questo le linee si sono allontanate.</p>
+<p>Il pannello in basso mostra le due mediane in euro del 2022. Nel 2022 un 25-34enne disponeva in mediana di circa 1.100 euro netti al mese, quasi quanto un suo coetaneo del 1993. Nello stesso periodo il reddito mediano dei 50-64enni è cresciuto di circa un quarto.</p>
+<p>Il confronto aiuta chi disegna le politiche per i giovani adulti: il loro ritardo riguarda il livello dei redditi, oltre che l’accesso a un reddito.</p>
+<p><em>Fonte: Banca d’Italia, Indagine sui bilanci delle famiglie, archivio storico 1977-2022. La fascia chiara è l’intervallo di confidenza al 90%.</em></p>
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · 14 novembre 2026</p>
+</div>
+
+ ]]></description>
+  <category>Lavoro e redditi</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-11-14-il-reddito-dei-25-34enni-rispetto-ai-50-64enni/</guid>
+  <pubDate>Sat, 14 Nov 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Planned AI power is heading to smaller US cities</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-11-14-smaller-us-cities-and-planned-ai-power/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#E58A4E;--tema-fg:#2B2118;--tema-acc:#1F3A5F;--tema-ink:#A3461A;--tinta:#F8EBDC;}</style>
+<header class="apertura column-screen apertura-grafici" style="--fig-bg:#E58A4E;--fig-fg:#2B2118;--fig-acc:#1F3A5F"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 12 · charts · Nov 14, 2026</p><h1 class="apertura-titolo">Planned AI power is heading to smaller US cities</h1><p class="apertura-sommario">Where the large AI data centers tracked by Epoch AI plan their power, county by county.</p><p class="tag-riga"><a class="tag-argomento" href="../../../en/blog.html#category=Artificial intelligence">Artificial intelligence</a><a class="tag-argomento" href="../../../en/blog.html#category=Places">Places</a></p><a class="testata-torna" href="../../../en/blog_grafici.html">↩ back to Charts</a></div></div><div class="apertura-grafico">
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-14-smaller-us-cities-and-planned-ai-power/figura.png" class="img-fluid" alt="Map of the contiguous United States with counties shaded in three classes and orange circles for 77 large AI data centers, followed by bars of the share of land, population, ordinary data centers and AI power in each class. Smaller cities, metro areas under one million people, hold 29% of Americans, 42% of the AI power drawn today and 58% of the power planned."></p>
+</div></header>
+<p>Smaller American cities hold under a third of the population and more than half of the power planned for large AI data centers.</p>
+<p>The map shows the 77 large AI data centers in the United States tracked by the research institute Epoch AI. The solid disc is the power each site draws today and the ring the power planned by 2030. Blue counties belong to metro areas under one million people, grey counties to metro areas of one million or more, and pale counties are nonmetro.</p>
+<p>The bars below compare the three types of county. Nonmetro counties cover two thirds of the land, yet their share of planned power stays close to their share of Americans. Ordinary data centers mapped by volunteers on OpenStreetMap are mostly in big cities. The smaller cities hold about two fifths of the AI power drawn today and more than half of the power planned.</p>
+<p>The two largest planned sites, Microsoft Fairwater in Racine County, Wisconsin, and OpenAI Stargate in Doña Ana County, New Mexico, are in smaller cities. The largest rural project, OpenAI Stargate Shackelford in Texas, is planned in a county of about three thousand residents.</p>
+<p>For utilities and regional planners in metro areas under one million people, the chart shows that most planned AI power is headed to places like theirs.</p>
+<p><em>Sources: Epoch AI, Frontier Data Centers, data of November 5, 2026, CC-BY 4.0 license; USDA Economic Research Service, Rural-Urban Continuum Codes 2023; US Census Bureau, county boundaries 2023; © OpenStreetMap contributors, downloaded on October 5, 2026, ODbL license.</em></p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · November 14, 2026</p>
+</div>
+
+ ]]></description>
+  <category>Artificial intelligence</category>
+  <category>Places</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-11-14-smaller-us-cities-and-planned-ai-power/</guid>
+  <pubDate>Sat, 14 Nov 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Il caro-carburanti e l’impatto su agricoltori e autotrasportatori</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-10-20-il-caro-carburanti-e-l-impatto-su-agricoltori-e-autotrasport/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#9E3B2A;--tema-fg:#F4EEDF;--tema-acc:#F2C46B;--tema-ink:#9E3B2A;--tinta:#F1E3D9;}</style>
+<header class="apertura column-screen apertura-long" style="--fig-bg:#9E3B2A;--fig-fg:#F4EEDF;--fig-acc:#F2C46B"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 06 · long read · 20 ott 2026</p><h1 class="apertura-titolo">Il caro-carburanti e l’impatto su agricoltori e autotrasportatori</h1><p class="apertura-sommario">Dall’inizio della guerra in Medio Oriente un litro di gasolio costa alla pompa 56,5 centesimi in più. Per i camion pesanti il costo del carburante sale del 42%, e i tagli alle accise non lo riducono.</p><p class="tag-riga"><a class="tag-argomento" href="../../../blog/index.html#category=Energia">Energia</a><a class="tag-argomento" href="../../../blog/index.html#category=Politiche pubbliche">Politiche pubbliche</a></p><a class="testata-torna" href="../../../blog/long.html">↩ torna a Long read</a></div></div></header>
+
+<script>(function(){const b=document.querySelector('.barra-lettura');function s(){const h=document.documentElement;
+const t=h.scrollHeight-h.clientHeight;b.style.transform='scaleX('+(t>0?h.scrollTop/t:0)+')';}
+addEventListener('scroll',s,{passive:true});s();})();</script>
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-20-il-caro-carburanti-e-l-impatto-su-agricoltori-e-autotrasport/copertina_1920x1080.png" class="img-fluid"></p>
+<div class="capoverso-primo">
+<p>Dall’inizio della guerra in Medio Oriente un litro di gasolio costa alla pompa 56,5 centesimi in più. Per i camion pesanti il costo del carburante sale del 42%, e i tagli alle accise non lo riducono.</p>
+</div>
+<p>Il 12 ottobre 2026 un litro di gasolio costava in Italia 2,24 euro alla pompa, mentre nelle settimane prima della guerra in Medio Oriente, ne costava 1,68 € (1). In Italia a settembre i prezzi al consumo dei carburanti superavano del 26,7% il livello di un anno prima, e in Francia e in Spagna l’aumento era ancora maggiore, del 34,3% e del 30,8% rispettivamente. I settori più colpiti dal rincaro sono quelli che lavorano con il gasolio: l’autotrasporto, che in Italia muove su strada quasi nove decimi delle merci, e l’agricoltura, che con il gasolio lavora i campi e porta i prodotti al mercato.</p>
+<section id="da-che-cosa-dipende-il-rincaro" class="level2">
+<h2 class="anchored" data-anchor-id="da-che-cosa-dipende-il-rincaro">Da che cosa dipende il rincaro</h2>
+<p>Scomporre il prezzo alla pompa permette di capire cosa determina il rincaro, e quindi su quale parte del prezzo possono agire il governo e le imprese. La scomposizione è possibile perché due parti del prezzo si conoscono da fonti pubbliche: il greggio ha una quotazione giornaliera, e le tasse applicate sono fissate dalla legge. Il costo del greggio contenuto in un litro di gasolio si calcola a partire dal prezzo del Brent, il petrolio che fa da riferimento per i prezzi europei, e dal cambio tra euro e dollaro. La filiera, nome dato qui a tutto ciò che separa il greggio dal distributore, comprende raffinazione, trasporto, logistica e margini della vendita, mentre le tasse sono accise e l’IVA (2).</p>
+<p>Dei 56,5 centesimi di rincaro di un litro di gasolio, 35,4 centesimi sono attribuibili al costo del greggio, il 63% del totale. Il Brent è passato da 68 a 127 dollari al barile, salendo dell’88%, e il greggio contenuto in un litro di gasolio da 36,2 a 71,5 centesimi. Il blocco dello Stretto di Hormuz, da cui prima della guerra passava «circa il 20% del greggio mondiale», è con ogni probabilità all’origine di gran parte di questo rialzo (1).</p>
+<p>La filiera aggiunge 10,9 centesimi al litro, il 19% del rincaro. Le tasse aggiungono 10,2 centesimi al litro, il 18% del rincaro, tutti di IVA. L’accisa è un importo fisso per litro, e secondo i prezzi del bollettino petrolifero europeo il 12 ottobre era tornata al livello di prima della guerra. L’IVA è invece una percentuale, il 22%, che resta la stessa mentre l’importo cresce con il prezzo: su un litro che costa 1 euro prima dell’IVA sono 22 centesimi, su un litro che ne costa 2 sono 44 centesimi. L’IVA si calcola inoltre sul prezzo che comprende già le accise, per cui ogni rincaro del greggio o della filiera porta con sé un aumento dell’IVA.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-20-il-caro-carburanti-e-l-impatto-su-agricoltori-e-autotrasport/F1_scomposizione_gasolio.png" class="img-fluid figure-img"></p>
+<figcaption>La scomposizione del prezzo del gasolio in Italia, Francia e Spagna, prima della guerra e il 12 ottobre 2026</figcaption>
+</figure>
+</div>
+<p>In Francia un litro di gasolio è salito di 68,3 centesimi, e la filiera ha avuto un peso maggiore che in Italia, il 32% del rincaro contro il 19% italiano. I dati pubblici non permettono di spiegare la differenza: la filiera francese costava di più già prima della guerra, 40 centesimi al litro di gasolio contro 34 in Italia. In Spagna il governo ha ridotto l’accisa sul gasolio di 20 centesimi al litro, una misura più ampia dell’aumento dell’IVA, salita di 8,5 centesimi, per cui le tasse nel complesso sono scese di 11,5 centesimi mentre il prezzo saliva.</p>
+</section>
+<section id="le-accise" class="level2">
+<h2 class="anchored" data-anchor-id="le-accise">Le accise</h2>
+<p>Il governo italiano ha messo mano a più riprese all’accisa con l’obiettivo di calmierare il prezzo del carburante alla pompa. Il decreto legge 33 del 18 marzo 2026 l’ha ridotta su benzina e gasolio, e i decreti successivi ne hanno cambiato più volte la misura (3). Calcolata dai prezzi del bollettino petrolifero europeo, l’accisa sul gasolio scende di 20 centesimi al litro a partire dalla settimana del 23 marzo, risale a gradini fino a luglio, si riduce di nuovo ad agosto e torna al livello pieno nella settimana del 12 ottobre. Nel complesso l’accisa è rimasta ridotta per 25 settimane, mentre la Francia non ha toccato la propria.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-20-il-caro-carburanti-e-l-impatto-su-agricoltori-e-autotrasport/F1b_accisa_gasolio.png" class="img-fluid figure-img"></p>
+<figcaption>L’accisa sul gasolio nel 2026 in Italia, Francia e Spagna</figcaption>
+</figure>
+</div>
+<p>Al livello pieno l’accisa italiana vale dal 1° gennaio 2026 672,90 euro ogni mille litri, cioè 67,29 centesimi per ogni litro di benzina o di gasolio (4). Dal testo unico del 1995 è un’aliquota sola, che ha fuso in una voce gli aumenti decisi nei decenni precedenti. L’elenco che torna a circolare quando il prezzo sale nomina proprio quegli aumenti: la guerra d’Etiopia del 1935, la crisi di Suez del 1956, il disastro del Vajont del 1963, l’alluvione di Firenze del 1966, i terremoti dal Belice all’Irpinia, la missione in Libano del 1983. Sono le tappe con cui l’aliquota ha raggiunto il livello attuale, e non imposte separate che si pagano ancora per quegli scopi: il sovrapprezzo del 1935, per esempio, fu revocato nel 1936. Dopo il 1995 l’accisa è stata aumentata almeno altre undici volte (4).</p>
+<p>Accise e IVA insieme pesano sul prezzo più di quanto lasci intendere l’aliquota del 22%. Il 12 ottobre facevano il 51% del prezzo di un litro di benzina e il 48% di quello di un litro di gasolio, e l’IVA calcolata sull’accisa aggiungeva da sola 14,8 centesimi a ogni litro. Prima della guerra la quota delle tasse era più alta, il 59% sulla benzina e il 58% sul gasolio, perché l’accisa resta ferma in centesimi mentre il resto del prezzo sale.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-20-il-caro-carburanti-e-l-impatto-su-agricoltori-e-autotrasport/F1c_tasse_benzina_gasolio.png" class="img-fluid figure-img"></p>
+<figcaption>Che cosa compone il prezzo di un litro di benzina e di gasolio in Italia</figcaption>
+</figure>
+</div>
+</section>
+<section id="il-prezzo-che-pagano-le-imprese" class="level2">
+<h2 class="anchored" data-anchor-id="il-prezzo-che-pagano-le-imprese">Il prezzo che pagano le imprese</h2>
+<p>Il prezzo alla pompa è quello che paga il consumatore finale, mentre un’impresa in regime IVA ordinario detrae l’IVA, ovvero sottrae l’IVA pagata sui propri acquisti da quella incassata sulle proprie vendite e così la recupera. L’accisa invece non si recupera, per cui il costo di un litro di gasolio per un’impresa è il prezzo senza tasse più le accise: in Italia è passato da 1,37 a 1,84 euro al litro, 46,3 centesimi in più. In percentuale l’aumento è lo stesso della pompa, il 33,7%, essendo l’IVA proporzionale al prezzo.</p>
+<p>Per l’autotrasporto pesante vale un regime a parte, quello del gasolio commerciale, per cui le imprese con veicoli da 7,5 tonnellate in su, di classe Euro 5 o superiore, pagano alla pompa l’accisa normale, e chiedono poi allo Stato, per ogni trimestre di consumi, la restituzione della parte che supera l’aliquota agevolata, che «resta fissata a 403,22 euro per mille litri». Per i consumi del secondo trimestre 2026 il rimborso è andato da 69,68 a 219,68 euro per mille litri di gasolio (5). Con l’accisa agevolata e senza IVA un litro di gasolio costa a un camion pesante 1,57 euro, rispetto a 1,10 prima della guerra, il 42% in più. Ne deriva una conseguenza poco nota: per questi veicoli i tagli dell’accisa non cambiano il costo del gasolio, perché quando l’accisa normale scende si riduce di pari importo il rimborso. Anche l’agricoltura usa un gasolio ad accisa agevolata, il gasolio agricolo.</p>
+</section>
+<section id="quanto-conta-la-strada" class="level2">
+<h2 class="anchored" data-anchor-id="quanto-conta-la-strada">Quanto conta la strada</h2>
+<p>Nel 2024 l’88,4% del trasporto interno di merci viaggiava in Italia su gomma, contro una media dell’Unione europea del 78,2%. In Francia la quota della strada era simile, l’88,3%, e in Spagna più alta, il 96,1% (6).</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-20-il-caro-carburanti-e-l-impatto-su-agricoltori-e-autotrasport/F2_gomma.png" class="img-fluid figure-img"></p>
+<figcaption>La quota della strada nel trasporto interno di merci e la quota dei prodotti agricoli e alimentari</figcaption>
+</figure>
+</div>
+<p>Nel 2025 i prodotti dell’agricoltura e dell’industria alimentare hanno rappresentato il 23,8% delle tonnellate-chilometro percorse dai camion italiani, rispetto al 31,2% in Francia e al 38,6% in Spagna. La tonnellata-chilometro misura una tonnellata di merce trasportata per un chilometro. Le statistiche usate qui sono i dati aperti di Eurostat sul trasporto di merci su strada, raccolti con un’indagine sui veicoli immatricolati in ciascun paese, e contano i camion del paese ovunque viaggino. I generi alimentari portati in Italia da camion stranieri restano quindi fuori dal conto, e il dato italiano sottostima probabilmente il peso del trasporto su gomma nella filiera alimentare.</p>
+</section>
+<section id="il-carburante-nei-conti-dellagricoltura" class="level2">
+<h2 class="anchored" data-anchor-id="il-carburante-nei-conti-dellagricoltura">Il carburante nei conti dell’agricoltura</h2>
+<p>Nel 2025 la voce «energia e lubrificanti» dei conti economici dell’agricoltura valeva il 13,5% dei consumi intermedi dell’agricoltura italiana, cioè dei beni e servizi che le aziende comprano e consumano per produrre: 4,19 miliardi di euro, contro l’11,6% della media europea (7). La voce comprende i carburanti: nel 2024, ultimo anno con il dettaglio, carburanti e altri combustibili ne facevano il 47%, e l’elettricità il 45%. In Francia e in Spagna il peso dell’energia sui consumi intermedi agricoli era più basso, del 9,2% e del 7,1%, mentre in Italia nel 2022 aveva raggiunto il 16,8%.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-20-il-caro-carburanti-e-l-impatto-su-agricoltori-e-autotrasport/F3_agricoltura.png" class="img-fluid figure-img"></p>
+<figcaption>I prezzi dell’energia comprata dalle aziende agricole e i prezzi di vendita dei prodotti</figcaption>
+</figure>
+</div>
+<p>Nel secondo trimestre del 2026 i carburanti per motori comprati dalle aziende agricole italiane costavano il 31,6% in più della media del 2025, mentre i prezzi dei prodotti venduti scendevano dell’1,5%. Nel 2022 i prezzi di vendita erano invece saliti del 17,9% e avevano coperto parte dei costi. Per l’insieme dell’energia il rincaro italiano è stato più contenuto, il 14,1%, mentre in Francia, dove l’accisa non è stata ridotta, ha raggiunto il 37,0%.</p>
+</section>
+<section id="comè-fatto-lautotrasporto" class="level2">
+<h2 class="anchored" data-anchor-id="comè-fatto-lautotrasporto">Com’è fatto l’autotrasporto</h2>
+<p>Il trasporto di merci su strada contava in Italia nel 2024 55.799 imprese e 393.048 occupati, 7,0 occupati per impresa, con un fatturato di 65,4 miliardi di euro (8). L’85,8% delle imprese ha meno di dieci occupati e produce il 23,4% del fatturato del settore, mentre le imprese con almeno 250 occupati ne producono il 21,8%. Nel trasporto terrestre, che comprende anche quello di persone, la Lombardia raccoglie il 17,8% degli occupati e il Mezzogiorno nel suo insieme il 29,0%, 170.452 addetti.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-20-il-caro-carburanti-e-l-impatto-su-agricoltori-e-autotrasport/F4_autotrasporto.png" class="img-fluid figure-img"></p>
+<figcaption>La struttura dell’autotrasporto italiano per classe di dimensione</figcaption>
+</figure>
+</div>
+<p>Il margine operativo lordo, cioè quanto resta dei ricavi dopo aver pagato gli acquisti e il personale, prima di ammortamenti, interessi e imposte, corrisponde all’8,7% del fatturato del settore, e gli acquisti di beni e servizi, gasolio compreso, al 71%. Il Ministero delle infrastrutture e dei trasporti pubblica tabelle dei costi di esercizio di un’impresa di autotrasporto, che imprese e committenti usano come riferimento per trattare le tariffe. Nella versione aggiornata a marzo 2026 il gasolio vale tra il 20% e il 27% del costo per chilometro di un trattore con semirimorchio oltre 26 tonnellate (9).</p>
+<p>In un conto semplificato, se un litro di gasolio commerciale costa stabilmente il 42% in più e il gasolio vale circa un quinto del costo per chilometro, il costo per chilometro cresce di circa l’8%, e se ne vale poco più di un quarto cresce di circa il 12%. Un’impresa media del settore che fattura 100 euro ne spende circa 91 e ne trattiene 8,7 di margine operativo lordo: se le tariffe restano ferme, costi più alti tra l’8% e il 12% le tolgono tra 7,6 e 10,5 euro, quanto basta a consumare quasi tutto il margine o ad azzerarlo. Le imprese piccole difficilmente potrebbero assorbire un aumento simile senza ritoccare le tariffe.</p>
+</section>
+<section id="le-possibili-soluzioni" class="level2">
+<h2 class="anchored" data-anchor-id="le-possibili-soluzioni">Le possibili soluzioni</h2>
+</section>
+<section id="nel-breve-periodo" class="level2">
+<h2 class="anchored" data-anchor-id="nel-breve-periodo">Nel breve periodo</h2>
+<p>Le esperienze del 2022 indicano che lo sconto generalizzato alla pompa arriva ai consumatori solo in parte. In Spagna i distributori applicavano alla cassa uno sconto di 20 centesimi al litro e ne ottenevano il rimborso dall’amministrazione fiscale circa un mese dopo. Le stazioni con i prezzi più bassi hanno alzato i listini più delle altre dopo l’avvio della misura, trattenendo così una parte dello sconto, e l’effetto è stato più forte sul gasolio e tra le stazioni indipendenti. Le differenze di prezzo si sono riassorbite in un periodo tra 36 e 43 giorni (10). In Germania lo Stato ha ridotto l’imposta sui carburanti da giugno ad agosto 2022, con uno sconto pieno di quasi 17 centesimi per un litro di gasolio. Secondo uno studio condotto da Mats Kahl della Leuphana Universität di Lüneburg, ai consumatori ne sono arrivati in media poco meno di 15 centesimi, e meno nelle zone rurali (11).</p>
+<p>Il Fondo monetario internazionale ha ricordato all’Eurogruppo, nel maggio 2026, che circa il 70% delle misure del 2022 non era mirato o distorceva i prezzi, e che un sussidio ai carburanti non mirato va per il 34% al quinto più ricco delle famiglie e per il 9% al quinto più povero (12). Per l’autotrasporto pesante, inoltre, il taglio dell’accisa non incide sostanzialmente, visto il meccanismo di rimborso esistente. Gli strumenti mirati esistono già: il credito d’imposta per le imprese di autotrasporto previsto dal decreto di marzo, nel limite di 100 milioni di euro, e quello per le imprese agricole, fino al 20% della spesa per carburante di marzo, aprile e maggio, con 90 milioni di euro (3). Chi dovesse scegliere come spendere le prossime risorse potrebbe ottenere di più rafforzando questi crediti e i trasferimenti alle famiglie a basso reddito, invece di ridurre l’accisa per tutti.</p>
+</section>
+<section id="nel-medio-periodo" class="level2">
+<h2 class="anchored" data-anchor-id="nel-medio-periodo">Nel medio periodo</h2>
+<p>Nel medio periodo conta la velocità con cui il costo del gasolio si trasmette nelle tariffe dell’autotrasporto, e lo strumento esiste già. Una norma del 2008 prevede che, nei contratti di trasporto che durano più di trenta giorni, la parte del corrispettivo che copre il carburante si adegui quando il prezzo del gasolio cambia di oltre il 2%. Il corrispettivo è il prezzo che il committente paga al trasportatore per il servizio. Dal 2022 questa clausola di adeguamento è un elemento obbligatorio di ogni contratto scritto, e si basa sulle rilevazioni mensili del prezzo del gasolio fatte dal Ministero dell’ambiente (13). Il calcolo è semplice: se il gasolio rincara del 10% e copre il 30% del costo del servizio, la tariffa sale del 3%. Per ottenerlo, però, il trasportatore deve indicare nel contratto o in fattura quanta parte del prezzo copre il carburante, e una guida dell’aprile 2026 della CNA, la Confederazione nazionale dell’artigianato e della piccola e media impresa, avverte che una richiesta fatta in forma semplificata è «soggetta a ritorsioni da parte del committente».</p>
+<p>Il decreto di marzo ha chiesto al Ministero delle infrastrutture di aggiornare ogni mese, fino al 30 giugno, la voce gasolio delle tabelle dei costi, ma sul sito del Ministero, a metà ottobre, l’ultima versione disponibile è ferma al 17 marzo, diciotto giorni dopo l’inizio della guerra. Tabelle aggiornate ogni mese darebbero ai trasportatori una base pubblica per far valere la clausola, e sposterebbero parte del rischio dalle piccole imprese di trasporto ai committenti, che hanno margini e potere contrattuale maggiori.</p>
+</section>
+<section id="nel-lungo-periodo" class="level2">
+<h2 class="anchored" data-anchor-id="nel-lungo-periodo">Nel lungo periodo</h2>
+<p>Nel lungo periodo l’esposizione al prezzo del gasolio dipende dalla quota di merci che viaggia su strada e dal carburante usato. Con l’88,4% delle merci su gomma, 10 punti percentuali sopra la media europea, l’Italia avrebbe spazio per spostare una parte del traffico a lunga distanza su ferrovia e via mare, e per accelerare il ricambio dei mezzi verso motori più efficienti e alimentazioni diverse dal gasolio. Per l’agricoltura la via è simile: meccanizzazione più efficiente e una quota maggiore di energia prodotta in azienda.</p>
+</section>
+<section id="note-e-riferimenti" class="level2">
+<h2 class="anchored" data-anchor-id="note-e-riferimenti">Note e Riferimenti</h2>
+<ol type="1">
+<li><p>Il Sole 24 Ore, «L’impatto della guerra in Iran», dossier lab24, <a href="https://lab24.ilsole24ore.com/guerra-iran-impatto-energia-gas-economia/">https://lab24.ilsole24ore.com/guerra-iran-impatto-energia-gas-economia/</a>. Prezzi al consumo dei carburanti: Eurostat, prc_hicp_minr, voce CP0722, tasso di variazione annuo, settembre 2026.</p></li>
+<li><p>Commissione europea, Weekly Oil Bulletin, file storico dei prezzi con e senza tasse, settimane dal 2021 al 12 ottobre 2026; Brent giornaliero, U.S. Energy Information Administration, serie RBRTE; cambio euro-dollaro, Banca centrale europea. Prima della guerra: media degli otto bollettini dal 5 gennaio al 23 febbraio 2026. Greggio per litro: Brent diviso per il cambio e per 158,987 litri al barile, media della settimana precedente il bollettino. Accisa e IVA per differenza: prezzo con tasse diviso uno più l’aliquota IVA, meno il prezzo senza tasse.</p></li>
+<li><p>Decreto legge 18 marzo 2026, n.&nbsp;33, relazione illustrativa, articoli 2 e 3. Credito per le imprese agricole: articolo 8-ter del decreto legge 38/2026, decreto del Ministero dell’agricoltura del 24 luglio 2026, come riportato da <a href="http://ecnews.it">ecnews.it</a> l’11 settembre 2026.</p></li>
+<li><p>Aliquota: Commissione europea, Weekly Oil Bulletin, foglio «Excise duties», Italia, valore in vigore dal 1° gennaio 2026. Storia dell’accisa: Pagella Politica, «No, non paghiamo ancora la guerra d’Etiopia con la benzina», 27 marzo 2018; D. Puente, «La storia infinita delle accise sul carburante e le promesse mai mantenute», Open, 27 luglio 2026.</p></li>
+<li><p>Informativa dell’Agenzia delle dogane prot. n.&nbsp;353642 del 24 giugno 2026, come riportata da <a href="http://edotto.com">edotto.com</a> il 27 luglio 2026.</p></li>
+<li><p>Eurostat, tran_hv_frmod, quota modale del trasporto interno di merci, 2024; road_go_ta_tg, trasporto di merci su strada per tipo di merce, gruppi NST 01 e 04, 2025.</p></li>
+<li><p>Eurostat, conti economici dell’agricoltura aact_eaa01, valori correnti, voci «Energy; lubricants», «Electricity» e «Other fuels and propellants»; indici dei prezzi dei mezzi di produzione e dei prodotti agricoli apri_pi_inq e apri_pi_outq, base 2020, secondo trimestre 2026.</p></li>
+<li><p>Eurostat, statistiche strutturali sulle imprese, sbs_ovw_act, ramo H4941, 2024; classi di dimensione sbs_sc_ovw, aggregato H494; regioni sbs_r_nuts2021, aggregato H49, occupati nelle unità locali, 2024. Mezzogiorno: Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia e Sardegna.</p></li>
+<li><p>Ministero delle infrastrutture e dei trasporti, «Valori indicativi di riferimento dei costi di esercizio dell’impresa italiana di autotrasporto di merci per conto di terzi aggiornati a marzo 2026», Tabella D, pubblicata il 17 marzo 2026, <a href="https://mit.gov.it/node/21883">https://mit.gov.it/node/21883</a>. Quote calcolate dall’autore sommando le voci del trattore con semirimorchio, sulle colonne dei valori minimi e massimi; la CNA ottiene dalle stesse tabelle il 19,75% e il 27,44% per i veicoli oltre 26 tonnellate, guida citata alla nota 13, p.&nbsp;9. Conto del margine: quota del gasolio per rincaro del gasolio commerciale, applicata ai costi che restano dopo il margine operativo lordo; la tabella descrive un veicolo tipo e non i costi delle imprese reali.</p></li>
+<li><p>M. Hidalgo-Pérez, N. Collado, Á. Martínez-Jorge, «Heterogeneous and dynamic pass-through of a fuel subsidy to consumers: Evidence from Spain», Universidad Pablo de Olavide, WP ECON 25.01, abstract a p.&nbsp;1 e sezioni 3.1 e 3.2, pp.&nbsp;4-5.</p></li>
+<li><p>M. P. Kahl, «Was the German fuel discount passed on to consumers?», Energy Economics 138, 107843, 2024, come sintetizzato dalla Leuphana Universität il 27 agosto 2024. Sulla benzina il passaggio è stato completo secondo J. Dovern et al., Energy Economics 126, 106948, 2023.</p></li>
+<li><p>Euronews, «EU countries need more targeted measures to tackle soaring energy prices, says IMF’s Helge Berger», 6 maggio 2026.</p></li>
+<li><p>Articolo 83-bis, comma 5, del decreto legge 25 giugno 2008, n.&nbsp;112; articolo 6, comma 3, lettera d, del decreto legislativo 21 novembre 2005, n.&nbsp;286, come modificato dall’articolo 14 del decreto legge 21 marzo 2022, n.&nbsp;21. Testi, esempio di calcolo e citazione da CNA, «Guida all’adeguamento del corrispettivo di trasporto al costo del carburante», aprile 2026, pp.&nbsp;3, 10 e 11.</p></li>
+</ol>
+<p><em>Uscito su LinkedIn il 20 ottobre 2026: <a href="https://www.linkedin.com/pulse/il-caro-carburanti-e-limpatto-su-agricoltori-federico-ninivaggi-74lqc/">l’articolo originale</a>.</em></p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · 20 ottobre 2026</p>
+</div>
+</section>
+
+ ]]></description>
+  <category>Energia</category>
+  <category>Politiche pubbliche</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-10-20-il-caro-carburanti-e-l-impatto-su-agricoltori-e-autotrasport/</guid>
+  <pubDate>Tue, 20 Oct 2026 06:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>L’impatto del rialzo dei rendimenti dei titoli di Stato sul bilancio italiano</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-10-09-l-impatto-del-rialzo-dei-rendimenti-dei-titoli-di-stato-sul-/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#9E3B2A;--tema-fg:#F4EEDF;--tema-acc:#F2C46B;--tema-ink:#9E3B2A;--tinta:#F1E3D9;}</style>
+<header class="apertura column-screen apertura-long" style="--fig-bg:#9E3B2A;--fig-fg:#F4EEDF;--fig-acc:#F2C46B"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 05 · long read · 9 ott 2026</p><h1 class="apertura-titolo">L’impatto del rialzo dei rendimenti dei titoli di Stato sul bilancio italiano</h1><p class="apertura-sommario">Dalla vigilia del conflitto con l’Iran i rendimenti dei titoli di Stato sono saliti in Italia come in Germania: sul mercato secondario circa tre quarti del rialzo italiano si ritrovano nel Bund, il riferimento dell’area dell’euro. Il Tesoro paga fino a un punto e mezzo percentuale in più sui nuovi titoli, e il rialzo entra nel debito una scadenza alla volta. Con i rendimenti fermi ai livelli dell’estate o delle aste di settembre, la spesa per interessi del 2030 crescerebbe tra 12,3 e 16,7 miliardi di euro.</p><p class="tag-riga"><a class="tag-argomento" href="../../../blog/index.html#category=Finanza pubblica">Finanza pubblica</a><a class="tag-argomento" href="../../../blog/index.html#category=Mercati e credito">Mercati e credito</a></p><a class="testata-torna" href="../../../blog/long.html">↩ torna a Long read</a></div></div></header>
+
+<script>(function(){const b=document.querySelector('.barra-lettura');function s(){const h=document.documentElement;
+const t=h.scrollHeight-h.clientHeight;b.style.transform='scaleX('+(t>0?h.scrollTop/t:0)+')';}
+addEventListener('scroll',s,{passive:true});s();})();</script>
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-09-l-impatto-del-rialzo-dei-rendimenti-dei-titoli-di-stato-sul-/copertina_1920x1080.png" class="img-fluid"></p>
+<div class="capoverso-primo">
+<p>Dalla vigilia del conflitto con l’Iran i rendimenti dei titoli di Stato sono saliti in Italia come in Germania: sul mercato secondario circa tre quarti del rialzo italiano si ritrovano nel Bund, il riferimento dell’area dell’euro. Il Tesoro paga fino a un punto e mezzo percentuale in più sui nuovi titoli, e il rialzo entra nel debito una scadenza alla volta. Con i rendimenti fermi ai livelli dell’estate o delle aste di settembre, la spesa per interessi del 2030 crescerebbe tra 12,3 e 16,7 miliardi di euro.</p>
+</div>
+<p>Il 29 settembre 2026 il Tesoro ha collocato BTP a dieci anni a un rendimento lordo del 4,58%. Il 26 febbraio, due giorni prima dei primi attacchi all’Iran, un decennale di scadenza vicina era stato collocato al 3,31%. Una differenza di 127 punti base. Un punto base è un centesimo di punto percentuale. Per ogni miliardo di euro collocato oggi lo Stato pagherà 12,7 milioni di euro di interessi in più all’anno, per dieci anni. (1)</p>
+<p>Analisi precedenti hanno indagato già il fenomeno del rialzo dei rendimenti e la trasmissione dai mercati mondiali ai titoli italiani. Il passo proposto è l’analisi dell’impatto di tale rialzo sul bilancio dello Stato, dove diventa spesa per interessi con una velocità che dipende dalla struttura del debito. Il Ministero dell’Economia e delle Finanze pubblica i due elementi necessari al calcolo: l’elenco del debito titolo per titolo e i rendimenti a cui il Tesoro si finanzia.</p>
+<section id="il-rialzo-per-ogni-scadenza" class="level2">
+<h2 class="anchored" data-anchor-id="il-rialzo-per-ogni-scadenza">Il rialzo per ogni scadenza</h2>
+<p>Le aste del Tesoro misurano il prezzo del finanziamento pubblico. Tra l’ultima asta prima della guerra e le aste di settembre il rendimento è aumentato per ogni scadenza: di 84 punti base sui BOT a sei mesi, di 90 sui BOT a un anno, di 148 sui BTP a due anni, di 146 sui BTP a cinque anni e di 127 sul decennale. L’Euribor a sei mesi, il tasso interbancario a cui sono legate le cedole dei CCTeu, è passato da una media del 2,14% in febbraio a una media del 2,92% in settembre. (2)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-09-l-impatto-del-rialzo-dei-rendimenti-dei-titoli-di-stato-sul-/G1_rendimenti_aste.png" class="img-fluid figure-img"></p>
+<figcaption>Il Tesoro paga di più per ogni scadenza. Rendimento lordo all’emissione, nell’ultima asta prima della guerra e nelle aste di settembre 2026, per scadenza.</figcaption>
+</figure>
+</div>
+<p>Sul mercato secondario il rialzo appare più contenuto, e in gran parte comune all’area euro. Nelle medie mensili della Banca centrale europea il rendimento del decennale italiano è aumentato di 60 punti base tra febbraio e agosto, l’ultimo mese pubblicato, mentre nelle aste dello stesso periodo l’aumento è stato di 79 punti base. Il decennale tedesco è salito di 44 punti base, il 74% del rialzo italiano, e lo spread con la Germania è passato da 64 a 80 punti base. (3)</p>
+<p>Alla fine dell’estate il rialzo ha superato le ipotesi del governo. Il Documento di finanza pubblica dell’aprile 2026, scritto a guerra in Medio Oriente già iniziata, assumeva per i tassi a lungo termine una media del 3,8% nel 2026 e del 4,0% nel 2027. La media delle 8 aste del decennale da gennaio a settembre è del 3,86%, vicina all’ipotesi per il 2026. L’asta di fine settembre si colloca invece 58 punti base sopra l’ipotesi per il 2027, vicino ai 60 punti base di rialzo che lo stesso documento adottava come scenario di rischio. (4)</p>
+</section>
+<section id="i-tempi-del-passaggio-nel-debito" class="level2">
+<h2 class="anchored" data-anchor-id="i-tempi-del-passaggio-nel-debito">I tempi del passaggio nel debito</h2>
+<p>Alla vigilia della guerra in Iran, lo Stato aveva in circolazione 221 titoli per 2.649,9 miliardi di euro, con una vita media di quasi sette anni. La gran parte dei titoli paga una cedola fissa. Il rialzo si trasmette nella spesa per interessi attraverso quattro canali: i titoli che scadono e dovranno essere rinnovati, i BOT con rinnovo continuo, i CCTeu che ogni sei mesi aggiornano la cedola all’Euribor e il nuovo debito che finanzia il disavanzo.</p>
+<p>Seguendo uno ad uno i titoli di febbraio, un anno dopo l’inizio della guerra avrà cambiato tasso il 19% dello stock di febbraio, e alla fine del 2030 il 52%. I titoli indicizzati entrano nel conteggio solamente alla scadenza. La lentezza nell’adattamento è la protezione che una vita media lunga offre al bilancio, e spiega perché il rialzo del 2026 pesa ancora poco. (5)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-09-l-impatto-del-rialzo-dei-rendimenti-dei-titoli-di-stato-sul-/G4_quota_rifissata.png" class="img-fluid figure-img"></p>
+<figcaption>Il rialzo si trasmette nel debito una scadenza alla volta. Quota dei titoli in circolazione al 28 febbraio 2026 che ha già cambiato tasso.</figcaption>
+</figure>
+</div>
+</section>
+<section id="la-misura-del-costo" class="level2">
+<h2 class="anchored" data-anchor-id="la-misura-del-costo">La misura del costo</h2>
+<p>Per misurare il costo della guerra attraverso i rendimenti dei titoli di Stato, la spesa per interessi effettiva va confrontata con quella di un mondo, ipotetico, in cui i rendimenti fossero rimasti ai livelli della vigilia del conflitto. La differenza si sviluppa solamente dai titoli rinnovati, dalle cedole rifissate e dal nuovo debito, e si somma mese per mese. Fino a settembre il percorso è quello delle aste. Per gli anni successivi occorrono ipotesi, e la prima è la più semplice: i rendimenti restano ai livelli delle aste di settembre. (6)</p>
+<p>In questa ipotesi il conto sarebbe di 1,6 miliardi di euro tra marzo e dicembre del 2026 e di 6,1 miliardi di euro nel 2027, pari allo 0,27% del prodotto interno lordo del 2025. Crescerebbe poi ogni anno fino a 16,7 miliardi di euro nel 2030, lo 0,74% del PIL del 2025. Nel 2027 la voce più grande sarebbero i BTP e gli altri titoli a tasso fisso in scadenza, con 2,8 miliardi di euro. Seguirebbero i BOT con 1,1 miliardi di euro, i CCTeu con 1,0 miliardo, il nuovo debito con 0,9 miliardi e i titoli indicizzati giunti a scadenza e rinnovati a tasso fisso con 0,3 miliardi. Con il passare degli anni crescerebbe soprattutto il peso dei BTP rinnovati, fino a 10,4 miliardi di euro nel 2030, mentre gli indicizzati rinnovati salirebbero a 1,3 miliardi di euro. (7)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-09-l-impatto-del-rialzo-dei-rendimenti-dei-titoli-di-stato-sul-/G2_conto_per_fonte.png" class="img-fluid figure-img"></p>
+<figcaption>Il costo cresce ogni anno. Spesa per interessi in più rispetto a una ipotesi di scenario senza guerra, in miliardi di euro, per fonte, con i rendimenti fermi ai livelli delle aste di settembre 2026.</figcaption>
+</figure>
+</div>
+<p>Nel 2025 la spesa per interessi delle amministrazioni pubbliche è stata di 87,1 miliardi di euro, il 3,9% del PIL. Nel 2030 il conto della guerra, con i rendimenti fermi ai livelli di settembre, sarebbe pari a circa il 19% di quella spesa e al 15% della spesa che il governo prevede per il 2029. (8)</p>
+</section>
+<section id="le-altre-ipotesi-sui-rendimenti" class="level2">
+<h2 class="anchored" data-anchor-id="le-altre-ipotesi-sui-rendimenti">Le altre ipotesi sui rendimenti</h2>
+<p>L’ipotesi dei rendimenti fermi è una tra molte, e le altre cambiano il risultato in modo rilevante. Se da ottobre 2026 i rendimenti restassero alla media dei mesi da luglio a settembre, meno esposta alle aste dei giorni di maggiore tensione, il conto del 2030 calerebbe a 12,3 miliardi di euro. Se i rendimenti aumentassero di un altro punto percentuale dal gennaio 2027, come in una prova di stress, il conto del 2030 salirebbe a 29,9 miliardi di euro, l’1,32% del PIL del 2025.</p>
+<p>Il caso più istruttivo è il ritorno dei rendimenti ai livelli prebellici entro la fine del 2027. Anche così il conto non si azzererebbe: sarebbe di 4,1 miliardi di euro nel 2027 e ancora di 2,4 miliardi di euro nel 2030. I titoli a medio e lungo termine emessi nei mesi della guerra conservano la cedola più alta fino alla scadenza, in alcuni casi per oltre quarant’anni, e una parte del costo resta nel bilancio a lungo dopo il rientro dei rendimenti. (9)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-09-l-impatto-del-rialzo-dei-rendimenti-dei-titoli-di-stato-sul-/G3_scenari.png" class="img-fluid figure-img"></p>
+<figcaption>Anche con il rientro dei rendimenti una parte del conto resta. Spesa per interessi in più rispetto ad uno scenario senza guerra, in miliardi di euro all’anno, in quattro ipotesi sui rendimenti.</figcaption>
+</figure>
+</div>
+<p>Una parte del conto dipende dall’Italia, il resto dall’area dell’euro. Se dal febbraio 2026 fosse cambiato solo lo spread con la Germania, applicato ai BTP con BOT ed Euribor fermi, il conto sarebbe di 0,6 miliardi di euro nel 2027 e di 1,9 miliardi di euro nel 2030, il 12% del conto con i rendimenti fermi a settembre. La stima è probabilmente un limite inferiore della parte italiana, perché lo spread ufficiale si ferma ad agosto mentre il conto principale arriva alle aste di fine settembre. (10)</p>
+</section>
+<section id="i-limiti-del-calcolo" class="level2">
+<h2 class="anchored" data-anchor-id="i-limiti-del-calcolo">I limiti del calcolo</h2>
+<p>Il calcolo considera i soli titoli di Stato e i soli rendimenti nominali. La guerra agisce però anche attraverso l’inflazione. I titoli indicizzati ai prezzi, i BTP€i e i BTP Italia, ammontavano a 277,7 miliardi di euro al 28 febbraio 2026, e ogni punto percentuale di inflazione in più accresce il loro costo di circa 2,8 miliardi di euro l’anno. Il governo ha portato la previsione d’inflazione del 2026 dall’1,7% dell’ottobre 2025 al 2,9% dell’aprile 2026, e sugli indicizzati la differenza di 1,2 punti costerebbe circa 3,3 miliardi di euro in un anno, più del conto nominale del 2026. Restano fuori anche i prestiti europei e l’effetto della guerra sulla crescita, che conta per il rapporto tra debito e prodotto. (11)</p>
+<p>Il confronto con un mondo senza guerra tiene i rendimenti ai livelli della vigilia e attribuisce alla guerra ogni variazione successiva. Vi rientrano le decisioni delle banche centrali, che hanno alzato l’Euribor, e la parte del rialzo che riflette attese di crescita o premi per il rischio. BOT e CCTeu, che seguono la politica monetaria, rappresentano 2,1 dei 6,1 miliardi di euro del 2027. Il punto di partenza è basso, perché a fine febbraio lo spread era vicino ai minimi storici, e il congelamento dei livelli ignora che la curva prebellica, inclinata verso l’alto, implicava già rendimenti in salita, come nelle previsioni del Tesoro che li ricavano dalle curve a termine. Nei mesi prima del conflitto i rendimenti all’asta non salivano: il decennale era collocato al 3,44% in gennaio e al 3,31% in febbraio. (12)</p>
+<p>Le previsioni del governo sono salite meno. Tra il Documento programmatico di bilancio dell’ottobre 2025 e il Documento di finanza pubblica dell’aprile 2026, scritto a guerra iniziata, la previsione della spesa per interessi del 2028 è passata dal 4,3 al 4,4% del PIL, un decimo di prodotto, circa 2,4 miliardi di euro. Con i rendimenti fermi ai livelli di marzo, quando il governo ha fissato le sue ipotesi, il calcolo di questo articolo dà per il 2028 5,4 miliardi di euro, più del doppio. Lo scarto ammette più spiegazioni. Due percentuali arrotondate al decimo possono distare fino a quasi due decimi, cioè fino a 4,9 miliardi di euro. La previsione del governo somma inoltre ai rendimenti la crescita e l’inflazione riviste, e ricava i rendimenti futuri dalle curve a termine invece che dalle aste. (13)</p>
+<p>Per il bilancio conta da dove viene il rialzo. La parte che riflette un’inflazione più alta porterebbe con sé un gettito nominale più alto, e lo stesso Documento prevede per le entrate una sostanziale tenuta. La parte che riflette lo spread italiano arriverebbe invece al bilancio senza contropartita. La prossima legge di bilancio si misurerà con un conto che, per il solo 2027, va da 4,1 miliardi di euro, se i rendimenti tornassero ai livelli della vigilia entro la fine del 2027, a 9,5 miliardi di euro, se salissero di un altro punto.</p>
+</section>
+<section id="note-e-fonti" class="level2">
+<h2 class="anchored" data-anchor-id="note-e-fonti">Note e fonti</h2>
+<p>Elaborazioni su dati pubblici del Ministero dell’Economia e delle Finanze, della BCE e di Eurostat. Codice, revisione critica e prove di robustezza dell’analisi sono disponibili su richiesta.</p>
+<ol type="1">
+<li><p>Ministero dell’Economia e delle Finanze, MEF, risultati delle aste, voce «Rendimento Lordo»: BTP 3,45% con scadenza 1° febbraio 2036, asta del 26 febbraio 2026; BTP 4% con scadenza 1° ottobre 2036, asta del 29 settembre 2026. Le scadenze dei due titoli distano otto mesi. Un miliardo di euro per 127 punti base dà 12,7 milioni di euro l’anno.</p></li>
+<li><p>MEF, risultati delle aste ordinarie fino a 10 anni: l’ultima asta con vita residua coerente con la scadenza prima del 27 febbraio e le aste di settembre 2026; per i BOT il rendimento composto. Se nello stesso giorno si collocano due titoli della stessa fascia, vale quello con la durata più vicina alla fascia. Le aste di settembre cadono in giorni diversi: BOT a un anno il 9 settembre, BTP a 3 e 7 anni il 10, BTP a 2 anni il 24, BOT a sei mesi il 25, BTP a 5 e 10 anni il 29. Le differenze tra scadenze vicine ne risentono. Euribor a sei mesi: BCE, media mensile.</p></li>
+<li><p>BCE, rendimenti a lungo termine dei titoli di Stato per la convergenza, serie mensili IRS di Italia e Germania: il decennale italiano passa dal 3,39 per cento di febbraio al 3,99 per cento di agosto 2026. Aste del decennale: 3,31 per cento il 26 febbraio e 4,10 per cento il 28 agosto. Il dato di settembre non è ancora pubblicato.</p></li>
+<li><p>MEF, Documento di finanza pubblica 2026, tavola I.3.2.1 «Ipotesi di base», p.&nbsp;48: tasso di interesse a lungo termine, media annuale, 3,8 per cento nel 2026, 4,0 per cento nel 2027, 4,1 per cento nel 2028. Scenario di rischio, p.&nbsp;55: «circa 30 punti base nel 2026, a circa 60 punti base nel 2027 e nel 2028». Media delle aste del BTP a 10 anni da gennaio a settembre 2026, nessuna in aprile. Il confronto tra le aste e una media annua è indicativo.</p></li>
+<li><p>MEF, «Scadenze suddivise per anno», aggiornamento al 28 febbraio 2026: 221 titoli, 2.649,9 miliardi di euro, uguali alla composizione dei titoli in circolazione pubblicata alla stessa data. Dal file si tolgono la sezione dei titoli per il portafoglio REPO, che ripete tranche già elencate, e le rate dei prestiti NGEU. Gli indicizzati restano nello stock e contano come rifissati solo alla scadenza. Il Tesoro pubblica un indicatore analogo: al 31 marzo 2026 la quota del debito con scadenza o rifissazione entro un anno era del 25,8 per cento, entro cinque anni del 57,5 per cento. Sui titoli di febbraio la stessa misura è pari al 58,8 per cento a cinque anni, e a un anno va dal 19,1 al 28,3 per cento secondo come si contano gli indicizzati.</p></li>
+<li><p>Simulazione mese per mese da marzo 2026 a dicembre 2030. I titoli in scadenza si rinnovano nella stessa fascia di durata originaria, e il calcolo non considera un eventuale accorciamento delle emissioni. I CCTeu rifissano la cedola ogni sei mesi all’Euribor. Il controfattuale tiene i rendimenti all’ultima asta prima della guerra e l’Euribor alla media di febbraio. Oltre i dieci anni, dove le aste prebelliche non sono disponibili sul sito del MEF, si usa la variazione del decennale: 25 punti base in più o in meno cambiano il conto del 2030 tra 16,1 e 17,3 miliardi di euro. Interessi per competenza. Lo schema, titolo per titolo, è quello del modello dell’Ufficio parlamentare di bilancio, che però ricava i rendimenti futuri dalle curve a termine: C. Gabbriellini e C. Pollastri, «Il modello UPB di analisi e previsione della spesa per interessi», Nota di lavoro n.&nbsp;3, ottobre 2017.</p></li>
+<li><p>Nuovo debito pari all’indebitamento netto del Documento di finanza pubblica 2026: 2,9 per cento del PIL nel 2026, 2,8 nel 2027, 2,5 nel 2028, 2,1 nel 2029, tenuto al 2,1 nel 2030, emesso con la struttura per durata dello stock di febbraio. Il nuovo debito non comprende il conto stesso: finanziare i 31,2 miliardi di euro accumulati dal 2026 al 2029 al 4,1 per cento aggiungerebbe circa 1,3 miliardi di euro nel 2030. Quote sul PIL del 2025 di Eurostat, 2.265 miliardi di euro.</p></li>
+<li><p>MEF, Documento di finanza pubblica 2026, sez. I, p.&nbsp;61, tavola II.1.2.1A, p.&nbsp;72, e tavola II.1.2.1B, p.&nbsp;73. Il 3,9 per cento è calcolato sul PIL del Documento, non sul PIL Eurostat della nota 7. Il Documento prevede per il 2029 una spesa per interessi di 111,6 miliardi di euro, il 4,5 per cento del PIL; le due misure non si sommano, perché la previsione di aprile conteneva già una parte del rialzo. Sul PIL del 2029 previsto dal Documento il conto del 2030 sarebbe pari allo 0,67 per cento.</p></li>
+<li><p>Scenario B: le variazioni rispetto ai livelli prebellici si riducono in linea retta da settembre 2026 fino ad annullarsi a dicembre 2027. Nello scenario dei rendimenti fermi, con uno spostamento parallelo pari a quello del decennale su tutte le scadenze, il conto del 2030 sarebbe di 18,4 miliardi di euro. Il BTP con scadenza 1° marzo 2072, riaperto il 10 settembre 2026, ha una vita residua di oltre 45 anni.</p></li>
+<li><p>Scenario dello spread: alle fasce dei BTP da due anni in su si applica la variazione dello spread decennale tra Italia e Germania rispetto a febbraio, dalle serie mensili IRS della BCE, mentre BOT ed Euribor restano fermi; settembre, non ancora pubblicato, ripete agosto. La scomposizione tra tassi comuni e spread segue l’esercizio dell’Ufficio parlamentare di bilancio, «L’impatto della riduzione dello spread sulla spesa per interessi», Flash n.&nbsp;3, 2019.</p></li>
+<li><p>Indicizzati: BTP€i e BTP Italia, valore rivalutato al 28 febbraio 2026. L’ordine di grandezza assume che un punto di inflazione in più rivaluti il capitale di circa l’1 per cento in un anno. Inflazione IPCA prevista per il 2026: 1,7 per cento nel Documento programmatico di bilancio 2026, tabella III.1-3, p.&nbsp;26, e 2,9 per cento nel Documento di finanza pubblica 2026, tavola I.3.2.2, p.&nbsp;52. I BTP€i seguono l’inflazione dell’area dell’euro e i BTP Italia quella italiana, quindi il conto è un ordine di grandezza. Documento di finanza pubblica 2026, sez. I, p.&nbsp;69: le tensioni sui prezzi dell’energia «hanno comportato una revisione al ribasso delle attese di crescita economica e al rialzo per quanto riguarda l’inflazione», e la spesa per interessi «risponde – per la componente dei titoli indicizzati – agli aumenti dell’inflazione, ma anche – e soprattutto – al recente spostamento verso l’alto della curva dei rendimenti sui titoli di Stato (da cui si estraggono le previsioni implicite dei futuri livelli di tali rendimenti)».</p></li>
+<li><p>MEF, risultati delle aste del BTP a 10 anni del 29 gennaio e del 26 febbraio 2026. Documento di finanza pubblica 2026, premessa: a fine febbraio lo spread tra BTP e Bund «si attestava sui minimi storici intorno ai sessanta punti base»; p.&nbsp;78: «l’inclinazione positiva della curva dei rendimenti comporta un’aspettativa implicita di costante aumento dei rendimenti lungo tutto l’arco previsivo». Il confronto con le decisioni delle banche centrali e con le attese di crescita è un limite del controfattuale, non una stima: il calcolo non separa le cause del rialzo.</p></li>
+<li><p>Documento programmatico di bilancio 2026, ottobre 2025, p.&nbsp;5: spesa per interessi «dal 3,9 per cento del PIL nel 2024 al 4,3 per cento nel 2028». Documento di finanza pubblica 2026, p.&nbsp;73: 4,4 per cento nel 2028. Un decimo di PIL sul PIL nominale tendenziale del 2028 del Documento di finanza pubblica, 2.433 miliardi di euro, tavola II.1.2.1A, p.&nbsp;72. Ufficio parlamentare di bilancio, comunicato sull’audizione del 28 aprile 2026, p.&nbsp;1: le ipotesi del Documento «sono state formulate nella seconda metà di marzo». Scenario con le variazioni dei rendimenti congelate ai livelli di marzo 2026 da aprile in poi: 5,4 miliardi di euro nel 2028, lo 0,24 per cento del PIL del 2025. Documento di finanza pubblica 2026, p.&nbsp;69, sulle entrate: «le entrate sono attese mostrare una sostanziale tenuta».</p></li>
+</ol>
+<p><em>Uscito su LinkedIn il 9 ottobre 2026: <a href="https://www.linkedin.com/pulse/limpatto-del-rialzo-dei-rendimenti-titoli-di-stato-sul-ninivaggi-dlt0c/">l’articolo originale</a>.</em></p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · 9 ottobre 2026</p>
+</div>
+</section>
+
+ ]]></description>
+  <category>Finanza pubblica</category>
+  <category>Mercati e credito</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-10-09-l-impatto-del-rialzo-dei-rendimenti-dei-titoli-di-stato-sul-/</guid>
+  <pubDate>Fri, 09 Oct 2026 06:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Il nuovo grande debitore dei mercati</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-10-06-il-nuovo-grande-debitore-dei-mercati/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#9E3B2A;--tema-fg:#F4EEDF;--tema-acc:#F2C46B;--tema-ink:#9E3B2A;--tinta:#F1E3D9;}</style>
+<header class="apertura column-screen apertura-long" style="--fig-bg:#9E3B2A;--fig-fg:#F4EEDF;--fig-acc:#F2C46B"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 03 · long read · 6 ott 2026</p><h1 class="apertura-titolo">Il nuovo grande debitore dei mercati</h1><p class="apertura-sommario">In ventuno mesi Alphabet, Amazon, Meta e Oracle hanno collocato 325,7 miliardi di dollari di obbligazioni, con durate da titolo di Stato. Il debito però rappresenta la parte minore degli impegni: gli affitti di data center già firmati e non ancora iscritti in bilancio, sommati senza attualizzarli, valgono più del doppio del debito dei cinque grandi gruppi.</p><p class="tag-riga"><a class="tag-argomento" href="../../../blog/index.html#category=Intelligenza artificiale">Intelligenza artificiale</a><a class="tag-argomento" href="../../../blog/index.html#category=Mercati e credito">Mercati e credito</a></p><a class="testata-torna" href="../../../blog/long.html">↩ torna a Long read</a></div></div></header>
+
+<script>(function(){const b=document.querySelector('.barra-lettura');function s(){const h=document.documentElement;
+const t=h.scrollHeight-h.clientHeight;b.style.transform='scaleX('+(t>0?h.scrollTop/t:0)+')';}
+addEventListener('scroll',s,{passive:true});s();})();</script>
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-06-il-nuovo-grande-debitore-dei-mercati/copertina_1920x1080.png" class="img-fluid"></p>
+<div class="capoverso-primo">
+<p>In ventuno mesi Alphabet, Amazon, Meta e Oracle hanno collocato 325,7 miliardi di dollari di obbligazioni, con durate da titolo di Stato. Il debito però rappresenta la parte minore degli impegni: gli affitti di data center già firmati e non ancora iscritti in bilancio, sommati senza attualizzarli, valgono più del doppio del debito dei cinque grandi gruppi.</p>
+</div>
+<p>Fra marzo e giugno del 2026 Microsoft ha aggiunto 133 miliardi di dollari a una voce che non compare nel suo stato patrimoniale. La voce raccoglie i canoni, soprattutto per data center, che il gruppo si è impegnato a pagare in contratti già firmati ma non ancora cominciati: 196,6 miliardi di dollari alla fine di marzo, 329,1 miliardi di dollari alla fine di giugno. Nello stesso periodo Microsoft non ha registrato presso l’autorità di borsa americana una sola emissione obbligazionaria, come non ne registra dal gennaio 2025. Il caso di Microsoft è quello estremo di una tendenza che da quasi due anni trasforma il mercato del credito. I gruppi che costruiscono l’infrastruttura dell’intelligenza artificiale si impegnano a pagare somme enormi in due forme: le obbligazioni, che sono debito e compaiono in bilancio, e gli affitti già firmati, che lo stato patrimoniale non mostra e che compaiono solo nelle note. (1)</p>
+<p>Nel settore questi gruppi si chiamano hyperscaler: gestiscono centri di calcolo su scala planetaria e ne vendono la capacità, e sono Amazon, Alphabet, Meta, Microsoft e, nella classificazione del Financial Times, Oracle. Il loro debito si misura sui documenti che le società devono depositare presso la Securities and Exchange Commission (SEC), l’autorità di vigilanza sui mercati americani, e sui portafogli che i fondi comuni rendono pubblici ogni trimestre.</p>
+<section id="un-nuovo-debitore" class="level2">
+<h2 class="anchored" data-anchor-id="un-nuovo-debitore">Un nuovo debitore</h2>
+<p>Dal gennaio 2025 al settembre 2026 i quattro gruppi che si finanziano sul mercato obbligazionario hanno depositato 21 prospetti definitivi di obbligazioni, per 136 titoli e 325,7 miliardi di dollari. Alphabet ha collocato 110,5 miliardi di dollari, Amazon 109,5 miliardi, Meta 55,0 miliardi e Oracle 50,8 miliardi. Nei primi nove mesi del 2026 il totale collocato ha raggiunto 217,4 miliardi di dollari, 2,0 volte quello dell’intero 2025. (2)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-06-il-nuovo-grande-debitore-dei-mercati/H1_emissioni.png" class="img-fluid figure-img"></p>
+<figcaption>Un nuovo grande debitore sul mercato. Obbligazioni registrate alla SEC dagli hyperscaler, in miliardi di dollari, per trimestre.</figcaption>
+</figure>
+</div>
+<p>Il debito non è più denominato soltanto in dollari. Quasi un quarto dell’importo emesso, il 23,2 per cento, è denominato in altre valute: 42,4 miliardi di dollari in euro, 16,3 miliardi in dollari canadesi, 13,2 miliardi in sterline e 3,6 miliardi in yen. Nel maggio 2026 Alphabet ha collocato 576,5 miliardi di yen in sette titoli, l’ultimo con scadenza nel 2066. La scelta di cinque valute suggerisce un emittente che cerca compratori su tutti i mercati. (3)</p>
+<p>Le quantità restano piccole rispetto ai titoli di Stato. Fra gennaio e agosto 2026 le emissioni in dollari degli hyperscaler hanno pesato circa un decimo del debito aggiunto dal Tesoro americano, e il loro calendario non segue quello dei rendimenti dei titoli di Stato: il rialzo dei Treasury del 2026 ha cause soprattutto diverse, come ha mostrato un’analisi precedente. La novità va cercata nel mercato del credito alle imprese. (4)</p>
+</section>
+<section id="debito-per-una-generazione" class="level2">
+<h2 class="anchored" data-anchor-id="debito-per-una-generazione">Debito per una generazione</h2>
+<p>La durata media dei 136 titoli, ponderata per l’importo, è di 16,6 anni. Il 29,3% dell’importo emesso scade fra trent’anni o più, il 10,6% fra quarant’anni o più. Alphabet e Amazon hanno collocato titoli a cinquant’anni, e nel febbraio 2026 Alphabet ha emesso in sterline un titolo che scade nel 2126. Sui soli titoli a cedola fissa i quattro gruppi pagano ogni anno circa 15,9 miliardi di dollari di interessi. (5)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-06-il-nuovo-grande-debitore-dei-mercati/H2_durate.png" class="img-fluid figure-img"></p>
+<figcaption>Debito per una generazione. Importo emesso per durata, in miliardi di dollari, gennaio 2025 - settembre 2026.</figcaption>
+</figure>
+</div>
+<p>Il costo di quelle durate è cresciuto. Sul titolo a quarant’anni Meta pagava una cedola del 5,75% nell’ottobre 2025 e del 6,45 per cento nell’aprile 2026; Alphabet è passata dal 5,30% dell’aprile 2025 al 6,50% dell’agosto 2026. Il bilancio di Meta al 30 giugno 2026 mostra il peso delle scadenze lunghe: sulle obbligazioni in circolazione, pari a 84,00 miliardi di dollari, gli interessi ancora da pagare fino alla scadenza ammontano a 89,38 miliardi di dollari, più del capitale stesso. (6)</p>
+</section>
+<section id="il-prezzo-del-rischio" class="level2">
+<h2 class="anchored" data-anchor-id="il-prezzo-del-rischio">Il prezzo del rischio</h2>
+<p>Il costo di un’obbligazione societaria si misura sullo spread, cioè sul rendimento aggiuntivo rispetto al titolo di Stato americano di pari durata, espresso in punti base: 85 punti base corrispondono allo 0,85 per cento annuo. Le classi di rating dovrebbero ordinare gli spread: un emittente AA paga meno di uno A. Nell’aprile 2025 Alphabet, classificata AA+, collocava il titolo a dieci anni a 47 punti base sopra il Treasury; nell’agosto 2026 ha pagato 85 punti base, 38 punti base in più. Nelle stesse due date lo spread medio delle obbligazioni AA era fermo a 57 punti base, e quello delle obbligazioni A era calato da 86 a 65 punti base. Mentre il mercato chiedeva meno ai debitori di classe A, a un debitore classificato AA+ chiedeva di più: nell’agosto 2026 Alphabet ha collocato sopra la media della classe inferiore. (7)</p>
+<p>Le grandi emissioni sembrano spostare anche il resto del mercato. Fra il giorno che precede la prezzatura delle 12 emissioni in dollari più rilevanti e il terzo giorno successivo, lo spread medio delle obbligazioni AA si allarga in media di 2,6 punti base, contro una variazione quasi nulla negli altri giorni dello stesso periodo. L’indice AA raccoglie però i titoli con rating AA, e Alphabet è classificata AA+: il suo allargamento può includere il nuovo prezzo dei titoli Alphabet già in circolazione. L’indice della classe superiore, AAA, che non comprende titoli classificati AA, si allarga di 2,8 punti base negli stessi eventi. L’allargamento dell’indice AA ricorre nell’83% degli eventi e riguarda allo stesso modo tutte le classi di rating. Con dodici eventi, molti dei quali cadono pochi giorni dopo la pubblicazione dei conti trimestrali, l’effetto dell’offerta non si separa del tutto da quello delle notizie sugli investimenti. (8)</p>
+</section>
+<section id="gli-impegni-non-iscritti-in-bilancio" class="level2">
+<h2 class="anchored" data-anchor-id="gli-impegni-non-iscritti-in-bilancio">Gli impegni non iscritti in bilancio</h2>
+<p>La leva di una società si misura di solito con il rapporto fra il debito e la cassa che l’attività produce. Per gli hyperscaler questa misura coglie una parte minoritaria degli impegni. I principi contabili americani obbligano a iscrivere in bilancio gli affitti in corso; gli affitti firmati ma non ancora cominciati restano invece nelle note, e in questa forma gli hyperscaler si assicurano i data center che altri costruiranno per loro. (9)</p>
+<p>Alla metà del 2026 i cinque gruppi dichiarano 485,9 miliardi di dollari di debito finanziario e 292,6 miliardi di dollari di affitti iscritti in bilancio. Gli affitti firmati e non ancora cominciati ammontano a 1.090,5 miliardi di dollari, 2,2 volte il debito finanziario. Non costituiscono debito in senso stretto: sono pagamenti futuri, non attualizzati, previsti da contratti che durano fino a trent’anni, e alcuni contratti di Microsoft dipendono da condizioni ancora da verificare. Danno però l’ordine di grandezza di impegni fissi che in alcuni casi crescono più in fretta del debito: fra marzo e giugno 2026 la voce di Microsoft è aumentata più di quanto Meta abbia raccolto con tutte le obbligazioni emesse dal 2025, e la voce di Meta è cresciuta in sei mesi, dal dicembre 2025 al giugno 2026, da 103,77 a 278,99 miliardi di dollari. (10)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-06-il-nuovo-grande-debitore-dei-mercati/H3_leva_vera.png" class="img-fluid figure-img"></p>
+<figcaption>Il debito è la parte minore degli impegni. Debito, affitti e garanzie dei cinque gruppi e di CoreWeave a metà 2026, in miliardi di dollari e in importi nominali, contro la cassa operativa annua.</figcaption>
+</figure>
+</div>
+<p>Meta ricorre anche a una terza forma. Nell’ottobre 2025 ha costituito con un fondo del gruppo Blue Owl una società comune per costruire un campus di data center in Louisiana; della società possiede il 20 per cento e non la consolida. Il socio ha finanziato la propria quota collocando privatamente 27,3 miliardi di dollari di obbligazioni garantite, che non compaiono nel bilancio di Meta. L’esposizione massima di Meta alla perdita, indicata nella nota di bilancio, è di 46,03 miliardi di dollari, il 55% del debito finanziario che iscrive. (11)</p>
+<p>A fronte di questi impegni la cassa operativa dei cinque gruppi vale 707,3 miliardi di dollari negli ultimi dodici mesi, e gli investimenti in impianti assorbono l’82,9% di tale cassa. Amazon ha investito il 107% della propria cassa operativa, Oracle il 161%, ed entrambe hanno chiuso gli ultimi dodici mesi con una cassa libera negativa. Il profilo più teso è quello di Oracle: debito e affitti, iscritti o ancora da cominciare, valgono 9,2 anni della sua cassa operativa, anche se il gruppo dichiara 638 miliardi di dollari di contratti con i clienti già firmati e non ancora eseguiti. (12)</p>
+</section>
+<section id="chi-compra-il-debito" class="level2">
+<h2 class="anchored" data-anchor-id="chi-compra-il-debito">Chi compra il debito</h2>
+<p>I fondi comuni e gli ETF americani depositano ogni trimestre presso la SEC l’elenco completo delle posizioni. Nei portafogli di febbraio-aprile 2026 il debito dell’ecosistema dell’intelligenza artificiale, cioè quello degli hyperscaler e delle società che costruiscono o gestiscono capacità di calcolo per loro, valeva 80,2 miliardi di dollari, contro 30,8 miliardi di dollari un anno prima: 2,6 volte tanto. Oracle è il debitore più diffuso, presente in 1.190 fondi, che detengono il 21,0% del suo debito finanziario. (13)</p>
+<p>Quattro famiglie di fondi, Vanguard, BlackRock, Capital Group e PIMCO, detengono il 60,1% del debito dell’ecosistema presente nei portafogli dei fondi americani. Le prime due gestiscono soprattutto fondi indice, che non selezionano i titoli: li acquistano in proporzione all’importo in circolazione. Più gli hyperscaler emettono, più il loro debito entra nei portafogli di chi ha scelto di replicare l’intero mercato obbligazionario, e chi emette troverebbe così un compratore che, per costruzione, non tratta sul prezzo. (14)</p>
+<p>Anche la concentrazione è cresciuta. Nei portafogli del 2025 un solo fondo americano con più di cento milioni di dollari di patrimonio aveva oltre il 5 per cento dell’attivo in questo debito; nei portafogli del 2026 i fondi sopra quella soglia sono 37. I fondi oltre il 2% dell’attivo sono passati da 65 a 269 fondi. Le obbligazioni del veicolo di Meta si trovano per il 36% del loro valore in fondi americani, e solo il 19,0% di quel valore è detenuto da fondi che possiedono anche obbligazioni Meta. Chi detiene entrambe ha verso il gruppo un’esposizione più ampia di quella che legge alla voce «Meta». (15)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-06-il-nuovo-grande-debitore-dei-mercati/H4_fondi.png" class="img-fluid figure-img"></p>
+<figcaption>Più fondi, e più concentrati. Fondi americani per peso del debito dell’intelligenza artificiale sull’attivo, 2025 e 2026.</figcaption>
+</figure>
+</div>
+</section>
+<section id="i-laboratori-a-valle" class="level2">
+<h2 class="anchored" data-anchor-id="i-laboratori-a-valle">I laboratori a valle</h2>
+<p>Gli affitti firmati dagli hyperscaler si ripagano con i contratti di calcolo che altri firmano con loro, e fra questi clienti pesano due società non quotate, Anthropic e OpenAI, che non depositano bilanci presso la SEC. Gli effetti compaiono nei bilanci di chi le finanzia. Nel secondo trimestre del 2026 Amazon ha registrato 53,4 miliardi di dollari di proventi non operativi, «<em>primarily from our investments in Anthropic</em>», circa due terzi dell’utile ante imposte del trimestre. La sola rivalutazione delle azioni privilegiate di Anthropic, 50,5 miliardi di dollari, vale 1,8 volte l’utile operativo del trimestre. Dalla valutazione di questi laboratori dipende in buona parte la loro possibilità di raccogliere il denaro con cui pagare la capacità di calcolo, e quindi gli affitti su cui la costruzione dei data center si regge. (16)</p>
+</section>
+<section id="il-confronto-con-le-ferrovie" class="level2">
+<h2 class="anchored" data-anchor-id="il-confronto-con-le-ferrovie">Il confronto con le ferrovie</h2>
+<p>Un paragone ricorrente è con la costruzione delle ferrovie nell’Ottocento. Nel 1847, al culmine della Railway Mania britannica, gli investimenti ferroviari assorbirono il 7,3% del prodotto interno lordo britannico; i 745 miliardi di dollari di investimenti annunciati per il 2026 da Alphabet, Amazon, Meta e Microsoft valgono il 2,4% del prodotto interno lordo americano del 2025. Per il credito, la differenza che conta riguarda il finanziamento. Gli atti del Parlamento che autorizzavano le compagnie britanniche consentivano di norma prestiti fino a un terzo del capitale azionario, e quando la bolla scoppiò le perdite ricaddero sugli azionisti, mentre quasi nessuna linea fallì. Le ferrovie americane furono costruite soprattutto a debito, in un mercato obbligazionario societario composto allora in prevalenza di titoli di ferrovie, canali e miniere: nel triennio 1873-1875 i tassi annui d’insolvenza di quel mercato sommarono il 35,9 per cento del suo valore nominale. (17)</p>
+<p>I due modelli oggi convivono. Per il solo debito finanziario, contenuto rispetto alla cassa operativa che producono, i grandi gruppi, Oracle esclusa, assomigliano alle compagnie britanniche; contando gli affitti già firmati, la somiglianza si attenua. Il modello americano riaffiora ai margini, nei veicoli che costruiscono i data center a debito e nelle società di calcolo, legati ai grandi gruppi da affitti di lungo periodo. Chi volesse misurare questi impegni potrebbe guardare, oltre alle emissioni, alla voce delle note di bilancio che raccoglie gli affitti non ancora cominciati, dove fra dicembre 2025 e giugno 2026 per Meta, e nel solo secondo trimestre del 2026 per Microsoft, gli impegni sono cresciuti più in fretta del debito.</p>
+</section>
+<section id="note-e-fonti" class="level2">
+<h2 class="anchored" data-anchor-id="note-e-fonti">Note e fonti</h2>
+<p>Elaborazioni su prospetti, bilanci e portafogli dei fondi depositati presso la Securities and Exchange Commission, e su dati della Federal Reserve. Dati al 29 settembre 2026. Codice e verifiche dell’analisi sono disponibili su richiesta.</p>
+<ol type="1">
+<li><p>Microsoft, 10-Q al 31 marzo 2026 e 10-K al 30 giugno 2026, nota sugli affitti: «<em>additional leases, primarily for datacenters, that had not yet commenced</em>». Nessun prospetto definitivo di obbligazioni (424B2 o 424B5) depositato da Microsoft dal 1° gennaio 2025.</p></li>
+<li><p>SEC, prospetti definitivi 424B2 e 424B5 e schede dei termini, 82 documenti scaricati il 29 settembre 2026; importi in dollari al cambio del giorno d’emissione. In tutte le 21 emissioni la somma sottoscritta dalle banche coincide con il totale dichiarato. Il registro è un conteggio per difetto: non comprende le emissioni collocate fuori dal perimetro della SEC né i veicoli dei data center.</p></li>
+<li><p>Registro delle tranche dai prospetti SEC; valori in dollari al cambio del giorno. Totale denominato in dollari: 250,2 miliardi di dollari.</p></li>
+<li><p>Gennaio-agosto 2026: 157 miliardi di dollari emessi in dollari dagli hyperscaler (212 miliardi in tutte le valute), pari al 10% dell’aumento del debito negoziabile del Tesoro (Monthly Statement of the Public Debt). F. Ninivaggi, «Il costo della guerra arriva sui titoli di Stato», LinkedIn, ottobre 2026.</p></li>
+<li><p>Durata alla data d’emissione, ponderata per l’importo. Titolo Alphabet in sterline con cedola del 6,125% e scadenza 2126, prospetto 424B2 depositato il 12 febbraio 2026.</p></li>
+<li><p>Cedole dai prospetti; date di prezzatura (30 ottobre 2025 e 30 aprile 2026). Meta, 10-Q al 30 giugno 2026: «<em>$84.00 billion aggregate principal amount of Notes outstanding</em>», interessi futuri 4,40 miliardi di dollari entro dodici mesi e 84,98 miliardi oltre.</p></li>
+<li><p>Spread dichiarati nelle schede dei termini (FWP) di Alphabet con data di contrattazione 28 aprile 2025 e 6 agosto 2026 («<em>Spread to Benchmark Treasury</em>»; la seconda scheda è depositata il 7 agosto), con i rating dichiarati nelle stesse schede. Indici ICE BofA delle obbligazioni americane AA e A (FRED), stesso giorno; i valori del 6 e del 7 agosto 2026 coincidono. Sul titolo a quarant’anni lo spread di Alphabet è aumentato di 60 punti base. Indice A: 86 punti base il 28 aprile 2025, 65 punti base il 6 agosto 2026. Lo spread al collocamento contiene il premio necessario a collocare un’offerta grande in un solo giorno, che l’indice dei titoli già in circolazione non ha: il sorpasso sulla media della classe A va letto con questa cautela, mentre le variazioni nel tempo sono confrontabili.</p></li>
+<li><p>Studio d’evento su 12 emissioni in dollari; variazione media negli altri giorni dello stesso periodo -0,2 punti base; l’allargamento supera il 99,9 per cento delle medie ottenute estraendo a caso dodici giornate senza emissioni (10.000 estrazioni). Togliendo le finestre a cavallo del ribilanciamento di fine mese degli indici: +2,9 punti base, percentile 99,4. Indice AAA: +2,8 punti base, con un aumento nel 92 per cento degli eventi. L’indice AA comprende, secondo FRED, «<em>all securities with a given investment grade rating AA</em>»; la presenza dei titoli di Alphabet è dedotta dal rating AA+ delle schede dei termini (nota 7), non verificata sulla composizione dell’indice.</p></li>
+<li><p>I bilanci distinguono le «<em>lease liabilities</em>» iscritte dalle «<em>leases that have not yet commenced</em>», riportate in nota.</p></li>
+<li><p>SEC, dati XBRL dei bilanci e testo delle note di 10-K e 10-Q al 30 giugno 2026, con alcune eccezioni: per Oracle debito e affitti non ancora cominciati al 31 maggio 2026, affitti iscritti al 31 agosto 2026; per Meta affitti finanziari al 31 dicembre 2025; per CoreWeave, presente solo nella figura, debito al 31 marzo 2026. Affitti non ancora cominciati: Microsoft 329,1 miliardi di dollari, Meta 279,0 miliardi, Oracle 260,0 miliardi, Amazon 137,2 miliardi, Alphabet 85,2 miliardi. Microsoft: «<em>with some arrangements subject to certain contractual conditions being met</em>». Restano fuori dal conto gli impegni d’acquisto, che comprendono voci diverse dagli affitti, come i contratti per l’energia e le licenze.</p></li>
+<li><p>Meta, 10-K 2025, nota 5, e 10-Q al 30 giugno 2026: «<em>our maximum exposure to loss related to the Venture was $46.03 billion</em>». Blue Owl Real Estate Net Lease Trust, 10-Q al 30 settembre 2025, nota 18: «<em>Beignet Investor issued $27,293,849 in senior secured notes with an interest rate of 6.581% and a maturity date of May 30, 2049</em>» (importi in migliaia di dollari). Negli archivi N-PORT 2026q2 il titolo compare come «BEIGNET INVESTOR LLC 144A 6.581000% 05/30/2049» (CUSIP 076912AA2): la regola 144A riserva il collocamento agli investitori istituzionali, fuori dai prospetti registrati.</p></li>
+<li><p>SEC, dati XBRL, dodici mesi al 30 giugno 2026 (Oracle al 31 agosto 2026). Cassa libera calcolata come cassa operativa meno investimenti lordi in impianti: Amazon -11,6 miliardi di dollari, Oracle -28,7 miliardi. Amazon sottrae invece gli investimenti al netto di vendite e incentivi e comunica un dato diverso: «<em>Free cash flow decreased to an outflow of $7.6 billion for the trailing twelve months</em>» (8-K del 30 luglio 2026, allegato 99.1). Oracle, 10-K al 31 maggio 2026: «<em>Remaining performance obligations were $638 billion and $138 billion as of May 31, 2026 and 2025, respectively</em>». Gli «anni di cassa» sono una misura di scala, non un piano di rimborso.</p></li>
+<li><p>SEC, archivi Form N-PORT 2025q2 e 2026q2, ultimo rapporto per fondo, portafogli in prevalenza di febbraio-marzo. Ecosistema: hyperscaler, veicolo di Meta, CoreWeave e altre società di calcolo, cartolarizzazioni di data center, SoftBank, Nvidia. Debito di Oracle al 31 maggio 2026. N-PORT descrive i soli fondi americani registrati: assicurazioni, fondi pensione, banche e investitori esteri restano fuori.</p></li>
+<li><p>N-PORT 2026q2, aggregazione per famiglia di fondi. Il meccanismo dei fondi indice è un’inferenza sul loro funzionamento, non un dato misurato.</p></li>
+<li><p>Fondi con più di 100 milioni di dollari di patrimonio. Obbligazioni Beignet Investor nei fondi: 9,7 miliardi di dollari in 317 fondi, di cui 6,9 miliardi presso PIMCO.</p></li>
+<li><p>Amazon, 8-K del 30 luglio 2026, allegato 99.1: «<em>non-operating pre-tax other income of $53.4 billion, primarily from our investments in Anthropic</em>»; 10-Q al 30 giugno 2026: «<em>upward adjustments of approximately $50.5 billion in Q2 2026</em>», «<em>primarily from our nonvoting preferred stock in Anthropic</em>». Utile operativo del trimestre 27,5 miliardi di dollari, utile ante imposte 80,9 miliardi.</p></li>
+<li><p>A. Odlyzko, «<em>Collective hallucinations and inefficient markets: The British Railway Mania of the 1840s</em>», University of Minnesota, 2010, p.&nbsp;34 (7,3 per cento del PIL nel 1847), nota 94 (limite di un terzo, in parafrasi: «<em>The usual provisions allowed railways to raise up to one third of their equity capital in loans</em>») e p.&nbsp;25 («<em>hardly any of the lines went bankrupt</em>»). K. Giesecke, F. A. Longstaff, S. Schaefer e I. Strebulaev, «<em>Corporate bond default risk: A 150-year perspective</em>», NBER Working Paper 15848, 2010, p.&nbsp;8 («<em>Railroads were built mainly with borrowed money</em>») e tab. 3; p.&nbsp;1: «<em>the corporate bond market of the 1860s was composed primarily of railroad, canal, and mining issues</em>». Investimenti annunciati: Financial Times, 28 settembre 2026; PIL americano 2025 dal BEA (FRED) nella versione scaricata per l’analisi; la serie disponibile il 6 ottobre 2026 lo alza dello 0,3% e lascia il rapporto al 2,4%.</p></li>
+</ol>
+<p><em>Uscito su LinkedIn il 6 ottobre 2026: <a href="https://www.linkedin.com/pulse/il-nuovo-grande-debitore-dei-mercati-federico-ninivaggi-4q22c/">l’articolo originale</a>.</em></p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · 6 ottobre 2026</p>
+</div>
+</section>
+
+ ]]></description>
+  <category>Intelligenza artificiale</category>
+  <category>Mercati e credito</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-10-06-il-nuovo-grande-debitore-dei-mercati/</guid>
+  <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>The markets’ new heavyweight borrower</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-10-06-the-markets-new-heavyweight-borrower/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#9E3B2A;--tema-fg:#F4EEDF;--tema-acc:#F2C46B;--tema-ink:#9E3B2A;--tinta:#F1E3D9;}</style>
+<header class="apertura column-screen apertura-long" style="--fig-bg:#9E3B2A;--fig-fg:#F4EEDF;--fig-acc:#F2C46B"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 04 · long read · Oct 6, 2026</p><h1 class="apertura-titolo">The markets’ new heavyweight borrower</h1><p class="apertura-sommario">In twenty-one months Alphabet, Amazon, Meta and Oracle placed 325.7 billion dollars of bonds, with maturities worthy of government debt.</p><p class="tag-riga"><a class="tag-argomento" href="../../../en/blog.html#category=Artificial intelligence">Artificial intelligence</a><a class="tag-argomento" href="../../../en/blog.html#category=Markets and credit">Markets and credit</a></p><a class="testata-torna" href="../../../en/blog_long.html">↩ back to Long read</a></div></div></header>
+
+<script>(function(){const b=document.querySelector('.barra-lettura');function s(){const h=document.documentElement;
+const t=h.scrollHeight-h.clientHeight;b.style.transform='scaleX('+(t>0?h.scrollTop/t:0)+')';}
+addEventListener('scroll',s,{passive:true});s();})();</script>
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-06-the-markets-new-heavyweight-borrower/copertina_1920x1080.png" class="img-fluid" alt=""></p>
+<div class="capoverso-primo page-columns page-full">
+<p>Between March and June 2026 Microsoft added 133 billion dollars to an item that does not appear on its balance sheet. The item collects the rents, mostly for data centers, that the group has committed to pay under contracts already signed but not yet commenced: 196.6 billion dollars at the end of March, 329.1 billion dollars at the end of June. Over the same period Microsoft did not register a single bond issue with the US securities regulator, as it has not since January 2025. Microsoft’s case is the extreme one of a trend that has been reshaping the credit market for almost two years. The groups building the infrastructure of artificial intelligence commit to paying huge sums in two forms: bonds, which are debt and appear on the balance sheet, and leases already signed, which the balance sheet does not show and which appear only in the notes.<sup>1</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;Microsoft, 10-Q as of March 31, 2026 and 10-K as of June 30, 2026, note on leases: “additional leases, primarily for datacenters, that had not yet commenced”. No final bond prospectus, 424B2 or 424B5, filed by Microsoft since January 1, 2025.</p></div></div></div>
+<p>In the industry these groups are called hyperscalers: they run computing centers on a planetary scale and sell their capacity, and they are Amazon, Alphabet, Meta, Microsoft and, in the classification of the Financial Times, Oracle. Their debt is measured on the documents that companies must file with the Securities and Exchange Commission, the SEC, which supervises US markets, and on the portfolios that mutual funds disclose every quarter.</p>
+<section id="a-new-borrower" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="a-new-borrower">A new borrower</h2>
+<p>From January 2025 to September 2026 the four groups that finance themselves on the bond market filed 21 final bond prospectuses, for 136 securities and 325.7 billion dollars. Alphabet placed 110.5 billion dollars, Amazon 109.5 billion, Meta 55.0 billion and Oracle 50.8 billion. In the first nine months of 2026 the total placed reached 217.4 billion dollars, 2.0 times that of the whole of 2025.<sup>2</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn2"><p><sup>2</sup>&nbsp;SEC, 424B2 and 424B5 final prospectuses and term sheets, 82 documents downloaded on September 29, 2026; amounts in dollars at the exchange rate of the issue date. In all 21 offerings the amount underwritten by the banks matches the stated total. The register is a lower bound: it excludes issues placed outside the SEC perimeter and the data center vehicles.</p></div></div><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-06-the-markets-new-heavyweight-borrower/H1_issuance.png" class="img-fluid figure-img"></p>
+<figcaption>A new heavyweight borrower in the market. Bonds registered with the SEC by the hyperscalers, in billions of dollars, by quarter.</figcaption>
+</figure>
+</div>
+<p>The debt is no longer denominated in dollars alone. Almost a quarter of the amount issued, 23.2 percent, is denominated in other currencies: 42.4 billion dollars in euros, 16.3 billion in Canadian dollars, 13.2 billion in sterling and 3.6 billion in yen. In May 2026 Alphabet placed 576.5 billion yen in seven securities, the last maturing in 2066. The choice of five currencies suggests an issuer looking for buyers in every market.<sup>3</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn3"><p><sup>3</sup>&nbsp;Register of tranches from SEC prospectuses; values in dollars at the exchange rate of the day. Total denominated in dollars: 250.2 billion dollars.</p></div><div id="fn4"><p><sup>4</sup>&nbsp;January-August 2026: 157 billion dollars issued in dollars by the hyperscalers, 212 billion in all currencies, equal to 10 percent of the increase in marketable Treasury debt, Monthly Statement of the Public Debt. F. Ninivaggi, “Il conto della guerra arriva sui titoli di Stato”, LinkedIn, October 2026, in Italian.</p></div></div><p>The amounts remain small next to government bonds. Between January and August 2026 the hyperscalers’ dollar issues weighed about a tenth of the debt added by the US Treasury, and their calendar does not follow that of government bond yields: the rise in Treasury yields in 2026 has mostly different causes, as an earlier analysis showed. The novelty is in the corporate credit market.<sup>4</sup></p>
+</section>
+<section id="debt-for-a-generation" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="debt-for-a-generation">Debt for a generation</h2>
+<p>The average maturity of the 136 securities, weighted by amount, is 16.6 years. 29.3 percent of the amount issued matures in thirty years or more, 10.6 percent in forty years or more. Alphabet and Amazon placed fifty-year securities, and in February 2026 Alphabet issued in sterling a security that matures in 2126. On the fixed-coupon securities alone the four groups pay about 15.9 billion dollars of interest every year.<sup>5</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn5"><p><sup>5</sup>&nbsp;Maturity at the issue date, weighted by amount. Alphabet sterling bond with a 6.125 percent coupon maturing in 2126, 424B2 prospectus filed on February 12, 2026.</p></div></div><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-06-the-markets-new-heavyweight-borrower/H2_maturities.png" class="img-fluid figure-img"></p>
+<figcaption>Debt for a generation. Amount issued by maturity, in billions of dollars, January 2025 - September 2026.</figcaption>
+</figure>
+</div>
+<p>The cost of those maturities has grown. On its forty-year bond Meta paid a coupon of 5.75 percent in October 2025 and 6.45 percent in April 2026, and Alphabet went from 5.30 percent in April 2025 to 6.50 percent in August 2026. Meta’s balance sheet at June 30, 2026 shows the weight of long maturities: on bonds outstanding of 84.00 billion dollars, the interest still to be paid until maturity amounts to 89.38 billion dollars, more than the principal itself.<sup>6</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn6"><p><sup>6</sup>&nbsp;Coupons from the prospectuses; pricing dates October 30, 2025 and April 30, 2026. Meta, 10-Q as of June 30, 2026: “$84.00 billion aggregate principal amount of Notes outstanding”, future interest of 4.40 billion dollars within twelve months and 84.98 billion beyond.</p></div></div></section>
+<section id="the-price-of-risk" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="the-price-of-risk">The price of risk</h2>
+<p>The cost of a corporate bond is measured by its spread, that is the extra yield over the US Treasury of the same maturity, expressed in basis points: 85 basis points correspond to 0.85 percent a year. Rating classes should order spreads, so that an AA issuer pays less than an A issuer. In April 2025 Alphabet, rated AA+, placed its ten-year bond at 47 basis points over the Treasury. In August 2026 it paid 85 basis points, 38 basis points more. On the same two dates the average spread of AA bonds stood still at 57 basis points, and that of A bonds fell from 86 to 65 basis points. While the market asked less of A-class borrowers, it asked more of a borrower rated AA+: in August 2026 Alphabet placed above the average of the class below.<sup>7</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn7"><p><sup>7</sup>&nbsp;Spreads stated in Alphabet’s term sheets, FWP, with trade dates of April 28, 2025 and August 6, 2026, “Spread to Benchmark Treasury”, the second filed on August 7, with the ratings stated in the same sheets. ICE BofA indexes of US AA and A bonds, from FRED, same day; the values of August 6 and 7, 2026 coincide. On the forty-year bond Alphabet’s spread rose by 60 basis points. A index: 86 basis points on April 28, 2025, 65 basis points on August 6, 2026. The spread at placement contains the premium needed to place a large offering in a single day, which the index of bonds already outstanding does not have: the overtaking of the A-class average should be read with this caution, while changes over time are comparable.</p></div><div id="fn8"><p><sup>8</sup>&nbsp;Event study on 12 dollar issues; average change on the other days of the same period -0.2 basis points; the widening exceeds 99.9 percent of the averages obtained by randomly drawing twelve days without issues, 10,000 draws. Excluding the windows that straddle the month-end index rebalancing: +2.9 basis points, 99.4th percentile. AAA index: +2.8 basis points, with an increase in 92 percent of the events. The AA index includes, according to FRED, “all securities with a given investment grade rating AA”; the presence of Alphabet bonds is inferred from the AA+ rating in the term sheets, note 7, not verified on the composition of the index.</p></div></div><p>The large issues also seem to move the rest of the market. Between the day before the pricing of the 12 most significant dollar issues and the third day after, the average spread of AA bonds widens on average by 2.6 basis points, against an almost zero change on the other days of the same period. The AA index, however, collects bonds rated AA, and Alphabet is rated AA+, so its widening may include the repricing of Alphabet bonds already outstanding. The index of the class above, AAA, which includes no bonds rated AA, widens by 2.8 basis points around the same events. The widening of the AA index recurs in 83 percent of the events and affects all rating classes alike. With twelve events, many of which fall a few days after quarterly results, the effect of supply cannot be fully separated from that of news on investment.<sup>8</sup></p>
+</section>
+<section id="the-commitments-off-the-balance-sheet" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="the-commitments-off-the-balance-sheet">The commitments off the balance sheet</h2>
+<p>A company’s leverage is usually measured by the ratio of debt to the cash its business generates. For the hyperscalers this measure captures a minority of their commitments. US accounting standards require leases in progress to be recognized on the balance sheet, while leases signed but not yet commenced remain in the notes, and in this form the hyperscalers secure the data centers that others will build for them.<sup>9</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn9"><p><sup>9</sup>&nbsp;Financial statements distinguish the recognized “lease liabilities” from the “leases that have not yet commenced”, reported in the notes.</p></div><div id="fn10"><p><sup>10</sup>&nbsp;SEC, XBRL data from financial statements and text of the notes to 10-K and 10-Q filings as of June 30, 2026, with some exceptions: for Oracle, debt and leases not yet commenced as of May 31, 2026, recognized leases as of August 31, 2026; for Meta, finance leases as of December 31, 2025; for CoreWeave, shown only in the figure, debt as of March 31, 2026. Leases not yet commenced: Microsoft 329.1 billion dollars, Meta 279.0 billion, Oracle 260.0 billion, Amazon 137.2 billion, Alphabet 85.2 billion. Microsoft: “with some arrangements subject to certain contractual conditions being met”. Purchase commitments are left out of the count, as they include items other than leases, such as energy contracts and licenses.</p></div></div><p>In mid-2026 the five groups report 485.9 billion dollars of financial debt and 292.6 billion dollars of leases on the balance sheet. Leases signed and not yet commenced amount to 1,090.5 billion dollars, 2.2 times financial debt. They are not debt in the strict sense: they are future payments, not discounted, under contracts that last up to thirty years, and some of Microsoft’s contracts depend on conditions still to be met. They do, however, give the order of magnitude of fixed commitments that in some cases grow faster than debt. Between March and June 2026 Microsoft’s item grew by more than Meta raised with all the bonds it has issued since 2025, and Meta’s item grew in six months, from December 2025 to June 2026, from 103.77 to 278.99 billion dollars.<sup>10</sup></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-06-the-markets-new-heavyweight-borrower/H3_full_leverage.png" class="img-fluid figure-img"></p>
+<figcaption>Debt is the smaller part of the commitments. Debt, leases and guarantees of the five groups and of CoreWeave in mid-2026, in billions of dollars and in nominal amounts, against annual operating cash flow.</figcaption>
+</figure>
+</div>
+<p>Meta also uses a third form. In October 2025 it set up with a fund of the Blue Owl group a joint company to build a data center campus in Louisiana. It owns 20 percent of the company and does not consolidate it. The partner financed its share by privately placing 27.3 billion dollars of secured bonds, which do not appear on Meta’s balance sheet. Meta’s maximum exposure to loss, given in the notes to its accounts, is 46.03 billion dollars, 55 percent of the financial debt it recognizes.<sup>11</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn11"><p><sup>11</sup>&nbsp;Meta, 2025 10-K, note 5, and 10-Q as of June 30, 2026: “our maximum exposure to loss related to the Venture was $46.03 billion”. Blue Owl Real Estate Net Lease Trust, 10-Q as of September 30, 2025, note 18: “Beignet Investor issued $27,293,849 in senior secured notes with an interest rate of 6.581% and a maturity date of May 30, 2049”, amounts in thousands of dollars. In the N-PORT 2026q2 archives the security appears as “BEIGNET INVESTOR LLC 144A 6.581000% 05/30/2049”, CUSIP 076912AA2: Rule 144A restricts the placement to institutional investors, outside registered prospectuses.</p></div><div id="fn12"><p><sup>12</sup>&nbsp;SEC, XBRL data, twelve months to June 30, 2026, August 31, 2026 for Oracle. Free cash flow computed as operating cash flow minus gross investment in plant: Amazon -11.6 billion dollars, Oracle -28.7 billion. Amazon instead subtracts investment net of sales and incentives and reports a different figure: “Free cash flow decreased to an outflow of $7.6 billion for the trailing twelve months”, 8-K of July 30, 2026, exhibit 99.1. Oracle, 10-K as of May 31, 2026: “Remaining performance obligations were $638 billion and $138 billion as of May 31, 2026 and 2025, respectively”. “Years of cash” are a measure of scale, not a repayment plan.</p></div></div><p>Against these commitments, the operating cash flow of the five groups was 707.3 billion dollars over the last twelve months, and investment in plant absorbs 82.9 percent of that cash. Amazon invested 107 percent of its operating cash flow and Oracle 161 percent, and both closed the last twelve months with negative free cash flow. Oracle’s profile is the most stretched: debt and leases, recognized or still to commence, are worth 9.2 years of its operating cash flow, even though the group reports 638 billion dollars of customer contracts already signed and not yet performed.<sup>12</sup></p>
+</section>
+<section id="who-buys-the-debt" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="who-buys-the-debt">Who buys the debt</h2>
+<p>US mutual funds and ETFs file with the SEC the full list of their holdings every quarter. In the portfolios of February-April 2026 the debt of the artificial intelligence ecosystem, that is the debt of the hyperscalers and of the companies that build or run computing capacity for them, was worth 80.2 billion dollars, against 30.8 billion dollars a year earlier: 2.6 times as much. Oracle is the most widely held borrower, present in 1,190 funds that hold 21.0 percent of its financial debt.<sup>13</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn13"><p><sup>13</sup>&nbsp;SEC, Form N-PORT archives 2025q2 and 2026q2, latest report per fund, portfolios mostly of February-March. Ecosystem: hyperscalers, Meta’s vehicle, CoreWeave and other computing companies, data center securitizations, SoftBank, Nvidia. Oracle debt as of May 31, 2026. N-PORT describes only registered US funds: insurers, pension funds, banks and foreign investors are left out.</p></div><div id="fn14"><p><sup>14</sup>&nbsp;N-PORT 2026q2, aggregation by fund family. The index fund mechanism is an inference about how such funds work, not a measured fact.</p></div></div><p>Four fund families, Vanguard, BlackRock, Capital Group and PIMCO, hold 60.1 percent of the ecosystem’s debt held by US funds. The first two manage mostly index funds, which do not select securities but buy them in proportion to the amount outstanding. The more the hyperscalers issue, the more their debt enters the portfolios of those who have chosen to replicate the whole bond market, and issuers would thus find a buyer that, by construction, does not negotiate on price.<sup>14</sup></p>
+<p>Concentration has also grown. In the 2025 portfolios a single US fund with more than 100 million dollars in assets had over 5 percent of its assets in this debt, and in the 2026 portfolios the funds above that threshold number 37. Funds above 2 percent of assets went from 65 to 269. US funds hold 36 percent of the value of the bonds of Meta’s vehicle, and only 19.0 percent of that value is held by funds that also own Meta bonds. Those who hold both have an exposure to the group larger than the one they read under the heading “Meta”.<sup>15</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn15"><p><sup>15</sup>&nbsp;Funds with more than 100 million dollars in assets. Beignet Investor bonds in funds: 9.7 billion dollars in 317 funds, of which 6.9 billion at PIMCO.</p></div></div><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-06-the-markets-new-heavyweight-borrower/H4_funds.png" class="img-fluid figure-img"></p>
+<figcaption>More funds, and more concentrated. US funds by weight of artificial intelligence debt in their assets, 2025 and 2026.</figcaption>
+</figure>
+</div>
+</section>
+<section id="the-labs-downstream" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="the-labs-downstream">The labs downstream</h2>
+<p>The leases signed by the hyperscalers are paid back by the computing contracts that others sign with them, and among the largest of these customers are two unlisted companies, Anthropic and OpenAI, which do not file financial statements with the SEC. The effects appear in the accounts of those who finance them. In the second quarter of 2026 Amazon recorded 53.4 billion dollars of non-operating income, “primarily from our investments in Anthropic”, about two thirds of its pre-tax income for the quarter. The revaluation of Anthropic’s preferred shares alone, 50.5 billion dollars, is worth 1.8 times the quarter’s operating income. The ability of these labs to raise the money with which they pay for computing capacity, and therefore the leases on which data center construction rests, depends largely on their valuation.<sup>16</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn16"><p><sup>16</sup>&nbsp;Amazon, 8-K of July 30, 2026, exhibit 99.1: “non-operating pre-tax other income of $53.4 billion, primarily from our investments in Anthropic”; 10-Q as of June 30, 2026: “upward adjustments of approximately $50.5 billion in Q2 2026”, “primarily from our nonvoting preferred stock in Anthropic”. Operating income for the quarter 27.5 billion dollars, pre-tax income 80.9 billion.</p></div></div></section>
+<section id="the-comparison-with-the-railways" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="the-comparison-with-the-railways">The comparison with the railways</h2>
+<p>A recurring comparison is with the building of the railways in the nineteenth century. In 1847, at the peak of the British Railway Mania, railway investment absorbed 7.3 percent of British gross domestic product, while the 745 billion dollars of investment announced for 2026 by Alphabet, Amazon, Meta and Microsoft is worth 2.4 percent of 2025 US gross domestic product. For credit, the difference that matters concerns financing. The acts of Parliament that authorized the British companies usually allowed borrowing of up to a third of share capital, and when the bubble burst the losses fell on shareholders, while almost no line went bankrupt. The American railways were built mainly with debt, in a corporate bond market then made up mostly of railroad, canal and mining securities: over 1873-1875 the annual default rates of that market added up to 35.9 percent of its par value.<sup>17</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn17"><p><sup>17</sup>&nbsp;A. Odlyzko, “Collective hallucinations and inefficient markets: The British Railway Mania of the 1840s”, University of Minnesota, 2010, p.&nbsp;34, 7.3 percent of GDP in 1847; note 94, the one-third limit, paraphrased: “The usual provisions allowed railways to raise up to one third of their equity capital in loans”; p.&nbsp;25, “hardly any of the lines went bankrupt”. K. Giesecke, F. A. Longstaff, S. Schaefer and I. Strebulaev, “Corporate bond default risk: A 150-year perspective”, NBER Working Paper 15848, 2010, p.&nbsp;8, “Railroads were built mainly with borrowed money”, and table 3; p.&nbsp;1: “the corporate bond market of the 1860s was composed primarily of railroad, canal, and mining issues”. Announced investment: Financial Times, September 28, 2026; 2025 US GDP from the BEA, through FRED, in the version downloaded for the analysis; the series available on October 6, 2026 raises it by 0.3 percent and leaves the ratio at 2.4 percent.</p></div></div><p>The two models now coexist. On financial debt alone, modest relative to the operating cash flow they generate, the large groups other than Oracle resemble the British companies. Counting the leases already signed, the resemblance fades. The American model resurfaces at the margins, in the vehicles that build data centers with debt and in the computing companies, tied to the large groups by long-term leases. Anyone who wished to measure these commitments could look, beyond bond issuance, at the line in the notes to the accounts that collects leases not yet commenced, where commitments grew faster than debt between December 2025 and June 2026 for Meta, and in the second quarter of 2026 alone for Microsoft.</p>
+<hr>
+<p><em>Analysis of prospectuses, financial statements and fund portfolios filed with the Securities and Exchange Commission, and of Federal Reserve data. Data as of September 29, 2026. The code and checks of the analysis are available on request.</em></p>
+<p><em>English version of the article published in Italian on LinkedIn on 6 October 2026: <a href="../../..\blog/posts/2026-10-06-il-nuovo-grande-debitore-dei-mercati/">the Italian version on this site</a> and <a href="https://www.linkedin.com/pulse/il-nuovo-grande-debitore-dei-mercati-federico-ninivaggi-4q22c/">the original on LinkedIn</a>.</em></p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · October 6, 2026</p>
+</div>
+</section>
+
+
+ ]]></description>
+  <category>Artificial intelligence</category>
+  <category>Markets and credit</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-10-06-the-markets-new-heavyweight-borrower/</guid>
+  <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Dove è localizzata l’infrastruttura dell’intelligenza artificiale</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-10-05-dove-e-localizzata-l-infrastruttura-dell-intelligenza-artifi/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#9E3B2A;--tema-fg:#F4EEDF;--tema-acc:#F2C46B;--tema-ink:#9E3B2A;--tinta:#F1E3D9;}</style>
+<header class="apertura column-screen apertura-long" style="--fig-bg:#9E3B2A;--fig-fg:#F4EEDF;--fig-acc:#F2C46B"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 02 · long read · 5 ott 2026</p><h1 class="apertura-titolo">Dove è localizzata l’infrastruttura dell’intelligenza artificiale</h1><p class="apertura-sommario">Due mappe aperte, una tracciata da volontari e l’altra da un istituto di ricerca, localizzano i data center fra Europa e Americhe. I grandi impianti per l’IA si concentrano quasi interamente negli Stati Uniti, e nessuno appartiene a OpenAI o ad Anthropic, che pure figurano fra gli utenti di un terzo di essi.</p><p class="tag-riga"><a class="tag-argomento" href="../../../blog/index.html#category=Intelligenza artificiale">Intelligenza artificiale</a><a class="tag-argomento" href="../../../blog/index.html#category=Territori">Territori</a></p><a class="testata-torna" href="../../../blog/long.html">↩ torna a Long read</a></div></div></header>
+
+<script>(function(){const b=document.querySelector('.barra-lettura');function s(){const h=document.documentElement;
+const t=h.scrollHeight-h.clientHeight;b.style.transform='scaleX('+(t>0?h.scrollTop/t:0)+')';}
+addEventListener('scroll',s,{passive:true});s();})();</script>
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-05-dove-e-localizzata-l-infrastruttura-dell-intelligenza-artifi/copertina_1920x1080.png" class="img-fluid"></p>
+<div class="capoverso-primo">
+<p>Due mappe aperte, una tracciata da volontari e l’altra da un istituto di ricerca, localizzano i data center fra Europa e Americhe. I grandi impianti per l’IA si concentrano quasi interamente negli Stati Uniti, e nessuno appartiene a OpenAI o ad Anthropic, che pure figurano fra gli utenti di un terzo di essi.</p>
+</div>
+<p>Degli 84 grandi data center per l’intelligenza artificiale che Epoch AI, un istituto di ricerca sullo sviluppo dell’IA, censisce fra Europa e Americhe, 77 si trovano negli Stati Uniti. Insieme possono assorbire 11.764 megawatt, l’85,6% della potenza elettrica di tutti i siti che il database registra nel mondo. In Europa i siti sono 7, con 243 megawatt in tutto. Il più grande, Google Waltham Cross, a nord di Londra, arriva a 88 megawatt; Colossus 2, il campus di Memphis in testa alla classifica, da solo vale 946 megawatt, 3,9 volte l’intera potenza europea censita. (1)</p>
+<p>Il dato descrive la nuova infrastruttura dell’IA, che per numero di impianti è una parte relativamente piccola dei data center esistenti. Accanto ai giganti ci sono migliaia di strutture più modeste che tengono in funzione siti web, caselle di posta elettronica, archivi aziendali e servizi di cloud. Per vederli occorre una seconda fonte. OpenStreetMap (OSM), la mappa disegnata da volontari e libera da riusare, ne conta 1.619 in Europa, 1.834 in Nord America e 163 in Sud America. (2)</p>
+<section id="che-cosè-un-data-center" class="level2">
+<h2 class="anchored" data-anchor-id="che-cosè-un-data-center">Che cos’è un data center</h2>
+<p>Nel settore un data center si misura in megawatt prima che in metri quadrati. È un’infrastruttura industriale che converte energia elettrica in capacità di calcolo: migliaia di server sempre attivi, la cui crescita dipende dalla corrente che li alimenta e dal sistema che ne disperde il calore.</p>
+<p>Nei siti costruiti per l’intelligenza artificiale il calcolo è svolto da GPU, chip sviluppati originariamente nel settore dei videogiochi, in grado di eseguire migliaia di operazioni nello stesso istante. Nell’IA la loro potenza è utilizzata in due momenti. Nell’addestramento un modello impara, per settimane, da enormi quantità di testo; nell’inferenza risponde alle domande di chi lo usa. Epoch esprime il calcolo di ogni sito in «H100-equivalenti», il numero di chip Nvidia H100 che occorrerebbe per ottenere la stessa potenza di calcolo. (3)</p>
+<p>Il peso di questi siti sulla rete elettrica è già visibile. Secondo l’Agenzia internazionale dell’energia (IEA), nel 2024 i data center hanno consumato 415 terawattora, l’1,5% dell’elettricità consumata nel mondo; un terawattora corrisponde a un miliardo di kilowattora. Entro il 2030 il consumo dovrebbe più che raddoppiare, fino a circa 945 terawattora. Un data center tipico per l’IA consuma quanto 100.000 famiglie, e i più grandi oggi in costruzione consumeranno 20 volte tanto. Nel 2024 gli Stati Uniti da soli assorbivano il 45% dei consumi mondiali dei data center, tre volte la quota europea. (4)</p>
+</section>
+<section id="due-fonti-per-due-strati" class="level2">
+<h2 class="anchored" data-anchor-id="due-fonti-per-due-strati">Due fonti per due strati</h2>
+<p>Le due fonti qui utilizzate misurano cose diverse, e in un certo senso si completano. OpenStreetMap registra dove si trova un edificio, il poligono che ne disegna l’impronta a terra e, quando un volontario l’ha inserito nel tag, chi lo gestisce: il gestore è indicato per circa due siti su tre in Europa e in Nord America. La potenza non è registrata. Epoch ne riporta una stima, ricavata dalle immagini satellitari e dai documenti pubblici, come i permessi edilizi e ambientali, e indica per ogni sito il proprietario e gli utenti. Il database però, nelle parole dei suoi autori, «<em>mostly consists of data centers in the United States</em>»: dei 93 siti nessuno è localizzato in Canada o in America Latina, ed Epoch stima di coprire il 43% del calcolo per l’IA installato nel mondo. (5)</p>
+</section>
+<section id="europa-tanti-piccoli-siti-attorno-alle-grandi-città" class="level2">
+<h2 class="anchored" data-anchor-id="europa-tanti-piccoli-siti-attorno-alle-grandi-città">Europa: tanti piccoli siti attorno alle grandi città</h2>
+<p>In Europa i data center di OpenStreetMap si addensano attorno a poche città. Nel raggio di 50 chilometri dal centro di Londra se ne contano 147, attorno a Parigi 142, a Francoforte 113 e ad Amsterdam 69. Le quattro aree raccolgono il 29% dei siti europei. Sono edifici di taglia contenuta: l’impronta mediana di un sito europeo è di 3.095 metri quadrati, quella di un sito nordamericano di 10.646 metri quadrati, 3,4 volte tanto. (6)</p>
+<p>I grandi siti per l’IA seguono un’altra geografia. Dei 7 censiti da Epoch in Europa, 5 si trovano fra Norvegia, Svezia, Finlandia e Islanda, lontano dai poli dove si addensano gli altri impianti, e due sono ancora in costruzione. Una spiegazione plausibile risiederebbe nella maggiore disponibilità di energia idroelettrica e nel clima più freddo, in grado di abbassare il costo del raffreddamento.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-05-dove-e-localizzata-l-infrastruttura-dell-intelligenza-artifi/F1_europa.png" class="img-fluid figure-img"></p>
+<figcaption>In Europa molti data center, pochi grandi siti per l’IA.</figcaption>
+</figure>
+</div>
+</section>
+<section id="stati-uniti-i-giganti-nellinterno" class="level2">
+<h2 class="anchored" data-anchor-id="stati-uniti-i-giganti-nellinterno">Stati Uniti: i giganti nell’interno</h2>
+<p>Negli Stati Uniti anche i siti di OpenStreetMap si raccolgono attorno a pochi poli, e il primo è Ashburn, in Virginia, con 302 siti nel raggio di 50 chilometri: più di Londra e Parigi messe insieme. I grandi siti per l’IA si distribuiscono invece verso l’interno del paese, spesso lontano dai poli storici. I due più potenti sono Colossus 2, a Memphis, con 946 megawatt, e Anthropic-Amazon New Carlisle, in Indiana, con 910 megawatt. Il secondo porta nel nome i due gruppi coinvolti: lo possiede Amazon e lo usa Anthropic. (7)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-05-dove-e-localizzata-l-infrastruttura-dell-intelligenza-artifi/F2_nord_america.png" class="img-fluid figure-img"></p>
+<figcaption>Il censimento di Epoch AI censisce i grandi siti per l’IA quasi solamente negli Stati Uniti</figcaption>
+</figure>
+</div>
+</section>
+<section id="chi-li-gestisce" class="level2">
+<h2 class="anchored" data-anchor-id="chi-li-gestisce">Chi li gestisce</h2>
+<p>In Europa i gestori con più siti sono Digital Realty, con 79 siti, ed Equinix, con 73 siti: due società che affittano spazi attrezzati ad altre aziende. Insieme gestiscono il 14% dei siti europei con un gestore noto. In Nord America la classifica è guidata da Amazon, con 233 siti, davanti a Digital Realty con 75 siti ed Equinix con 58 siti. (8)</p>
+<p>Il primato di Amazon va letto con cautela, perché il conteggio misura quanti edifici i volontari hanno mappato e non quanta capacità abbia il gruppo. Dei 233 siti di Amazon, 118 si trovano entro 50 chilometri da Ashburn, il 51%, in un distretto mappato edificio per edificio. Il dettaglio della mappatura pesa quanto la dimensione: dieci capannoni disegnati separatamente valgono dieci siti, e la capacità che un gruppo prende in affitto presso un operatore terzo figura sotto il nome del locatore.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-05-dove-e-localizzata-l-infrastruttura-dell-intelligenza-artifi/F3_gestori.png" class="img-fluid figure-img"></p>
+<figcaption>Per numero di siti mappati, Amazon guida in Nord America, Digital Realty in Europa. Primi dieci gestori per continente in OpenStreetMap.</figcaption>
+</figure>
+</div>
+</section>
+<section id="chi-li-possiede-e-chi-li-usa" class="level2">
+<h2 class="anchored" data-anchor-id="chi-li-possiede-e-chi-li-usa">Chi li possiede e chi li usa</h2>
+<p>Fra i grandi siti per l’IA, i proprietari con più potenza sono Google, con 3.179 megawatt in 20 siti, e Meta, con 2.157 megawatt in 17 siti; seguono Amazon e Microsoft. Nessuno degli 84 siti fra Europa e Americhe appartiene a OpenAI o ad Anthropic, i laboratori che sviluppano ChatGPT e Claude. L’uno o l’altro compare però fra gli utenti di 28 siti, che valgono 5.355 megawatt, il 45% della potenza censita fra Europa e Americhe. Epoch indica spesso gli utenti come stima probabile, e la cifra va letta come ordine di grandezza. (9)</p>
+<p>Chi usa un data center senza possederlo lo paga con contratti di calcolo o di affitto pluriennali, e sono questi contratti a reggere la costruzione. Il loro peso nei bilanci dei grandi gruppi tecnologici è un tema che merita un approfondimento a parte; le prime evidenze danno però la misura: a metà 2026 Alphabet, Amazon, Meta, Microsoft e Oracle dichiaravano affitti di data center firmati e non ancora cominciati per 1.090,5 miliardi di dollari, più del triplo dei 325,7 miliardi di obbligazioni che quattro di loro avevano collocato in ventuno mesi. (10)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-05-dove-e-localizzata-l-infrastruttura-dell-intelligenza-artifi/F4_proprietari_ai.png" class="img-fluid figure-img"></p>
+<figcaption>Google e Meta hanno la potenza maggiore fra i grandi siti per l’IA. Potenza elettrica attuale per proprietario, Europa e Americhe.</figcaption>
+</figure>
+</div>
+</section>
+<section id="i-limiti-dei-dati-disponibili" class="level2">
+<h2 class="anchored" data-anchor-id="i-limiti-dei-dati-disponibili">I limiti dei dati disponibili</h2>
+<p>OpenStreetMap è completa quanto i volontari che vi contribuiscono, e un paese poco mappato può sembrare vuoto anche quando in realtà non lo è. I due strati, poi, si sovrappongono appena: solo 30 dei 49 siti di Epoch localizzati all’indirizzo hanno un data center di OpenStreetMap entro due chilometri, questo probabilmente perché i campus più recenti mancano spesso dalla mappa OSM. (11) L’area, infine, misura l’impronta a terra e non la potenza: un edificio largo e basso può ospitare meno potenza di uno più piccolo.</p>
+<p>Si potrebbe obiettare che il divario fra Stati Uniti ed Europa nasca dal censimento più che dalla geografia, dal momento che Epoch censisce soprattutto i siti americani. L’obiezione può gonfiare la misura del divario. La direzione regge, visti anche i dati dell’IEA, raccolti con un altro metodo e su tutti i data center, che assegnano agli Stati Uniti consumi tre volte quelli europei.</p>
+<p>Per l’Europa la mappa suggerisce una lettura. La rete dei data center è fitta attorno a Londra, Parigi, Francoforte e Amsterdam, e i pochi grandi siti per l’IA censiti da Epoch sorgono quasi tutti lontano da quei poli, e il maggiore arriva a 88 megawatt. Chi dovesse decidere come attrarne altri potrebbe guardare meno alla densità della rete esistente e più alla disponibilità di energia e di terreni, che i siti nordici sembrano avere in comune.</p>
+</section>
+<section id="note-e-fonti" class="level2">
+<h2 class="anchored" data-anchor-id="note-e-fonti">Note e fonti</h2>
+<ol type="1">
+<li><p>Epoch AI, Frontier Data Centers, file data_centers.csv, aggiornamento del 2 ottobre 2026, colonne Current power (MW), Country, Owner, Users; licenza CC-BY 4.0. La potenza è quella attuale: i siti in costruzione restano nel conteggio dei siti ma hanno potenza nulla. Gli indirizzi sono stati trasformati in coordinate con Nominatim, il motore di ricerca degli indirizzi di OpenStreetMap; per i siti senza indirizzo leggibile la località è stata indicata a mano dai campi di Epoch o, in quattro casi, da fonti di stampa.</p></li>
+<li><p>OpenStreetMap, oggetti con etichetta telecom=data_center o building=data_center, scaricati con Overpass il 5 ottobre 2026; © OpenStreetMap contributors, licenza ODbL. Un punto dentro un poligono e un poligono dentro un altro contano come un solo sito. Paesi e continenti dai confini di Natural Earth (scala 1:50 milioni); il Centro America e i Caraibi rientrano nel Nord America.</p></li>
+<li><p>Epoch AI, documentazione del database, sezione Methodology: «we express it in H100-equivalents (H100e): the number of Nvidia H100 GPUs that would be required to match the performance». <a href="https://epoch.ai/data/data-centers-documentation/methodology">https://epoch.ai/data/data-centers-documentation/methodology</a></p></li>
+<li><p>IEA, Energy and AI, Executive summary: «<em>Data centres accounted for around 1.5% of the world’s electricity consumption in 2024, or 415 terawatt-hours (TWh). The United States accounted for the largest share of global data centre electricity consumption in 2024 (45%), followed by China (25%) and Europe (15%)</em>.»; «<em>Data centre electricity consumption is set to more than double to around 945 TWh by 2030.</em>»; «<em>A typical AI-focused data centre consumes as much electricity as 100 000 households, but the largest ones under construction today will consume 20 times as much</em>.» <a href="https://www.iea.org/reports/energy-and-ai/executive-summary">https://www.iea.org/reports/energy-and-ai/executive-summary</a></p></li>
+<li><p>Epoch AI, sezione Methodology: «<em>We then analyze commercial satellite imagery, and any available permitting documents and company disclosures, to research key details about a data center</em>»; «<em>The database mostly consists of data centers in the United States, but coverage is expanding globally</em>»; la copertura del calcolo installato è stimata al 43% al 5 ottobre 2026, con un intervallo al 90% fra 23 e 81.</p></li>
+<li><p>Conteggi dei siti OpenStreetMap entro 50 km dal centro di ciascuna città. L’area è la superficie del poligono disegnato, cioè l’impronta a terra dell’edificio o del recinto e non la somma dei piani; la mediana è calcolata sui siti disegnati come poligono.</p></li>
+<li><p>Epoch AI, data_centers.csv: per Anthropic-Amazon New Carlisle il proprietario è Amazon e l’utente Anthropic.</p></li>
+<li><p>Il gestore viene dal campo operator (o owner) di OpenStreetMap o, in mancanza, dal nome del sito. I gruppi sono unificati con un dizionario fisso che tiene conto delle acquisizioni, per esempio Interxion in Digital Realty. I siti senza gestore sono esclusi dal conteggio dei gestori.</p></li>
+<li><p>Epoch AI, colonne Owner e Users. Per 7 siti fra Europa e Americhe il proprietario non è indicato. Fra gli utenti Epoch distingue con un’etichetta i casi certi da quelli probabili o ipotetici; il conteggio li comprende tutti.</p></li>
+<li><p>Elaborazione dell’autore sui bilanci depositati presso la SEC, l’autorità di vigilanza della Borsa americana: note dei rapporti annuali (10-K) e trimestrali (10-Q) al 30 giugno 2026 (Oracle al 31 maggio 2026), voce degli affitti firmati e non ancora cominciati; prospetti di emissione 424B2 e 424B5 per le obbligazioni di Alphabet, Amazon, Meta e Oracle. Microsoft non ha emesso obbligazioni nel periodo.</p></li>
+<li><p>Il confronto fra i due strati riguarda solo i 49 siti di Epoch localizzati all’indirizzo, perché la posizione ricavata dalla sola località è troppo approssimativa per una distanza di 2 chilometri. Un sito è considerato presente in OpenStreetMap se un data center della mappa si trova entro quella distanza.</p></li>
+</ol>
+<p><em>Uscito su LinkedIn il 5 ottobre 2026: <a href="https://www.linkedin.com/pulse/dove-%C3%A8-localizzata-linfrastruttura-dellintelligenza-ninivaggi-mu9cc/">l’articolo originale</a>.</em></p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · 5 ottobre 2026</p>
+</div>
+</section>
+
+ ]]></description>
+  <category>Intelligenza artificiale</category>
+  <category>Territori</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-10-05-dove-e-localizzata-l-infrastruttura-dell-intelligenza-artifi/</guid>
+  <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Il costo della guerra arriva sui titoli di Stato</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-10-01-il-costo-della-guerra-arriva-sui-titoli-di-stato/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#9E3B2A;--tema-fg:#F4EEDF;--tema-acc:#F2C46B;--tema-ink:#9E3B2A;--tinta:#F1E3D9;}</style>
+<header class="apertura column-screen apertura-long" style="--fig-bg:#9E3B2A;--fig-fg:#F4EEDF;--fig-acc:#F2C46B"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 01 · long read · 1 ott 2026</p><h1 class="apertura-titolo">Il costo della guerra arriva sui titoli di Stato</h1><p class="apertura-sommario">Lo shock petrolifero ha spinto le banche centrali a stringere e i rendimenti ai livelli più alti da anni. Il debito dei giganti dell’intelligenza artificiale e i conti pubblici pesano meno di quanto si racconti.</p><p class="tag-riga"><a class="tag-argomento" href="../../../blog/index.html#category=Finanza pubblica">Finanza pubblica</a><a class="tag-argomento" href="../../../blog/index.html#category=Mercati e credito">Mercati e credito</a></p><a class="testata-torna" href="../../../blog/long.html">↩ torna a Long read</a></div></div></header>
+
+<script>(function(){const b=document.querySelector('.barra-lettura');function s(){const h=document.documentElement;
+const t=h.scrollHeight-h.clientHeight;b.style.transform='scaleX('+(t>0?h.scrollTop/t:0)+')';}
+addEventListener('scroll',s,{passive:true});s();})();</script>
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-01-il-costo-della-guerra-arriva-sui-titoli-di-stato/copertina_1920x1080.png" class="img-fluid"></p>
+<section id="lo-shock-petrolifero-ha-spinto-le-banche-centrali-a-stringere-e-i-rendimenti-ai-livelli-più-alti-da-anni.-il-debito-dei-giganti-dellintelligenza-artificiale-e-i-conti-pubblici-pesano-meno-di-quanto-si-racconti" class="level2">
+<h2 class="anchored" data-anchor-id="lo-shock-petrolifero-ha-spinto-le-banche-centrali-a-stringere-e-i-rendimenti-ai-livelli-più-alti-da-anni.-il-debito-dei-giganti-dellintelligenza-artificiale-e-i-conti-pubblici-pesano-meno-di-quanto-si-racconti">Lo shock petrolifero ha spinto le banche centrali a stringere e i rendimenti ai livelli più alti da anni. Il debito dei giganti dell’intelligenza artificiale e i conti pubblici pesano meno di quanto si racconti</h2>
+<div class="capoverso-primo">
+<p>Il 29 settembre il Treasury a dieci anni, il titolo di Stato americano che fa da riferimento per i mercati di tutto il mondo, ha chiuso al 5,26 per cento, il livello più alto dal giugno 2007. Il trentennale è arrivato al 5,59 per cento, un valore che non si registrava dal 2004. Per le obbligazioni americane settembre è stato il mese peggiore dell’anno: il decennale ha guadagnato mezzo punto in quattro settimane. (1)</p>
+</div>
+<p>Il Bund tedesco a dieci anni ha toccato il 3,7 per cento, massimo dal 2011. In Giappone il decennale ha superato il 3 per cento per la prima volta dal 1996, e il trentennale ha raggiunto il livello più alto da quando il ministero delle Finanze ne pubblica la serie. In Italia il BTP decennale è salito al 4,59 per cento, mentre lo spread sul Bund, cioè la differenza di rendimento con il titolo tedesco, è tornato a 100 punti base (un punto base vale un centesimo di punto percentuale) per la prima volta dalla primavera del 2025. (2)</p>
+<p>Le spiegazioni più citate sono due. La prima chiama in causa l’inflazione, risalita con la guerra in Medio Oriente e con il blocco del traffico nello stretto di Hormuz. La seconda chiama in causa gli hyperscaler, i gruppi che costruiscono l’infrastruttura del cloud e dell’intelligenza artificiale, come Alphabet, Amazon, Meta e Oracle: le loro emissioni obbligazionarie, sempre più grandi e sempre più lunghe, sottrarrebbero compratori ai titoli di Stato. A queste si aggiunge una domanda che riguarda da vicino l’Italia, cioè se i mercati stiano di nuovo punendo soprattutto i paesi con i conti pubblici peggiori. I dati pubblici permettono di misurare il peso di ciascuna ipotesi, e il risultato sembra ridimensionare la seconda e la terza ipotesi.</p>
+</section>
+<section id="prima-e-dopo-il-28-febbraio" class="level2">
+<h2 class="anchored" data-anchor-id="prima-e-dopo-il-28-febbraio">Prima e dopo il 28 febbraio</h2>
+<p>Fino all’inizio della guerra i grandi mercati del debito seguivano ciascuno una storia propria. Fra la fine del 2024 e il 27 febbraio 2026, vigilia dei primi attacchi americani e israeliani all’Iran, il decennale americano era sceso dal 4,58 al 3,97 per cento, mentre la Fed tagliava i tassi. Il Bund era invece salito di colpo nel marzo 2025, quando i partiti della futura coalizione di governo avevano concordato di riformare il freno al debito per finanziare la difesa: in due giorni il rendimento passò dal 2,5 al 2,9 per cento, con il rialzo giornaliero più ampio dalla riunificazione. In Giappone il decennale era quasi raddoppiato, da 1,1 a 2,1 per cento, mentre la banca centrale usciva dalla stagione dei tassi zero. (3)</p>
+<p>Dal 28 febbraio i tre mercati si sono mossi insieme. Fino al 29 settembre il decennale americano è salito di 129 punti base, quello tedesco di 92 e quello giapponese di 95. Un movimento così uniforme, in economie con politiche di bilancio tanto diverse, fa pensare a una causa comune. (4)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-01-il-costo-della-guerra-arriva-sui-titoli-di-stato/G1_rendimenti_tre_paesi.png" class="img-fluid figure-img"></p>
+<figcaption>Il rialzo non è solo americano. Rendimento dei titoli di Stato a 10 anni di Stati Uniti, Germania e Giappone.</figcaption>
+</figure>
+</div>
+</section>
+<section id="il-petrolio-e-le-banche-centrali" class="level2">
+<h2 class="anchored" data-anchor-id="il-petrolio-e-le-banche-centrali">Il petrolio e le banche centrali</h2>
+<p>La causa comune più evidente è lo shock energetico. Il Brent, il petrolio di riferimento sui mercati europei, valeva 71 dollari al barile alla vigilia della guerra e ne valeva 138 il 7 aprile. Dopo essere ridisceso intorno ai 70 dollari a fine giugno, a settembre è risalito fino a 131 con la ripresa degli scontri nello stretto. Negli Stati Uniti l’inflazione al consumo è passata dal 2,8 per cento di gennaio al 3,7 di agosto, mentre quella di fondo, che esclude energia e alimentari, è scesa dal 3,0 al 2,8. (5)</p>
+<p>La forma del rialzo indica però per quale strada lo shock sia arrivato ai rendimenti. Il rendimento di un titolo a dieci anni si scompone in due parti. Una compensa l’inflazione attesa e si ricava dal confronto con i titoli indicizzati ai prezzi, che negli Stati Uniti si chiamano TIPS: la differenza fra i due rendimenti prende il nome di inflazione di pareggio. L’altra è il rendimento reale, ciò che resta al netto dei prezzi, e dipende dai tassi che la banca centrale fisserà negli anni a venire e dal premio a termine, il compenso aggiuntivo che si chiede per vincolare il denaro a lungo invece di rinnovare ogni anno un prestito breve.</p>
+<p>Dei 129 punti base guadagnati dal decennale americano dalla vigilia della guerra, 119 fanno riferimento al rendimento reale e appena 10 all’inflazione di pareggio, e la proporzione resta la stessa spostando di qualche giorno le date di inizio e di fine. L’inflazione attesa sui cinque anni ha seguito il petrolio fino al 4 maggio, quando ha toccato il 2,72 per cento. Da allora è scesa al 2,36, sotto il livello di febbraio, e nel frattempo il decennale ha guadagnato altri 81 punti. (6)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-01-il-costo-della-guerra-arriva-sui-titoli-di-stato/G2_reale_contro_inflazione.png" class="img-fluid figure-img"></p>
+<figcaption>Sale il tasso reale, non l’inflazione attesa. Treasury a 10 anni, rendimento reale dei TIPS e inflazione di pareggio a 5 anni.</figcaption>
+</figure>
+</div>
+<p>L’inflazione è arrivata ai rendimenti attraverso le banche centrali. Fra il 10 e il 18 settembre hanno alzato i tassi di un quarto di punto le tre principali banche centrali delle economie avanzate, prima la BCE e per ultima la Banca del Giappone. Il comunicato della Fed registra che «<em>inflation remains elevated</em>». I mercati hanno creduto all’impegno di riportare l’inflazione all’obiettivo e, proprio per questo, hanno prezzato tassi reali più alti: il rendimento reale americano a dieci anni, al 2,91 per cento, è al massimo dal novembre 2008. (7)</p>
+</section>
+<section id="il-debito-dei-giganti-dellintelligenza-artificiale" class="level2">
+<h2 class="anchored" data-anchor-id="il-debito-dei-giganti-dellintelligenza-artificiale">Il debito dei giganti dell’intelligenza artificiale</h2>
+<p>L’ipotesi degli hyperscaler ha un sostenitore autorevole. Interrogato sul rialzo dei rendimenti, il 16 settembre il presidente della Fed, Kevin Warsh, ha indicato tre ragioni. La seconda era la concorrenza per il capitale: «<em>the so-called hyperscalers are out in the market raising funding. And so the competition for capital is real, and I think it partly explains the increase in yields</em>». (8)</p>
+<p>Le quantità danno fondamento all’argomento. Fra gennaio e agosto Alphabet, Amazon, Meta e Oracle hanno collocato 157 miliardi di dollari di obbligazioni in dollari, circa un decimo del debito netto aggiunto dal Tesoro americano nello stesso periodo. Sulle scadenze lunghe il peso cresce: i loro titoli a vent’anni e oltre valgono quasi un quarto dell’aumento dei titoli federali di pari durata. Il Tesoro, dal canto suo, non ha accresciuto l’offerta di titoli lunghi rispetto al 2025: ha coperto il fabbisogno con titoli a breve e da settembre riacquista più carta a lunga scadenza, sicché l’offerta lunga aggiuntiva di quest’anno è venuta dalle imprese. (9)</p>
+<p>I prezzi raccontano un’altra storia. Nei 12 giorni delle principali emissioni in dollari il rendimento dei Treasury si è mosso come in un giorno qualunque, sia nella seduta stessa sia nella settimana intorno. Si è allargato invece, quasi ogni volta, lo spread delle obbligazioni societarie di qualità elevata, cioè la loro distanza dai titoli di Stato. (10) Alla stessa conclusione arrivava a fine settembre Matthew Hornbach di Morgan Stanley, che al Financial Times parlava di «<em>a small amount of evidence</em>» di un effetto sui Treasury, minore a suo giudizio di quello dei tassi americani in salita e delle prospettive di bilancio. (11) Il costo ricade sugli emittenti. Alphabet, valutata AA+, appena sotto il giudizio massimo delle agenzie di rating, nell’aprile 2025 collocava il decennale a 47 punti base sopra il Treasury; nell’agosto 2026 ne ha pagati 85, mentre lo spread medio delle obbligazioni AA restava a 57. «<em>At the moment you’ve almost got two credit markets, the AI-related issuers and everyone else</em>», osservava Andy Chorlton di M&amp;G. (12)</p>
+<p>Il calendario conferma la distanza. Novembre 2025, il mese record per le emissioni degli hyperscaler, ha visto il decennale americano scendere. Settembre 2026, il mese peggiore dell’anno per i rendimenti, è stato fra i più poveri di emissioni. Su venti mesi le variazioni dei rendimenti si muovono con il prezzo del petrolio e non mostrano alcun legame con il volume collocato. (13)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-01-il-costo-della-guerra-arriva-sui-titoli-di-stato/G3_emissioni_e_rendimenti.png" class="img-fluid figure-img"></p>
+<figcaption>Le emissioni degli hyperscaler e i rendimenti non vanno al passo. Emissioni mensili e variazione del Treasury a 10 anni.</figcaption>
+</figure>
+</div>
+<p>Resta il confronto internazionale. Il Bund e il titolo giapponese sono saliti quasi quanto il Treasury senza che sui loro mercati arrivasse un’ondata paragonabile di obbligazioni tecnologiche. La parte del rialzo propria degli Stati Uniti vale circa un terzo di punto, e dentro quel margine devono stare tutte le cause soltanto americane, hyperscaler compresi. (14)</p>
+<p>L’intelligenza artificiale entra probabilmente da un’altra porta. Gli investimenti nei data center sostengono la domanda americana, e il comunicato della Fed annota che «<em>capital investment is robust</em>». Un’economia che investe molto tiene alto il tasso reale e rende la banca centrale meno disposta a tollerare l’inflazione. Il canale è plausibile, e con i dati disponibili resta difficile distinguerlo dalla forza dell’economia nel suo insieme. (15)</p>
+</section>
+<section id="i-conti-pubblici" class="level2">
+<h2 class="anchored" data-anchor-id="i-conti-pubblici">I conti pubblici</h2>
+<p>Per verificare se i mercati puniscano i paesi più indebitati occorre confrontare economie con la stessa banca centrale, perché altrimenti le differenze fra le strette monetarie confondono il quadro. I paesi dell’euro offrono questa condizione: la BCE è la banca centrale per tutti i paesi dell’area, e le differenze nel rialzo dei rendimenti misurano ciò che è proprio di ciascun paese. Fra febbraio e agosto, ultimo mese disponibile, il decennale è salito in 18 paesi dell’area di un valore compreso fra 29 e 72 punti base, con una mediana di 45. (16)</p>
+<p>Il debito conta, ma meno di quanto atteso. Nei paesi con un debito superiore al 90 per cento del prodotto il rialzo medio è stato di 52 punti, contro i 43 dei paesi sotto il 60 per cento. La differenza la fanno Francia e Italia, salite entrambe di 60 punti. La Grecia, che ha il debito più alto dell’area ma chiude i conti in avanzo, è salita di 48, in linea con la mediana. Escludendo Italia e Grecia, il legame fra debito e rialzo scompare. (17)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-01-il-costo-della-guerra-arriva-sui-titoli-di-stato/G4_debito_e_rialzo_euro.png" class="img-fluid figure-img"></p>
+<figcaption>Nell’euro il debito spiega poco del rialzo. Debito pubblico e variazione del rendimento a 10 anni nei paesi dell’euro.</figcaption>
+</figure>
+</div>
+<p>Su un orizzonte più lungo il paese più penalizzato è la Germania, che pure ha uno dei debiti più bassi fra le grandi economie dell’area: dalla fine del 2024 il Bund ha guadagnato 101 punti, più dei titoli francesi e italiani. I mercati sembrano guardare al nuovo debito annunciato e al disavanzo più che allo stock accumulato, e la Germania ha cambiato rotta proprio sul primo fronte. (18)</p>
+</section>
+<section id="che-cosa-resta-da-spiegare" class="level2">
+<h2 class="anchored" data-anchor-id="che-cosa-resta-da-spiegare">Che cosa resta da spiegare</h2>
+<p>Il premio a termine è salito, ma la sua misura dipende dal modello che lo stima. I due più usati, quello della Fed di New York e quello del Federal Reserve Board, gli attribuiscono fra un decimo e quasi la metà del rialzo americano dall’inizio della guerra. (19) In quella forchetta trovano posto i disavanzi pubblici e l’incertezza geopolitica. Vi può rientrare anche una parte dell’offerta degli hyperscaler che i confronti per giorno e per mese non colgono: un effetto lento, che cresce con lo stock di debito, non lascia traccia nelle singole sedute di collocamento, e i dati pubblici non bastano a misurarlo.</p>
+</section>
+<section id="litalia" class="level2">
+<h2 class="anchored" data-anchor-id="litalia">L’Italia</h2>
+<p>Per i titoli italiani l’ordine dei fattori è chiaro. Il BTP decennale sale soprattutto perché sale il Bund, che risente della politica della BCE; lo spread pesa per il resto. «<em>Come ho sempre detto, bisogna stare molto attenti al debito</em>», ha commentato il ministro dell’Economia Giancarlo Giorgetti il giorno in cui lo spread è tornato a 100 punti, mentre il governo apriva la partita della legge di bilancio. (20)</p>
+<p>Se il rialzo resta legato ai tassi reali e alle banche centrali, potrebbe rientrare quando il petrolio scenderà. Uno scenario peggiore si aprirebbe se l’inflazione attesa cominciasse a salire insieme ai rendimenti, perché segnalerebbe che i mercati smettono di credere alle banche centrali. Nelle prossime settimane l’inflazione di pareggio a cinque anni potrebbe quindi rivelarsi un indicatore più utile dello spread per capire la direzione dei rendimenti italiani.</p>
+</section>
+<section id="note-e-fonti" class="level2">
+<h2 class="anchored" data-anchor-id="note-e-fonti">Note e fonti</h2>
+<p>Elaborazioni su dati pubblici di Federal Reserve, BCE, Bundesbank, Ministero delle Finanze del Giappone, Tesoro degli Stati Uniti, Eurostat e Securities and Exchange Commission. Codice e revisione critica dell’analisi sono disponibili su richiesta.</p>
+<ol type="1">
+<li><p>Chiusure giornaliere. Treasury a 10 anni 5,26% il 29 settembre 2026, massimo da giugno 2007; a 30 anni 5,59%, massimo da maggio 2004 (Federal Reserve Bank of St.&nbsp;Louis, FRED, serie DGS10 e DGS30; alcune cronache scrivono «dal 2002» riferendosi ai valori in corso di seduta). Variazione del decennale a settembre: +51 punti base, la più ampia fra i mesi del 2026.</p></li>
+<li><p>Bund a 10 anni 3,69% il 28 settembre 2026, massimo dall’aprile 2011 (Deutsche Bundesbank, curva dei titoli federali, metodo Svensson). Titolo giapponese a 10 anni 3,08% il 28 settembre 2026, massimo dall’agosto 1996; a 30 anni 4,13% il 1° settembre 2026, il valore più alto della serie, che parte nel 1999 (Ministero delle Finanze del Giappone). BTP e spread al 29 settembre 2026: «un livello che non si vedeva da fine 2023» (D. Conti, ANSA, 29 settembre 2026, ore 20:49). Il massimo mensile del 2023 era stato del 4,89% (ottobre 2023; OCSE, serie IRLTLT01ITM156N su FRED).</p></li>
+<li><p>Treasury: FRED DGS10, 31 dicembre 2024 e 27 febbraio 2026. Bund: Bundesbank, chiusure del 4 e del 6 marzo 2025; «<em>German government bonds recorded their biggest daily jump since Germany’s reunification in 1990</em>» e accordo «<em>to reform historic debt policy rules to allow an increase in national defense spending</em>» (C. Taylor, CNBC, 6 marzo 2025). Giappone: Ministero delle Finanze, 30 dicembre 2024 e 27 febbraio 2026; il 19 dicembre 2025 la Banca del Giappone aveva portato i tassi allo 0,75%, «<em>their highest level since 1995</em>» (Lim Hui Jie, CNBC, 19 dicembre 2025). Inizio della guerra: 28 febbraio 2026 (Congressional Research Service, U.S. Conflict with Iran, R48887, 26 marzo 2026, sezione «Summary»).</p></li>
+<li><p>Dal 27 febbraio al 29 settembre 2026, titoli a 10 anni; fonti come nelle note 1 e 2.</p></li>
+<li><p>Brent: 71,32 dollari il 27 febbraio, 138,21 il 7 aprile 2026, 70,46 il 30 giugno, massimo di settembre 130,80, 113,96 il 29 settembre (FRED DCOILBRENTEU). Inflazione americana su dodici mesi, indice dei prezzi al consumo: totale dal 2,83% di gennaio al 3,71% di agosto; senza alimentari ed energia dal 2,95% al 2,76% (FRED CPIAUCSL e CPILFESL).</p></li>
+<li><p>Dal 27 febbraio al 29 settembre 2026: TIPS a 10 anni (FRED DFII10) e inflazione di pareggio a 10 anni (FRED T10YIE). Con sei combinazioni di date di inizio (20 febbraio, 27 febbraio, 2 marzo) e di fine (25 e 29 settembre) la quota reale resta fra il 92 e il 96 per cento. Inflazione di pareggio a 5 anni (FRED T5YIE): 2,40% il 27 febbraio, 2,72% il 4 maggio 2026, 2,36% il 30 settembre; il decennale era al 4,45% il giorno del picco. L’inflazione di pareggio contiene anche un premio per il rischio d’inflazione e risente della minore liquidità dei TIPS.</p></li>
+<li><p>BCE, decisioni di politica monetaria del 10 settembre 2026: tasso sui depositi al 2,50%. Federal Reserve, comunicato del 16 settembre 2026, voto 12 a 0: intervallo dei fed funds al 3,75-4%. Banca del Giappone, 18 settembre 2026: tasso all’1,25%, «<em>the highest level since 1995</em>» (CNBC, 18 settembre 2026). TIPS a 10 anni al 2,91% il 29 settembre 2026, massimo da novembre 2008 (FRED DFII10).</p></li>
+<li><p>K. Warsh, conferenza stampa del comitato di politica monetaria della Fed (FOMC) del 16 settembre 2026, trascrizione ufficiale, p.&nbsp;12 di 15. Le altre due ragioni indicate sono la forza dell’economia («economic strength») e la geopolitica («geopolitics»).</p></li>
+<li><p>Gennaio-agosto 2026. Hyperscaler: 157 miliardi di dollari emessi in dollari (212 in tutte le valute), di cui 64 con scadenza a 20 anni o più; registro dei prospetti depositati alla SEC da Alphabet, Amazon, Meta e Oracle. Il registro è un pavimento: non contiene i veicoli dei centri dati né le emissioni non registrate alla SEC. Tesoro: debito negoziabile +1.557 miliardi, di cui titoli a breve +701, notes +582, bonds +276 (Monthly Statement of the Public Debt, tabella 1, 31 dicembre 2025 e 31 agosto 2026). Rapporti: 10 per cento del totale, 23 per cento dei bonds. Negli stessi mesi del 2025 il Tesoro aveva aggiunto +283 in bonds, +646 in notes e +182 in titoli a breve. Il 5 agosto 2026 il Tesoro ha confermato le aste di titoli a cedola invariate «for at least the next several quarters»; dal 9 settembre ha raddoppiato i riacquisti sulle scadenze da 10 a 30 anni.</p></li>
+<li><p>12 emissioni in dollari da gennaio 2025 ad agosto 2026, da 5 a 37 miliardi l’una (stesso registro della nota 9). Treasury a 10 anni: variazione al 61° percentile delle medie su date estratte a caso (giorno prima e giorno dopo), al 55° su una finestra di sette giorni; a 30 anni al 75° e al 59° percentile. Spread dell’indice ICE BofA delle obbligazioni AA: +2,6 punti base in media, al 99,9° percentile (FRED; 2.000 estrazioni casuali).</p></li>
+<li><p>E. Healy, E. Herbert, M. Chan, «<em>AI giants are transforming debt</em>», Financial Times, 28 settembre 2026, p.&nbsp;5: «<em>We can find a small amount of evidence, through US primary dealer balance sheet holdings of corporate bonds</em>». Il giudizio sul peso relativo è la parafrasi del giornale.</p></li>
+<li><p>Spread di collocamento sul Treasury, titolo a dieci anni: schede dei termini depositate alla SEC da Alphabet il 28 aprile 2025 e il 7 agosto 2026; indice ICE BofA AA su FRED, 57 e 57 punti base nelle due date. A. Chorlton, M&amp;G, in Financial Times, 28 settembre 2026, p.&nbsp;3.</p></li>
+<li><p>Febbraio 2025-settembre 2026, 20 mesi. Emissioni degli hyperscaler in tutte le valute: 70 miliardi di dollari a novembre 2025, con il decennale a -9 punti base nel mese; 6 miliardi a settembre 2026, con il decennale a +51. Correlazione fra emissioni del mese e variazione del decennale -0,02; fra variazione del Brent e variazione del decennale 0,55. Con venti mesi la correlazione è un indizio, non una prova.</p></li>
+<li><p>Differenza fra il rialzo americano e quello tedesco 37 punti, fra quello americano e quello giapponese 34. Alphabet ha emesso anche in euro e in yen (nota 9, importi «in tutte le valute»).</p></li>
+<li><p>Federal Reserve, comunicato del FOMC, 16 settembre 2026: «Productivity growth is strong, and capital investment is robust».</p></li>
+<li><p>Rendimenti a 10 anni per la convergenza, medie mensili (BCE, dataset IRS), febbraio e agosto 2026; settembre non era ancora pubblicato. Ventuno paesi nell’euro, compresa la Bulgaria dal 1° gennaio 2026; esclusi Bulgaria, Croazia e Lituania, le cui serie restano ferme per più di tre mesi su venti e non esprimono un prezzo di mercato. Il rialzo massimo, in Estonia, riguarda un mercato con pochissimo debito pubblico.</p></li>
+<li><p>Debito e saldo 2025 in percentuale del PIL: Eurostat, gov_10dd_edpt1. Francia 115,6 e -5,1; Italia 137,1 e -3,1; Grecia 146,1 e 1,7. Paesi sopra il 90 per cento: Belgio, Francia, Grecia, Italia, Spagna; sotto il 60 per cento: 7 paesi. Correlazione fra debito e rialzo 0,19 su 18 paesi, 0,02 senza Italia e Grecia; fra saldo e rialzo -0,22. Sugli undici mercati più grandi la correlazione con il debito sale a 0,69, trainata dagli stessi due paesi.</p></li>
+<li><p>Dicembre 2024-agosto 2026, medie mensili BCE: Germania +101, Francia +99, Italia +66 punti base; debito tedesco 63,5 per cento del PIL nel 2025 (Eurostat).</p></li>
+<li><p>Dal 27 febbraio al 29 settembre 2026. Modello ACM (Adrian, Crump e Moench, Federal Reserve Bank of New York): attese sui tassi +94 punti base, premio a termine +25. Modello di Kim e Wright (Federal Reserve Board, FRED THREEFYTP10): premio a termine +56. Con le sei combinazioni di date della nota 6 la quota del premio va dall’11 al 47 per cento.</p></li>
+<li><p>G. Giorgetti, citato da D. Conti, ANSA, 29 settembre 2026. BTP a 10 anni: 3,39% nella media di febbraio 2026 e spread a 64 punti (OCSE, medie mensili su FRED); 4,59% e 100 punti il 29 settembre (ANSA). Del rialzo di 120 punti base, 36 vengono dallo spread e il 70 per cento dal Bund; il confronto mescola una media mensile e una chiusura ed è quindi approssimato.</p></li>
+</ol>
+<p><em>Uscito su LinkedIn il 1° ottobre 2026: <a href="https://www.linkedin.com/pulse/il-costo-della-guerra-arriva-sui-titoli-di-stato-federico-ninivaggi-ugksc/">l’articolo originale</a>.</em></p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · 1 ottobre 2026</p>
+</div>
+</section>
+
+ ]]></description>
+  <category>Finanza pubblica</category>
+  <category>Mercati e credito</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-10-01-il-costo-della-guerra-arriva-sui-titoli-di-stato/</guid>
+  <pubDate>Thu, 01 Oct 2026 06:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

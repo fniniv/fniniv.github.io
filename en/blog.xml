@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Federico Ninivaggi</title>
+<link>https://fniniv.github.io/en/blog.html</link>
+<atom:link href="https://fniniv.github.io/en/blog.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.9.30</generator>
+<lastBuildDate>Wed, 18 Nov 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>AC Boise’s points matched its chances, among League One’s best</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-11-18-ac-boise-s-points-matched-its-chances-among-league-one-s-bes/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#2F6B3A;--tema-fg:#F4EEDF;--tema-acc:#F2C46B;--tema-ink:#2F6B3A;--tinta:#E6E8DA;}</style>
+<header class="apertura column-screen apertura-long" style="--fig-bg:#2F6B3A;--fig-fg:#F4EEDF;--fig-acc:#F2C46B"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 22 · football · Nov 18, 2026</p><h1 class="apertura-titolo">AC Boise’s points matched its chances, among League One’s best</h1><p class="apertura-sommario">Athletic Club Boise’s first League One season, read through public shot data: chances among the league’s best, points to match, a stronger second half, and a final lost late at Charlotte.</p><p class="tag-riga"><a class="tag-argomento" href="../../../en/blog.html#category=Football">Football</a></p><a class="testata-torna" href="../../../en/blog_calcio.html">↩ back to Football</a></div></div></header>
+
+<script>(function(){const b=document.querySelector('.barra-lettura');function s(){const h=document.documentElement;
+const t=h.scrollHeight-h.clientHeight;b.style.transform='scaleX('+(t>0?h.scrollTop/t:0)+')';}
+addEventListener('scroll',s,{passive:true});s();})();</script>
+<div class="in-breve">
+<p>Over the regular season, Athletic Club Boise created and allowed chances worth as many points as those of any team in USL League One. It finished with close to the points those chances deserved.</p>
+<p>In the second half of the season Boise created more than in the first without allowing more, and its points rose further still because it conceded fewer goals from chances of similar value.</p>
+<p>The title went to Charlotte Independence, which won far more points than its own chances deserved, the widest gap in the league.</p>
+<p>In the final Boise led until the closing minutes, yet across both games played at Charlotte’s home stadiums the hosts created more, even while the game was tied.</p>
+</div>
+<div class="capoverso-primo">
+<p>Athletic Club Boise ended its first season in USL League One, the third tier of American professional soccer, with a lost final and a place among the league’s best teams by the quality of its chances. Over the regular season its points came out close to where those chances put them, and the final went 4-2 to Charlotte Independence, a team that beat its own chances by a wider margin than anyone else.</p>
+</div>
+<p>It matters because Boise moves up to the USL Championship, the second tier, next season at the league’s invitation, as <a href="https://www.kivitv.com/video/sports/athletic-club-boise-to-join-usl-championship-in-2027-expand-stadium">KIVI reported</a>. A team that lost points to bad luck could expect them back without changing anything, and Boise’s numbers offer no such comfort, although they also describe a side that improved as the year went on. According to <a href="https://idahonews.com/newsletter-daily/ac-boise-falls-4-2-in-usl-league-1-final-against-charlotte-independence">Idaho News</a>, the club was only the second expansion team to reach the final in its first season.</p>
+<section id="how-the-chances-are-counted" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="how-the-chances-are-counted">How the chances are counted</h2>
+<p>The data come from American Soccer Analysis, or ASA, the site that publishes advanced data for North American leagues, League One shots included. Each shot carries a value in expected goals, or xG: the probability that a shot of that kind, from that spot, becomes a goal. A team’s xG adds up to the goals its chances were worth, and ASA turns the xG of a game into expected points, the points those chances would bring.<sup>1</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;ASA’s <a href="https://www.americansocceranalysis.com/glossary">glossary</a> defines expected points as “Expected team points earned based on xG (team model)”.</p></div></div><p>This league needs its own yardstick. League One teams scored about nine goals for each ten expected over the regular season, so falling short of xG is normal here. In what follows, a team’s goals are measured against that league rate rather than against the model.</p>
+</section>
+<section id="among-the-best-three-by-chances" class="level2">
+<h2 class="anchored" data-anchor-id="among-the-best-three-by-chances">Among the best three by chances</h2>
+<p>By ASA’s measure, Boise’s chances were worth 1.78 expected points a game, the highest figure in the division by a hair over Union Omaha and Forward Madison. Defence was the base of it, since no other team allowed chances of lower value.</p>
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-18-ac-boise-s-points-matched-its-chances-among-league-one-s-bes/figura_1_punti_attesi.png" class="img-fluid" alt="Scatter plot of the 17 USL League One teams in the 2026 regular season, with expected points per game on the horizontal axis and points per game on the vertical axis, and a dashed diagonal where points equal expected points. Athletic Club Boise is on the diagonal at 1.78 expected points and 1.81 points per game. Charlotte Independence is far above it, at 1.52 expected points and 2.06 points per game."></p>
+<p>In the chart each dot is a team, placed by expected points per game across and by points per game up. A team on the dashed line won what its chances deserved, and a team above it won more. Boise is on the line, with 58 points against an expected tally of 56.8.</p>
+<p>That near match came by a narrower road than the total suggests. Measured against the league rate, Boise scored about four goals fewer than its chances implied and conceded about three more than the shots against it were worth. The two strikers with the most valuable chances account for more than the whole shortfall up front: between them they scored 14 goals from chances that would have produced about 19 at the league rate.</p>
+<p>Close games brought the points back. Of the 25 league games that Boise drew or decided by a single goal it lost only five, and just one team had a better record in such games.</p>
+</section>
+<section id="a-stronger-second-half" class="level2">
+<h2 class="anchored" data-anchor-id="a-stronger-second-half">A stronger second half</h2>
+<p>Boise’s chances grew in value through the year, from 1.57 expected goals a game in the first half of the league season to 2.03 in the second, while the value of what it allowed barely changed.</p>
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-18-ac-boise-s-points-matched-its-chances-among-league-one-s-bes/figura_2_stagione.png" class="img-fluid" alt="Line chart of Athletic Club Boise's 2026 regular season, from league game 8 to game 32, showing the eight-game average of expected goals created and expected goals allowed. A dashed vertical line shows midseason after game 16. Expected goals created rise after midseason, while expected goals allowed stay flat."></p>
+<p>The chart follows the average of the previous eight league games, in which the green line tracks the xG Boise created and the grey line the xG it allowed, and after the dashed midseason line the green climbs while the grey stays flat. The rise showed away from home as well, although over seven and nine away games a difference of that size is within what chance produces.</p>
+<p>Points rose more than the chances alone would explain. Over the second half expected points grew by about four and actual points by ten, largely because Boise conceded 16 goals from shots after 22 in the first half, from chances allowed of similar value. Part of the second-half level therefore rests on goals conceded below the value of the chances allowed, a gap that may not last.</p>
+</section>
+<section id="charlotte-17-points-above-its-chances" class="level2">
+<h2 class="anchored" data-anchor-id="charlotte-17-points-above-its-chances">Charlotte, 17 points above its chances</h2>
+<p>Charlotte Independence finished first from chances whose value ranked only sixth, and in ASA’s data no other team came within ten points of its surplus.</p>
+<p>That surplus came from both ends of the pitch. By the league rate, Charlotte scored about nine goals more than its chances implied and conceded about twelve fewer than the shots against it were worth, which gave it the best goal difference in the division.</p>
+<p>Gaps of this kind run both ways. Greenville Triumph SC and New York Cosmos each fell between thirteen and fifteen points short of their chances, while for the rest of the league the spread between points and expected points is about six points over a season. Shot data cannot say how much of Charlotte’s surplus came from its goalkeeper, from its finishers or from its opponents’ misses.</p>
+</section>
+<section id="corners-and-the-road" class="level2">
+<h2 class="anchored" data-anchor-id="corners-and-the-road">Corners and the road</h2>
+<p>Corners gave Boise 15% of its expected goals, against 12% for the league as a whole, and no team allowed less from them. Both totals are small, worth fewer than ten goals over the season, so a handful of headers either way would change the ranking.</p>
+<p>On average, a team’s xG difference in League One was about 0.9 goals a game better at home than away. Boise was the only team whose chances on the road outweighed those it allowed, by a margin that chance alone could produce.</p>
+</section>
+<section id="the-three-games-at-the-end" class="level2">
+<h2 class="anchored" data-anchor-id="the-three-games-at-the-end">The three games at the end</h2>
+<p>Boise opened the playoffs as it had played the season, with a 2-0 home win over One Knoxville in which it allowed almost no chances. Against Chattanooga Red Wolves it needed extra time and a single goal to go through, after taking more than twice as many shots as its opponent.</p>
+<p>The final was played at the Sportsplex at Matthews, one of the two stadiums where Charlotte played its home games. Charlotte had won the regular season, and with it <a href="https://ussoccer.com/stories/2026/10/federation/everything-you-need-to-know-about-the-2026-usl-league-one-playoffs">home field throughout the playoffs</a>. Boise led at the break, according to Idaho News, and was still ahead 2-1 in the closing minutes, before Charlotte scored three late goals.</p>
+<p>Chances explain the defeat better than luck does, although less sharply than the totals suggest. Over the whole final Charlotte’s chances were worth far more than Boise’s, but 57% of Charlotte’s expected goals came while it was chasing the game, when any side pushes forward. While the game was tied, Charlotte still created chances worth 1.3 expected goals to Boise’s 0.8.</p>
+<p>The May meeting at the American Legion Memorial Stadium, where Charlotte played most of its home games, had gone the same way. With the game level Charlotte created by far the better chances, a missed penalty among them, and won by a single goal. In Boise in September the balance reversed and the game ended level.</p>
+</section>
+<section id="what-the-season-says" class="level2">
+<h2 class="anchored" data-anchor-id="what-the-season-says">What the season says</h2>
+<p>By the chances it created and allowed, Boise’s first season was that of a top side, and its points matched those chances over the year. The second half was stronger in chances and stronger still in results, helped by fewer goals conceded. Charlotte, the champion, ran further ahead of its numbers than anyone, and at home it outplayed Boise twice.</p>
+<p>For Boise’s staff and supporters, the reading changes what to expect from last season’s evidence.</p>
+<ul>
+<li>Expect no rebound from luck over a full season, because Boise’s points already matched its chances in League One.</li>
+<li>Judge the first months on the chances created and allowed, since in this league the table drifted from them by three points or more for most teams.</li>
+</ul>
+<p>The reading rests on one season in the third tier. Next season brings stronger opponents and a changed squad, and nothing in League One data measures how Boise’s chances will travel up a level. ASA owns the xG model, and no source this piece could check publishes how well it fits League One. A fit on this league alone would show whether the missing goals belong to the model or to the players. This piece uses shot data only, leaving aside ASA’s values for passing and ball-winning, and public data for this league do not record injuries.</p>
+<p><em>How this piece was made.</em> Data from the public interface of <a href="https://app.americansocceranalysis.com/">American Soccer Analysis</a> for the 2026 USL League One season, retrieved on 18 November. ASA records every regular-season game but two, both of them Chattanooga home games. Expected goals are the sum of ASA’s xG for each shot; expected points are ASA’s own figure, built on its team-level xG model, which differs slightly from the shot-by-shot sum. The season is split after the first half of the league games, and a split at the start of July gives the same picture. Goals compared with xG exclude own goals, which have no shot attached, and ASA may still revise the shots of the final in the days after it.</p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · November 18, 2026</p>
+</div>
+</section>
+
+
+ ]]></description>
+  <category>Football</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-11-18-ac-boise-s-points-matched-its-chances-among-league-one-s-bes/</guid>
+  <pubDate>Wed, 18 Nov 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>When a public guarantee is voided, the working paper in a video</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-11-17-when-a-public-guarantee-is-voided-the-working-paper-in-a-vid/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#2B2D42;--tema-fg:#F4EEDF;--tema-acc:#F2B544;--tema-ink:#2B2D42;--tinta:#E5E2DB;}</style>
+<header class="apertura column-screen" style="--fig-bg:#2B2D42;--fig-fg:#F4EEDF;--fig-acc:#F2B544"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 20 · video · Nov 17, 2026</p><h1 class="apertura-titolo">When a public guarantee is voided, the working paper in a video</h1><p class="apertura-sommario">Italy’s Central Guarantee Fund refuses to pay if the bank screened the loan without due diligence: the argument of the working paper and the case of Banca Progetto.</p><p class="tag-riga"><a class="tag-argomento" href="../../../en/blog.html#category=Markets and credit">Markets and credit</a><a class="tag-argomento" href="../../../en/blog.html#category=Public policy">Public policy</a></p><a class="testata-torna" href="../../../en/blog_video.html">↩ back to Video</a></div></div></header>
+<p>Italy’s Central Guarantee Fund repays the bank most of a small-firm loan that goes unpaid. The repayment is voided if the bank screened the loan without due diligence, and the working paper «Guarantees That Negligence Voids» studies what this does to the bank’s incentives and to its capital. The video follows the argument to the case of Banca Progetto in under two minutes.</p>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-big-play-centered vjs-fluid" controls="" preload="auto" data-setup="{}" title="Guarantees That Negligence Voids, the video"><source src="video_moral_hazard_sito_en.mp4"></video></div>
+<p>The figures in the video come from the manuscript. The full abstract is on the <a href="../../..\en/research.html">Research</a> page.</p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · November 17, 2026</p>
+</div>
+
+ ]]></description>
+  <category>Markets and credit</category>
+  <category>Public policy</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-11-17-when-a-public-guarantee-is-voided-the-working-paper-in-a-vid/</guid>
+  <pubDate>Tue, 17 Nov 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Daniela Arques, London City’s passing hub</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-11-16-daniela-arques-london-city-s-passing-hub/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#2F6B3A;--tema-fg:#F4EEDF;--tema-acc:#F2C46B;--tema-ink:#2F6B3A;--tinta:#E6E8DA;}</style>
+<header class="apertura column-screen" style="--fig-bg:#2F6B3A;--fig-fg:#F4EEDF;--fig-acc:#F2C46B"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 13 · football · Nov 16, 2026</p><h1 class="apertura-titolo">Daniela Arques, London City’s passing hub</h1><p class="apertura-sommario">Where she plays, how she passes and how she compares with the WSL’s central midfielders, in three graphics.</p><p class="tag-riga"><a class="tag-argomento" href="../../../en/blog.html#category=Football">Football</a></p><a class="testata-torna" href="../../../en/blog_calcio.html">↩ back to Football</a></div></div></header>
+
+<p>Daniela Arques is London City’s passing hub: only two WSL central midfielders pass more often than her.</p>
+<p>She builds through the middle from deep, then drifts left. In the two games she began on the bench, Grace Geyoro moved over to the left.</p>
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-16-daniela-arques-london-city-s-passing-hub/figura_1_dove.png" class="img-fluid" alt="Heat map of Daniela Arques's 690 touches for London City Lionesses, Women's Super League 2026/27, on a pitch with London City attacking upwards. The darkest areas are in her own half, in front of the defence, and on the left of the opponents' half. Text: Sits deep. 58% of her touches come in her own half, against 50% for a typical WSL holding midfielder; only 4 of the other 16 stay deeper."></p>
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-16-daniela-arques-london-city-s-passing-hub/figura_2_rotte.png" class="img-fluid" alt="Her 8 most-used passing routes as arrows on a pitch, London City attacking upwards. Her three signature routes, used at least 1.5 times as often as by a typical central midfielder, are highlighted on the left flank: two short passes along the left touchline in the opponents' half and a diagonal towards the wing. Text: Drifts left. In her own half she passes mostly through the middle; past halfway 42% of her passes start on the left, against 32% for a typical WSL central midfielder, and only 4 of the other 29 go left more often. In the 2 games she began on the bench, Grace Geyoro moved left: 68% of her passes started there, against 18% alongside Arques."></p>
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-16-daniela-arques-london-city-s-passing-hub/figura_3_confronto.png" class="img-fluid" alt="Ten measures comparing Daniela Arques with the 30 WSL central midfielders with at least 540 minutes, one dot per player; rank 1 is the highest value. On the ball: 3rd for touches and 3rd for passes per 90 minutes, 12th for pass accuracy, 6th for progressive passes, 20th for passes before a shot, 17th for long balls, 19th for touches in the opponents' half. Off the ball: 10th for balls won, 14th for how far up she wins the ball, 2nd of 11 for aerial duels won, 14 of 21. Text: London City's hub. Only 2 WSL central midfielders pass the ball more often; Grace Geyoro ranks 18th."></p>
+<p><em>Women’s Super League 2026/27, matches up to 15 November 2026.</em></p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · November 16, 2026</p>
+</div>
+
+ ]]></description>
+  <category>Football</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-11-16-daniela-arques-london-city-s-passing-hub/</guid>
+  <pubDate>Mon, 16 Nov 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Frida Maanum’s match against London City</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-11-16-frida-maanum-s-match-against-london-city/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#2F6B3A;--tema-fg:#F4EEDF;--tema-acc:#F2C46B;--tema-ink:#2F6B3A;--tinta:#E6E8DA;}</style>
+<header class="apertura column-screen" style="--fig-bg:#2F6B3A;--fig-fg:#F4EEDF;--fig-acc:#F2C46B"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 14 · football · Nov 16, 2026</p><h1 class="apertura-titolo">Frida Maanum’s match against London City</h1><p class="apertura-sommario">Her touches, passes, ball wins and shots in the 1-1 draw of 15 November 2026, on one graphic.</p><p class="tag-riga"><a class="tag-argomento" href="../../../en/blog.html#category=Football">Football</a></p><a class="testata-torna" href="../../../en/blog_calcio.html">↩ back to Football</a></div></div></header>
+
+<p>First WSL start of the season for Frida Maanum, and all three of Arsenal’s big chances went through her: she scored the opener, set up a second and had the third saved at 1-1 in the 77th minute. In all she had a hand in 9 of Arsenal’s 17 shots.</p>
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-16-frida-maanum-s-match-against-london-city/figura.png" class="img-fluid" alt="Graphic titled Frida Maanum's match: Arsenal 1-1 London City, Women's Super League. Stat line: 98 minutes, 49 touches, 22 of 31 passes completed, 7 progressive passes, 4 key passes, 5 shots with 1 goal, 5 ball wins. A heat map shows 67% of her touches in the opponent's half and 47% on the left third of the pitch. A pass map shows her passes, with progressive passes in blue and key passes in red. A pitch shows her 5 ball wins, 3 of them in her own half. A shot map shows 4 of her 5 shots taken inside the box, including the goal in the 10th minute."></p>
+<p><strong>How to read it.</strong> A big chance is a clear scoring chance. A key pass is the pass before a teammate’s shot. A progressive pass is completed, gains at least a tenth of the pitch and cuts the distance to the goal line by at least a quarter. The heat map blurs each of her 49 touches over about 14 metres. Ball wins are balls won back by recoveries, interceptions or tackles, counted once per ball.</p>
+<p><em>Women’s Super League 2026/27.</em></p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · November 16, 2026</p>
+</div>
+
+ ]]></description>
+  <category>Football</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-11-16-frida-maanum-s-match-against-london-city/</guid>
+  <pubDate>Mon, 16 Nov 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Planned AI power is heading to smaller US cities</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-11-14-smaller-us-cities-and-planned-ai-power/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#E58A4E;--tema-fg:#2B2118;--tema-acc:#1F3A5F;--tema-ink:#A3461A;--tinta:#F8EBDC;}</style>
+<header class="apertura column-screen apertura-grafici" style="--fig-bg:#E58A4E;--fig-fg:#2B2118;--fig-acc:#1F3A5F"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 12 · charts · Nov 14, 2026</p><h1 class="apertura-titolo">Planned AI power is heading to smaller US cities</h1><p class="apertura-sommario">Where the large AI data centers tracked by Epoch AI plan their power, county by county.</p><p class="tag-riga"><a class="tag-argomento" href="../../../en/blog.html#category=Artificial intelligence">Artificial intelligence</a><a class="tag-argomento" href="../../../en/blog.html#category=Places">Places</a></p><a class="testata-torna" href="../../../en/blog_grafici.html">↩ back to Charts</a></div></div><div class="apertura-grafico">
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-14-smaller-us-cities-and-planned-ai-power/figura.png" class="img-fluid" alt="Map of the contiguous United States with counties shaded in three classes and orange circles for 77 large AI data centers, followed by bars of the share of land, population, ordinary data centers and AI power in each class. Smaller cities, metro areas under one million people, hold 29% of Americans, 42% of the AI power drawn today and 58% of the power planned."></p>
+</div></header>
+<p>Smaller American cities hold under a third of the population and more than half of the power planned for large AI data centers.</p>
+<p>The map shows the 77 large AI data centers in the United States tracked by the research institute Epoch AI. The solid disc is the power each site draws today and the ring the power planned by 2030. Blue counties belong to metro areas under one million people, grey counties to metro areas of one million or more, and pale counties are nonmetro.</p>
+<p>The bars below compare the three types of county. Nonmetro counties cover two thirds of the land, yet their share of planned power stays close to their share of Americans. Ordinary data centers mapped by volunteers on OpenStreetMap are mostly in big cities. The smaller cities hold about two fifths of the AI power drawn today and more than half of the power planned.</p>
+<p>The two largest planned sites, Microsoft Fairwater in Racine County, Wisconsin, and OpenAI Stargate in Doña Ana County, New Mexico, are in smaller cities. The largest rural project, OpenAI Stargate Shackelford in Texas, is planned in a county of about three thousand residents.</p>
+<p>For utilities and regional planners in metro areas under one million people, the chart shows that most planned AI power is headed to places like theirs.</p>
+<p><em>Sources: Epoch AI, Frontier Data Centers, data of November 5, 2026, CC-BY 4.0 license; USDA Economic Research Service, Rural-Urban Continuum Codes 2023; US Census Bureau, county boundaries 2023; © OpenStreetMap contributors, downloaded on October 5, 2026, ODbL license.</em></p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · November 14, 2026</p>
+</div>
+
+ ]]></description>
+  <category>Artificial intelligence</category>
+  <category>Places</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-11-14-smaller-us-cities-and-planned-ai-power/</guid>
+  <pubDate>Sat, 14 Nov 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>The markets’ new heavyweight borrower</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-10-06-the-markets-new-heavyweight-borrower/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#9E3B2A;--tema-fg:#F4EEDF;--tema-acc:#F2C46B;--tema-ink:#9E3B2A;--tinta:#F1E3D9;}</style>
+<header class="apertura column-screen apertura-long" style="--fig-bg:#9E3B2A;--fig-fg:#F4EEDF;--fig-acc:#F2C46B"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 04 · long read · Oct 6, 2026</p><h1 class="apertura-titolo">The markets’ new heavyweight borrower</h1><p class="apertura-sommario">In twenty-one months Alphabet, Amazon, Meta and Oracle placed 325.7 billion dollars of bonds, with maturities worthy of government debt.</p><p class="tag-riga"><a class="tag-argomento" href="../../../en/blog.html#category=Artificial intelligence">Artificial intelligence</a><a class="tag-argomento" href="../../../en/blog.html#category=Markets and credit">Markets and credit</a></p><a class="testata-torna" href="../../../en/blog_long.html">↩ back to Long read</a></div></div></header>
+
+<script>(function(){const b=document.querySelector('.barra-lettura');function s(){const h=document.documentElement;
+const t=h.scrollHeight-h.clientHeight;b.style.transform='scaleX('+(t>0?h.scrollTop/t:0)+')';}
+addEventListener('scroll',s,{passive:true});s();})();</script>
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-06-the-markets-new-heavyweight-borrower/copertina_1920x1080.png" class="img-fluid" alt=""></p>
+<div class="capoverso-primo page-columns page-full">
+<p>Between March and June 2026 Microsoft added 133 billion dollars to an item that does not appear on its balance sheet. The item collects the rents, mostly for data centers, that the group has committed to pay under contracts already signed but not yet commenced: 196.6 billion dollars at the end of March, 329.1 billion dollars at the end of June. Over the same period Microsoft did not register a single bond issue with the US securities regulator, as it has not since January 2025. Microsoft’s case is the extreme one of a trend that has been reshaping the credit market for almost two years. The groups building the infrastructure of artificial intelligence commit to paying huge sums in two forms: bonds, which are debt and appear on the balance sheet, and leases already signed, which the balance sheet does not show and which appear only in the notes.<sup>1</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;Microsoft, 10-Q as of March 31, 2026 and 10-K as of June 30, 2026, note on leases: “additional leases, primarily for datacenters, that had not yet commenced”. No final bond prospectus, 424B2 or 424B5, filed by Microsoft since January 1, 2025.</p></div></div></div>
+<p>In the industry these groups are called hyperscalers: they run computing centers on a planetary scale and sell their capacity, and they are Amazon, Alphabet, Meta, Microsoft and, in the classification of the Financial Times, Oracle. Their debt is measured on the documents that companies must file with the Securities and Exchange Commission, the SEC, which supervises US markets, and on the portfolios that mutual funds disclose every quarter.</p>
+<section id="a-new-borrower" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="a-new-borrower">A new borrower</h2>
+<p>From January 2025 to September 2026 the four groups that finance themselves on the bond market filed 21 final bond prospectuses, for 136 securities and 325.7 billion dollars. Alphabet placed 110.5 billion dollars, Amazon 109.5 billion, Meta 55.0 billion and Oracle 50.8 billion. In the first nine months of 2026 the total placed reached 217.4 billion dollars, 2.0 times that of the whole of 2025.<sup>2</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn2"><p><sup>2</sup>&nbsp;SEC, 424B2 and 424B5 final prospectuses and term sheets, 82 documents downloaded on September 29, 2026; amounts in dollars at the exchange rate of the issue date. In all 21 offerings the amount underwritten by the banks matches the stated total. The register is a lower bound: it excludes issues placed outside the SEC perimeter and the data center vehicles.</p></div></div><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-06-the-markets-new-heavyweight-borrower/H1_issuance.png" class="img-fluid figure-img"></p>
+<figcaption>A new heavyweight borrower in the market. Bonds registered with the SEC by the hyperscalers, in billions of dollars, by quarter.</figcaption>
+</figure>
+</div>
+<p>The debt is no longer denominated in dollars alone. Almost a quarter of the amount issued, 23.2 percent, is denominated in other currencies: 42.4 billion dollars in euros, 16.3 billion in Canadian dollars, 13.2 billion in sterling and 3.6 billion in yen. In May 2026 Alphabet placed 576.5 billion yen in seven securities, the last maturing in 2066. The choice of five currencies suggests an issuer looking for buyers in every market.<sup>3</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn3"><p><sup>3</sup>&nbsp;Register of tranches from SEC prospectuses; values in dollars at the exchange rate of the day. Total denominated in dollars: 250.2 billion dollars.</p></div><div id="fn4"><p><sup>4</sup>&nbsp;January-August 2026: 157 billion dollars issued in dollars by the hyperscalers, 212 billion in all currencies, equal to 10 percent of the increase in marketable Treasury debt, Monthly Statement of the Public Debt. F. Ninivaggi, “Il conto della guerra arriva sui titoli di Stato”, LinkedIn, October 2026, in Italian.</p></div></div><p>The amounts remain small next to government bonds. Between January and August 2026 the hyperscalers’ dollar issues weighed about a tenth of the debt added by the US Treasury, and their calendar does not follow that of government bond yields: the rise in Treasury yields in 2026 has mostly different causes, as an earlier analysis showed. The novelty is in the corporate credit market.<sup>4</sup></p>
+</section>
+<section id="debt-for-a-generation" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="debt-for-a-generation">Debt for a generation</h2>
+<p>The average maturity of the 136 securities, weighted by amount, is 16.6 years. 29.3 percent of the amount issued matures in thirty years or more, 10.6 percent in forty years or more. Alphabet and Amazon placed fifty-year securities, and in February 2026 Alphabet issued in sterling a security that matures in 2126. On the fixed-coupon securities alone the four groups pay about 15.9 billion dollars of interest every year.<sup>5</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn5"><p><sup>5</sup>&nbsp;Maturity at the issue date, weighted by amount. Alphabet sterling bond with a 6.125 percent coupon maturing in 2126, 424B2 prospectus filed on February 12, 2026.</p></div></div><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-06-the-markets-new-heavyweight-borrower/H2_maturities.png" class="img-fluid figure-img"></p>
+<figcaption>Debt for a generation. Amount issued by maturity, in billions of dollars, January 2025 - September 2026.</figcaption>
+</figure>
+</div>
+<p>The cost of those maturities has grown. On its forty-year bond Meta paid a coupon of 5.75 percent in October 2025 and 6.45 percent in April 2026, and Alphabet went from 5.30 percent in April 2025 to 6.50 percent in August 2026. Meta’s balance sheet at June 30, 2026 shows the weight of long maturities: on bonds outstanding of 84.00 billion dollars, the interest still to be paid until maturity amounts to 89.38 billion dollars, more than the principal itself.<sup>6</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn6"><p><sup>6</sup>&nbsp;Coupons from the prospectuses; pricing dates October 30, 2025 and April 30, 2026. Meta, 10-Q as of June 30, 2026: “$84.00 billion aggregate principal amount of Notes outstanding”, future interest of 4.40 billion dollars within twelve months and 84.98 billion beyond.</p></div></div></section>
+<section id="the-price-of-risk" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="the-price-of-risk">The price of risk</h2>
+<p>The cost of a corporate bond is measured by its spread, that is the extra yield over the US Treasury of the same maturity, expressed in basis points: 85 basis points correspond to 0.85 percent a year. Rating classes should order spreads, so that an AA issuer pays less than an A issuer. In April 2025 Alphabet, rated AA+, placed its ten-year bond at 47 basis points over the Treasury. In August 2026 it paid 85 basis points, 38 basis points more. On the same two dates the average spread of AA bonds stood still at 57 basis points, and that of A bonds fell from 86 to 65 basis points. While the market asked less of A-class borrowers, it asked more of a borrower rated AA+: in August 2026 Alphabet placed above the average of the class below.<sup>7</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn7"><p><sup>7</sup>&nbsp;Spreads stated in Alphabet’s term sheets, FWP, with trade dates of April 28, 2025 and August 6, 2026, “Spread to Benchmark Treasury”, the second filed on August 7, with the ratings stated in the same sheets. ICE BofA indexes of US AA and A bonds, from FRED, same day; the values of August 6 and 7, 2026 coincide. On the forty-year bond Alphabet’s spread rose by 60 basis points. A index: 86 basis points on April 28, 2025, 65 basis points on August 6, 2026. The spread at placement contains the premium needed to place a large offering in a single day, which the index of bonds already outstanding does not have: the overtaking of the A-class average should be read with this caution, while changes over time are comparable.</p></div><div id="fn8"><p><sup>8</sup>&nbsp;Event study on 12 dollar issues; average change on the other days of the same period -0.2 basis points; the widening exceeds 99.9 percent of the averages obtained by randomly drawing twelve days without issues, 10,000 draws. Excluding the windows that straddle the month-end index rebalancing: +2.9 basis points, 99.4th percentile. AAA index: +2.8 basis points, with an increase in 92 percent of the events. The AA index includes, according to FRED, “all securities with a given investment grade rating AA”; the presence of Alphabet bonds is inferred from the AA+ rating in the term sheets, note 7, not verified on the composition of the index.</p></div></div><p>The large issues also seem to move the rest of the market. Between the day before the pricing of the 12 most significant dollar issues and the third day after, the average spread of AA bonds widens on average by 2.6 basis points, against an almost zero change on the other days of the same period. The AA index, however, collects bonds rated AA, and Alphabet is rated AA+, so its widening may include the repricing of Alphabet bonds already outstanding. The index of the class above, AAA, which includes no bonds rated AA, widens by 2.8 basis points around the same events. The widening of the AA index recurs in 83 percent of the events and affects all rating classes alike. With twelve events, many of which fall a few days after quarterly results, the effect of supply cannot be fully separated from that of news on investment.<sup>8</sup></p>
+</section>
+<section id="the-commitments-off-the-balance-sheet" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="the-commitments-off-the-balance-sheet">The commitments off the balance sheet</h2>
+<p>A company’s leverage is usually measured by the ratio of debt to the cash its business generates. For the hyperscalers this measure captures a minority of their commitments. US accounting standards require leases in progress to be recognized on the balance sheet, while leases signed but not yet commenced remain in the notes, and in this form the hyperscalers secure the data centers that others will build for them.<sup>9</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn9"><p><sup>9</sup>&nbsp;Financial statements distinguish the recognized “lease liabilities” from the “leases that have not yet commenced”, reported in the notes.</p></div><div id="fn10"><p><sup>10</sup>&nbsp;SEC, XBRL data from financial statements and text of the notes to 10-K and 10-Q filings as of June 30, 2026, with some exceptions: for Oracle, debt and leases not yet commenced as of May 31, 2026, recognized leases as of August 31, 2026; for Meta, finance leases as of December 31, 2025; for CoreWeave, shown only in the figure, debt as of March 31, 2026. Leases not yet commenced: Microsoft 329.1 billion dollars, Meta 279.0 billion, Oracle 260.0 billion, Amazon 137.2 billion, Alphabet 85.2 billion. Microsoft: “with some arrangements subject to certain contractual conditions being met”. Purchase commitments are left out of the count, as they include items other than leases, such as energy contracts and licenses.</p></div></div><p>In mid-2026 the five groups report 485.9 billion dollars of financial debt and 292.6 billion dollars of leases on the balance sheet. Leases signed and not yet commenced amount to 1,090.5 billion dollars, 2.2 times financial debt. They are not debt in the strict sense: they are future payments, not discounted, under contracts that last up to thirty years, and some of Microsoft’s contracts depend on conditions still to be met. They do, however, give the order of magnitude of fixed commitments that in some cases grow faster than debt. Between March and June 2026 Microsoft’s item grew by more than Meta raised with all the bonds it has issued since 2025, and Meta’s item grew in six months, from December 2025 to June 2026, from 103.77 to 278.99 billion dollars.<sup>10</sup></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-06-the-markets-new-heavyweight-borrower/H3_full_leverage.png" class="img-fluid figure-img"></p>
+<figcaption>Debt is the smaller part of the commitments. Debt, leases and guarantees of the five groups and of CoreWeave in mid-2026, in billions of dollars and in nominal amounts, against annual operating cash flow.</figcaption>
+</figure>
+</div>
+<p>Meta also uses a third form. In October 2025 it set up with a fund of the Blue Owl group a joint company to build a data center campus in Louisiana. It owns 20 percent of the company and does not consolidate it. The partner financed its share by privately placing 27.3 billion dollars of secured bonds, which do not appear on Meta’s balance sheet. Meta’s maximum exposure to loss, given in the notes to its accounts, is 46.03 billion dollars, 55 percent of the financial debt it recognizes.<sup>11</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn11"><p><sup>11</sup>&nbsp;Meta, 2025 10-K, note 5, and 10-Q as of June 30, 2026: “our maximum exposure to loss related to the Venture was $46.03 billion”. Blue Owl Real Estate Net Lease Trust, 10-Q as of September 30, 2025, note 18: “Beignet Investor issued $27,293,849 in senior secured notes with an interest rate of 6.581% and a maturity date of May 30, 2049”, amounts in thousands of dollars. In the N-PORT 2026q2 archives the security appears as “BEIGNET INVESTOR LLC 144A 6.581000% 05/30/2049”, CUSIP 076912AA2: Rule 144A restricts the placement to institutional investors, outside registered prospectuses.</p></div><div id="fn12"><p><sup>12</sup>&nbsp;SEC, XBRL data, twelve months to June 30, 2026, August 31, 2026 for Oracle. Free cash flow computed as operating cash flow minus gross investment in plant: Amazon -11.6 billion dollars, Oracle -28.7 billion. Amazon instead subtracts investment net of sales and incentives and reports a different figure: “Free cash flow decreased to an outflow of $7.6 billion for the trailing twelve months”, 8-K of July 30, 2026, exhibit 99.1. Oracle, 10-K as of May 31, 2026: “Remaining performance obligations were $638 billion and $138 billion as of May 31, 2026 and 2025, respectively”. “Years of cash” are a measure of scale, not a repayment plan.</p></div></div><p>Against these commitments, the operating cash flow of the five groups was 707.3 billion dollars over the last twelve months, and investment in plant absorbs 82.9 percent of that cash. Amazon invested 107 percent of its operating cash flow and Oracle 161 percent, and both closed the last twelve months with negative free cash flow. Oracle’s profile is the most stretched: debt and leases, recognized or still to commence, are worth 9.2 years of its operating cash flow, even though the group reports 638 billion dollars of customer contracts already signed and not yet performed.<sup>12</sup></p>
+</section>
+<section id="who-buys-the-debt" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="who-buys-the-debt">Who buys the debt</h2>
+<p>US mutual funds and ETFs file with the SEC the full list of their holdings every quarter. In the portfolios of February-April 2026 the debt of the artificial intelligence ecosystem, that is the debt of the hyperscalers and of the companies that build or run computing capacity for them, was worth 80.2 billion dollars, against 30.8 billion dollars a year earlier: 2.6 times as much. Oracle is the most widely held borrower, present in 1,190 funds that hold 21.0 percent of its financial debt.<sup>13</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn13"><p><sup>13</sup>&nbsp;SEC, Form N-PORT archives 2025q2 and 2026q2, latest report per fund, portfolios mostly of February-March. Ecosystem: hyperscalers, Meta’s vehicle, CoreWeave and other computing companies, data center securitizations, SoftBank, Nvidia. Oracle debt as of May 31, 2026. N-PORT describes only registered US funds: insurers, pension funds, banks and foreign investors are left out.</p></div><div id="fn14"><p><sup>14</sup>&nbsp;N-PORT 2026q2, aggregation by fund family. The index fund mechanism is an inference about how such funds work, not a measured fact.</p></div></div><p>Four fund families, Vanguard, BlackRock, Capital Group and PIMCO, hold 60.1 percent of the ecosystem’s debt held by US funds. The first two manage mostly index funds, which do not select securities but buy them in proportion to the amount outstanding. The more the hyperscalers issue, the more their debt enters the portfolios of those who have chosen to replicate the whole bond market, and issuers would thus find a buyer that, by construction, does not negotiate on price.<sup>14</sup></p>
+<p>Concentration has also grown. In the 2025 portfolios a single US fund with more than 100 million dollars in assets had over 5 percent of its assets in this debt, and in the 2026 portfolios the funds above that threshold number 37. Funds above 2 percent of assets went from 65 to 269. US funds hold 36 percent of the value of the bonds of Meta’s vehicle, and only 19.0 percent of that value is held by funds that also own Meta bonds. Those who hold both have an exposure to the group larger than the one they read under the heading “Meta”.<sup>15</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn15"><p><sup>15</sup>&nbsp;Funds with more than 100 million dollars in assets. Beignet Investor bonds in funds: 9.7 billion dollars in 317 funds, of which 6.9 billion at PIMCO.</p></div></div><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://fniniv.github.io/blog/posts/2026-10-06-the-markets-new-heavyweight-borrower/H4_funds.png" class="img-fluid figure-img"></p>
+<figcaption>More funds, and more concentrated. US funds by weight of artificial intelligence debt in their assets, 2025 and 2026.</figcaption>
+</figure>
+</div>
+</section>
+<section id="the-labs-downstream" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="the-labs-downstream">The labs downstream</h2>
+<p>The leases signed by the hyperscalers are paid back by the computing contracts that others sign with them, and among the largest of these customers are two unlisted companies, Anthropic and OpenAI, which do not file financial statements with the SEC. The effects appear in the accounts of those who finance them. In the second quarter of 2026 Amazon recorded 53.4 billion dollars of non-operating income, “primarily from our investments in Anthropic”, about two thirds of its pre-tax income for the quarter. The revaluation of Anthropic’s preferred shares alone, 50.5 billion dollars, is worth 1.8 times the quarter’s operating income. The ability of these labs to raise the money with which they pay for computing capacity, and therefore the leases on which data center construction rests, depends largely on their valuation.<sup>16</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn16"><p><sup>16</sup>&nbsp;Amazon, 8-K of July 30, 2026, exhibit 99.1: “non-operating pre-tax other income of $53.4 billion, primarily from our investments in Anthropic”; 10-Q as of June 30, 2026: “upward adjustments of approximately $50.5 billion in Q2 2026”, “primarily from our nonvoting preferred stock in Anthropic”. Operating income for the quarter 27.5 billion dollars, pre-tax income 80.9 billion.</p></div></div></section>
+<section id="the-comparison-with-the-railways" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="the-comparison-with-the-railways">The comparison with the railways</h2>
+<p>A recurring comparison is with the building of the railways in the nineteenth century. In 1847, at the peak of the British Railway Mania, railway investment absorbed 7.3 percent of British gross domestic product, while the 745 billion dollars of investment announced for 2026 by Alphabet, Amazon, Meta and Microsoft is worth 2.4 percent of 2025 US gross domestic product. For credit, the difference that matters concerns financing. The acts of Parliament that authorized the British companies usually allowed borrowing of up to a third of share capital, and when the bubble burst the losses fell on shareholders, while almost no line went bankrupt. The American railways were built mainly with debt, in a corporate bond market then made up mostly of railroad, canal and mining securities: over 1873-1875 the annual default rates of that market added up to 35.9 percent of its par value.<sup>17</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn17"><p><sup>17</sup>&nbsp;A. Odlyzko, “Collective hallucinations and inefficient markets: The British Railway Mania of the 1840s”, University of Minnesota, 2010, p.&nbsp;34, 7.3 percent of GDP in 1847; note 94, the one-third limit, paraphrased: “The usual provisions allowed railways to raise up to one third of their equity capital in loans”; p.&nbsp;25, “hardly any of the lines went bankrupt”. K. Giesecke, F. A. Longstaff, S. Schaefer and I. Strebulaev, “Corporate bond default risk: A 150-year perspective”, NBER Working Paper 15848, 2010, p.&nbsp;8, “Railroads were built mainly with borrowed money”, and table 3; p.&nbsp;1: “the corporate bond market of the 1860s was composed primarily of railroad, canal, and mining issues”. Announced investment: Financial Times, September 28, 2026; 2025 US GDP from the BEA, through FRED, in the version downloaded for the analysis; the series available on October 6, 2026 raises it by 0.3 percent and leaves the ratio at 2.4 percent.</p></div></div><p>The two models now coexist. On financial debt alone, modest relative to the operating cash flow they generate, the large groups other than Oracle resemble the British companies. Counting the leases already signed, the resemblance fades. The American model resurfaces at the margins, in the vehicles that build data centers with debt and in the computing companies, tied to the large groups by long-term leases. Anyone who wished to measure these commitments could look, beyond bond issuance, at the line in the notes to the accounts that collects leases not yet commenced, where commitments grew faster than debt between December 2025 and June 2026 for Meta, and in the second quarter of 2026 alone for Microsoft.</p>
+<hr>
+<p><em>Analysis of prospectuses, financial statements and fund portfolios filed with the Securities and Exchange Commission, and of Federal Reserve data. Data as of September 29, 2026. The code and checks of the analysis are available on request.</em></p>
+<p><em>English version of the article published in Italian on LinkedIn on 6 October 2026: <a href="../../..\blog/posts/2026-10-06-il-nuovo-grande-debitore-dei-mercati/">the Italian version on this site</a> and <a href="https://www.linkedin.com/pulse/il-nuovo-grande-debitore-dei-mercati-federico-ninivaggi-4q22c/">the original on LinkedIn</a>.</em></p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · October 6, 2026</p>
+</div>
+</section>
+
+
+ ]]></description>
+  <category>Artificial intelligence</category>
+  <category>Markets and credit</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-10-06-the-markets-new-heavyweight-borrower/</guid>
+  <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

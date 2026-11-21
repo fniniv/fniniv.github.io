@@ -10,7 +10,106 @@
 <atom:link href="https://fniniv.github.io/en/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.30</generator>
-<lastBuildDate>Wed, 18 Nov 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>The Rodman-Cantore connection at Washington Spirit</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-11-17-sofia-cantore-and-the-trinity-rodman-pass/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#2F6B3A;--tema-fg:#F4EEDF;--tema-acc:#F2C46B;--tema-ink:#2F6B3A;--tinta:#E6E8DA;}</style>
+<header class="apertura column-screen" style="--fig-bg:#2F6B3A;--fig-fg:#F4EEDF;--fig-acc:#F2C46B"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 17 · football · Nov 21, 2026</p><h1 class="apertura-titolo">The Rodman-Cantore connection at Washington Spirit</h1><p class="apertura-sommario">In 2026 Rodman has set up ten Washington goals, and Cantore scored five: the most productive pair in the 2026 NWSL.</p><p class="tag-riga"><a class="tag-argomento" href="../../../en/blog.html#category=Football">Football</a></p><a class="testata-torna" href="../../../en/blog_calcio.html">↩ back to Football</a></div></div></header>
+
+<p>In 2026 Trinity Rodman has set up ten goals for her Washington Spirit teammates, and Sofia Cantore scored five of them, including the equaliser in the semi-final against Utah. In the regular season no NWSL pair scored more. Three others reached four goals, among them a Kansas City Current pair, Washington’s opponents in the final.</p>
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-17-sofia-cantore-and-the-trinity-rodman-pass/figura_1_coppie.png" class="img-fluid" alt="Bar chart of the eight passer-to-scorer pairs with the most goals in the 2026 NWSL regular season. Rodman to Cantore is first with 4 goals from 11 shots worth 2.5 expected goals, level with Milliet to Sears, Cooper to Chawinga and Koyama to Sanchez. Washington's pair is in navy, Kansas City's pairs, Cooper to Chawinga and Bethune to Cooper, in teal. The text says half of the goals Rodman set up in 2026, five of ten, were scored by Cantore."></p>
+<p>Here a pass counts when it is the last pass before the shot, as recorded by American Soccer Analysis, a site that publishes advanced NWSL data. Expected goals, or xG, measure the quality of a shot: the probability that it becomes a goal, from an ASA model.</p>
+<section id="rodmans-pass" class="level2">
+<h2 class="anchored" data-anchor-id="rodmans-pass">Rodman’s pass</h2>
+<p>In the regular season Rodman set up more shots for her teammates than any other Washington player, 35, and more for Cantore than for anyone else. A third of Cantore’s 34 shots that followed a pass came from Rodman, while among her other teammates’ shots Rodman’s share is 14%.</p>
+</section>
+<section id="better-chances" class="level2">
+<h2 class="anchored" data-anchor-id="better-chances">Better chances</h2>
+<p>In the regular season, Cantore’s shots after a Rodman pass were worth 0.23 xG each, more than twice the 0.10 xG of her other shots. The sample is small, though: eleven shots.</p>
+<p>Part of the difference comes from the kind of attack: four of those eleven shots came on the fast break, against two of Cantore’s other 38. Three followed a through ball, while none of the 23 passes from other teammates did.</p>
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-17-sofia-cantore-and-the-trinity-rodman-pass/figura_2_tiri.png" class="img-fluid" alt="Map of Sofia Cantore's 2026 regular-season shots in the attacking 40 per cent of the pitch. The 11 that followed a pass from Trinity Rodman are in navy: four are goals and nine came from inside the box. Her other shots are in grey, with two goals; one shot from more than 42 metres is not drawn. Beside the map: 0.23 expected goals per shot after a Rodman pass, against 0.10 for her other 38 shots."></p>
+</section>
+<section id="the-limit-of-the-data" class="level2">
+<h2 class="anchored" data-anchor-id="the-limit-of-the-data">The limit of the data</h2>
+<p>Four regular-season goals are few: they came in 3 games, two of them in the first six minutes at Orlando on 2 May, and with one goal fewer the pair would drop among the 10 with three. From Rodman’s passes Cantore scored 4 goals against 2.5 expected, so part of the lead comes from shots that went in more often than their quality suggested.</p>
+</section>
+<section id="in-the-semi-final" class="level2">
+<h2 class="anchored" data-anchor-id="in-the-semi-final">In the semi-final</h2>
+<p>Against Utah, Washington fell behind in the second minute to Cloé Lacasse’s goal. In the eighth Rodman set up Cantore’s equaliser, and Clara Luvanga scored the winner in the second half.</p>
+<div class="come-si-legge">
+<p><strong>How to read it.</strong> A pair is the player who makes the last pass before a shot and the player who shoots. Expected goals, or xG, are the probability that a shot becomes a goal: ten shots worth 0.1 xG each add up to one goal on average. The bars and the map cover the 2026 regular season, 30 games per team. Rodman’s ten goals set up cover all 2026 games up to 15 November, playoffs included.</p>
+</div>
+<p><em>Source: American Soccer Analysis, NWSL 2026.</em></p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · November 21, 2026</p>
+</div>
+</section>
+
+ ]]></description>
+  <category>Football</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-11-17-sofia-cantore-and-the-trinity-rodman-pass/</guid>
+  <pubDate>Sat, 21 Nov 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Bethune and Santos: two ways to play the No. 10</title>
+  <dc:creator>Federico Ninivaggi</dc:creator>
+  <link>https://fniniv.github.io/blog/posts/2026-11-21-bethune-and-santos-two-ways-to-play-the-no-10/</link>
+  <description><![CDATA[ 
+
+
+
+
+<style>:root{--tema:#2F6B3A;--tema-fg:#F4EEDF;--tema-acc:#F2C46B;--tema-ink:#2F6B3A;--tinta:#E6E8DA;}</style>
+<header class="apertura column-screen" style="--fig-bg:#2F6B3A;--fig-fg:#F4EEDF;--fig-acc:#F2C46B"><div class="apertura-dentro"><div class="apertura-testo"><p class="testata-num">Nº 28 · football · Nov 21, 2026</p><h1 class="apertura-titolo">Bethune and Santos: two ways to play the No.&nbsp;10</h1><p class="apertura-sommario">In 2026 no NWSL attacking midfielder set up a bigger share of shots on the fast break than Santos and Bethune. With the ball, Santos keeps it moving and Bethune carries it and plays forward.</p><p class="tag-riga"><a class="tag-argomento" href="../../../en/blog.html#category=Football">Football</a></p><a class="testata-torna" href="../../../en/blog_calcio.html">↩ back to Football</a></div></div></header>
+
+<p>Tonight’s NWSL final brings together the two teams with the league’s highest share of chances on the fast break: Washington Spirit and Kansas City Current. Two of their attacking midfielders, Leicy Santos and Croix Bethune, were the ones who most often set up the final shot of that counter-attack in 2026. With the ball, though, they play in two different ways.</p>
+<section id="the-shared-counter-attack" class="level2">
+<h2 class="anchored" data-anchor-id="the-shared-counter-attack">The shared counter-attack</h2>
+<p>Across the NWSL, 8% of the shots a teammate sets up come on the fast break. For Santos the share rose to 29%, the highest among the 15 attacking midfielders with at least 900 minutes. Bethune was second at 26%. By number of shots, Bethune with 11 and Santos with 10 are first and second in the whole league, in any role.</p>
+<p>The two teams rank first and second in the league for the share of shots set up on the fast break, 14% at Washington and 12% at Kansas City. Part of that lead, though, comes from these two players: their teammates reach only 12% and 10%.</p>
+<p>The trait belongs to spring and summer: since 1 September Bethune has set up 1 shot of 10 on the fast break, Santos none of 4.</p>
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-21-bethune-and-santos-two-ways-to-play-the-no-10/figura_1_stile.png" class="img-fluid" alt="Six rows comparing Croix Bethune, in teal, and Leicy Santos, in navy, among the 15 NWSL attacking midfielders with at least 900 minutes in 2026. Share of the shots she set up on the fast break: 26%, second, and 29%, first. Share from set pieces: 14%, eleventh, and 34%, sixth. Share of her team's touches: 8.7%, second, and 8.5%, third. Passes per 90 minutes: 33, eighth, and 45, first. Dribbling actions per 90 minutes: 20, first, and 13, sixth. Forward metres per completed pass: 4.7, second, and 2.0, tenth."></p>
+</section>
+<section id="two-ways-of-using-the-ball" class="level2">
+<h2 class="anchored" data-anchor-id="two-ways-of-using-the-ball">Two ways of using the ball</h2>
+<p>The two carry equal weight in their teams: in the games she plays Bethune takes 8.7% of Kansas City’s touches and Santos 8.5% of Washington’s, second and third among the 15 attacking midfielders.</p>
+<p>Santos keeps the ball moving: no NWSL attacking midfielder passes more often, 45 times per 90 minutes. Her completed passes move the ball 2.0 metres forward on average. They are not short, 16.8 metres on average: the ball travels a long way and gains little ground. Santos keeps possession and circulates it.</p>
+<p>Bethune carries the ball and plays forward: among the 15 she ranks first for dribbling actions, 20 per 90 minutes, and second for forward distance per completed pass, 4.7 metres. She passes 33 times per 90 minutes.</p>
+<p>Part of the difference comes from the teams: Washington make 56% of the passes in their games, Kansas City 47%. Kansas City also play more directly than Washington: their completed passes move the ball 6.7 metres forward on average, Washington’s 5.2 metres. The gap between the two players, though, is wider than the gap between their teams.</p>
+<p><img src="https://fniniv.github.io/blog/posts/2026-11-21-bethune-and-santos-two-ways-to-play-the-no-10/figura_2_serviti.png" class="img-fluid" alt="Two maps of the shots that followed a pass from each attacking midfielder, coloured by type of play. Bethune: 43 shots, 10 goals, 11 on the fast break and 6 from set pieces. Santos: 35 shots, 4 goals, 10 on the fast break and 12 from set pieces, all of these inside the box."></p>
+</section>
+<section id="where-the-chances-come-from" class="level2">
+<h2 class="anchored" data-anchor-id="where-the-chances-come-from">Where the chances come from</h2>
+<p>Corners shape Santos’s chances: 11 of the 35 shots she set up came from one, all inside the box. Bethune set up 6 of her 43 shots from set pieces: the other 37 came from open play, settled or on the break.</p>
+<div class="come-si-legge">
+<p><strong>How to read it.</strong> The data come from American Soccer Analysis, a site that publishes advanced NWSL statistics. The comparison is with the league’s 15 attacking midfielders, by the site’s position, with at least 900 minutes in 2026: Bethune played 2,505, Santos 2,039. The minutes include stoppage time, so per-90 figures are 10% to 12% lower than per-game ones. A shot set up is one that follows the player’s last pass. The touch share counts only the games the player appeared in. Dribbling actions are those the site groups under dribbling: carries, take-ons, miscontrols and dispossessions. The figures cover all 2026 games up to 15 November: the regular season, the playoffs and one June knockout game.</p>
+</div>
+<p><em>Source: American Soccer Analysis, NWSL 2026.</em></p>
+
+
+
+
+<div class="firma-post">
+<p>Federico Ninivaggi · November 21, 2026</p>
+</div>
+</section>
+
+ ]]></description>
+  <category>Football</category>
+  <guid>https://fniniv.github.io/blog/posts/2026-11-21-bethune-and-santos-two-ways-to-play-the-no-10/</guid>
+  <pubDate>Sat, 21 Nov 2026 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>AC Boise’s points matched its chances, among League One’s best</title>
   <dc:creator>Federico Ninivaggi</dc:creator>

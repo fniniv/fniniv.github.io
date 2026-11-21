@@ -1,5 +1,17 @@
 [
   {
+    "listing": "/progetti/progetti-preventivatore.html",
+    "items": [
+      "/blog/posts/2026-11-21-dal-listino-compilato-a-mano-al-preventivo-che-mostra-costo/index.html"
+    ]
+  },
+  {
+    "listing": "/en/projects_progetti-preventivatore.html",
+    "items": [
+      "/blog/posts/2026-11-21-dal-listino-compilato-a-mano-al-preventivo-che-mostra-costo/index.html"
+    ]
+  },
+  {
     "listing": "/en/monitor.html",
     "items": []
   },
@@ -40,35 +52,15 @@
     ]
   },
   {
-    "listing": "/blog/long.html",
-    "items": [
-      "/blog/posts/2026-10-20-il-caro-carburanti-e-l-impatto-su-agricoltori-e-autotrasport/index.html",
-      "/blog/posts/2026-10-09-l-impatto-del-rialzo-dei-rendimenti-dei-titoli-di-stato-sul-/index.html",
-      "/blog/posts/2026-10-06-il-nuovo-grande-debitore-dei-mercati/index.html",
-      "/blog/posts/2026-10-05-dove-e-localizzata-l-infrastruttura-dell-intelligenza-artifi/index.html",
-      "/blog/posts/2026-10-01-il-costo-della-guerra-arriva-sui-titoli-di-stato/index.html"
-    ]
-  },
-  {
-    "listing": "/blog/grafici.html",
-    "items": [
-      "/blog/posts/2026-11-14-il-reddito-dei-25-34enni-rispetto-ai-50-64enni/index.html"
-    ]
-  },
-  {
-    "listing": "/blog/calcio.html",
-    "items": [
-      "/blog/posts/2026-11-17-sofia-cantore-e-i-passaggi-di-trinity-rodman/index.html",
-      "/blog/posts/2026-11-21-bethune-e-santos-due-modi-di-fare-la-trequartista/index.html",
-      "/blog/posts/2026-11-18-ac-boise-ha-raccolto-i-punti-che-le-sue-occasioni-valevano/index.html",
-      "/blog/posts/2026-11-17-kansas-city-vive-di-contropiede-washington-ne-concede-meno-d/index.html"
-    ]
+    "listing": "/blog/monitor.html",
+    "items": []
   },
   {
     "listing": "/blog/index.html",
     "items": [
       "/blog/posts/2026-11-17-sofia-cantore-e-i-passaggi-di-trinity-rodman/index.html",
       "/blog/posts/2026-11-21-bethune-e-santos-due-modi-di-fare-la-trequartista/index.html",
+      "/blog/posts/2026-11-21-dal-listino-compilato-a-mano-al-preventivo-che-mostra-costo/index.html",
       "/blog/posts/2026-11-18-ac-boise-ha-raccolto-i-punti-che-le-sue-occasioni-valevano/index.html",
       "/blog/posts/2026-11-17-kansas-city-vive-di-contropiede-washington-ne-concede-meno-d/index.html",
       "/blog/posts/2026-11-17-quando-la-garanzia-pubblica-decade-il-working-paper-in-un-vi/index.html",
@@ -81,8 +73,29 @@
     ]
   },
   {
-    "listing": "/blog/monitor.html",
-    "items": []
+    "listing": "/blog/calcio.html",
+    "items": [
+      "/blog/posts/2026-11-17-sofia-cantore-e-i-passaggi-di-trinity-rodman/index.html",
+      "/blog/posts/2026-11-21-bethune-e-santos-due-modi-di-fare-la-trequartista/index.html",
+      "/blog/posts/2026-11-18-ac-boise-ha-raccolto-i-punti-che-le-sue-occasioni-valevano/index.html",
+      "/blog/posts/2026-11-17-kansas-city-vive-di-contropiede-washington-ne-concede-meno-d/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/grafici.html",
+    "items": [
+      "/blog/posts/2026-11-14-il-reddito-dei-25-34enni-rispetto-ai-50-64enni/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/long.html",
+    "items": [
+      "/blog/posts/2026-10-20-il-caro-carburanti-e-l-impatto-su-agricoltori-e-autotrasport/index.html",
+      "/blog/posts/2026-10-09-l-impatto-del-rialzo-dei-rendimenti-dei-titoli-di-stato-sul-/index.html",
+      "/blog/posts/2026-10-06-il-nuovo-grande-debitore-dei-mercati/index.html",
+      "/blog/posts/2026-10-05-dove-e-localizzata-l-infrastruttura-dell-intelligenza-artifi/index.html",
+      "/blog/posts/2026-10-01-il-costo-della-guerra-arriva-sui-titoli-di-stato/index.html"
+    ]
   },
   {
     "listing": "/calcio_wsl.html",

@@ -6,16 +6,6 @@
     ]
   },
   {
-    "listing": "/en/projects_progetti-preventivatore.html",
-    "items": [
-      "/blog/posts/2026-11-21-dal-listino-compilato-a-mano-al-preventivo-che-mostra-costo/index.html"
-    ]
-  },
-  {
-    "listing": "/en/monitor.html",
-    "items": []
-  },
-  {
     "listing": "/en/football_wsl.html",
     "items": [
       "/blog/posts/2026-11-16-daniela-arques-london-city-s-passing-hub/index.html",
@@ -29,30 +19,27 @@
     ]
   },
   {
-    "listing": "/en/blog_long.html",
+    "listing": "/en/blog_grafici.html",
     "items": [
-      "/blog/posts/2026-10-06-the-markets-new-heavyweight-borrower/index.html"
+      "/blog/posts/2026-11-14-smaller-us-cities-and-planned-ai-power/index.html"
     ]
   },
   {
-    "listing": "/en/blog_calcio.html",
+    "listing": "/en/blog.html",
     "items": [
       "/blog/posts/2026-11-17-sofia-cantore-and-the-trinity-rodman-pass/index.html",
       "/blog/posts/2026-11-21-bethune-and-santos-two-ways-to-play-the-no-10/index.html",
       "/blog/posts/2026-11-18-ac-boise-s-points-matched-its-chances-among-league-one-s-bes/index.html",
       "/blog/posts/2026-11-17-the-nwsl-final-the-best-team-on-the-break-against-the-hardes/index.html",
+      "/blog/posts/2026-11-17-when-a-public-guarantee-is-voided-the-working-paper-in-a-vid/index.html",
       "/blog/posts/2026-11-16-daniela-arques-london-city-s-passing-hub/index.html",
-      "/blog/posts/2026-11-16-frida-maanum-s-match-against-london-city/index.html"
+      "/blog/posts/2026-11-16-frida-maanum-s-match-against-london-city/index.html",
+      "/blog/posts/2026-11-14-smaller-us-cities-and-planned-ai-power/index.html",
+      "/blog/posts/2026-10-06-the-markets-new-heavyweight-borrower/index.html"
     ]
   },
   {
-    "listing": "/blog/video.html",
-    "items": [
-      "/blog/posts/2026-11-17-quando-la-garanzia-pubblica-decade-il-working-paper-in-un-vi/index.html"
-    ]
-  },
-  {
-    "listing": "/blog/monitor.html",
+    "listing": "/calcio_wsl.html",
     "items": []
   },
   {
@@ -98,35 +85,32 @@
     ]
   },
   {
-    "listing": "/calcio_wsl.html",
-    "items": []
+    "listing": "/blog/video.html",
+    "items": [
+      "/blog/posts/2026-11-17-quando-la-garanzia-pubblica-decade-il-working-paper-in-un-vi/index.html"
+    ]
   },
   {
-    "listing": "/en/blog.html",
+    "listing": "/en/blog_calcio.html",
     "items": [
       "/blog/posts/2026-11-17-sofia-cantore-and-the-trinity-rodman-pass/index.html",
       "/blog/posts/2026-11-21-bethune-and-santos-two-ways-to-play-the-no-10/index.html",
       "/blog/posts/2026-11-18-ac-boise-s-points-matched-its-chances-among-league-one-s-bes/index.html",
       "/blog/posts/2026-11-17-the-nwsl-final-the-best-team-on-the-break-against-the-hardes/index.html",
-      "/blog/posts/2026-11-17-when-a-public-guarantee-is-voided-the-working-paper-in-a-vid/index.html",
       "/blog/posts/2026-11-16-daniela-arques-london-city-s-passing-hub/index.html",
-      "/blog/posts/2026-11-16-frida-maanum-s-match-against-london-city/index.html",
-      "/blog/posts/2026-11-14-smaller-us-cities-and-planned-ai-power/index.html",
+      "/blog/posts/2026-11-16-frida-maanum-s-match-against-london-city/index.html"
+    ]
+  },
+  {
+    "listing": "/en/blog_long.html",
+    "items": [
       "/blog/posts/2026-10-06-the-markets-new-heavyweight-borrower/index.html"
     ]
   },
   {
-    "listing": "/en/blog_grafici.html",
+    "listing": "/en/projects_progetti-preventivatore.html",
     "items": [
-      "/blog/posts/2026-11-14-smaller-us-cities-and-planned-ai-power/index.html"
+      "/blog/posts/2026-11-21-dal-listino-compilato-a-mano-al-preventivo-che-mostra-costo/index.html"
     ]
-  },
-  {
-    "listing": "/en/blog_monitor.html",
-    "items": []
-  },
-  {
-    "listing": "/monitor.html",
-    "items": []
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/progetti/progetti-preventivatore.html",
-    "items": [
-      "/blog/posts/2026-11-21-dal-listino-compilato-a-mano-al-preventivo-che-mostra-costo/index.html"
-    ]
-  },
-  {
     "listing": "/en/football_wsl.html",
     "items": [
       "/blog/posts/2026-11-16-daniela-arques-london-city-s-passing-hub/index.html",
@@ -109,6 +103,12 @@
   },
   {
     "listing": "/en/projects_progetti-preventivatore.html",
+    "items": [
+      "/blog/posts/2026-11-21-dal-listino-compilato-a-mano-al-preventivo-che-mostra-costo/index.html"
+    ]
+  },
+  {
+    "listing": "/progetti/progetti-preventivatore.html",
     "items": [
       "/blog/posts/2026-11-21-dal-listino-compilato-a-mano-al-preventivo-che-mostra-costo/index.html"
     ]

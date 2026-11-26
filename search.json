@@ -4,7 +4,7 @@
     "href": "valutazione.html",
     "title": "Valutazione delle politiche",
     "section": "",
-    "text": "Nº 08 · album · stagione 2026\n\n\n\nil corso con R\n\n↩︎ torna all’album\n\n\nNº 08       Valutazione delle politiche\nValutazione d’impatto delle politiche con R\nDal controfattuale alla stima: DiD, matching, discontinuità, controllo sintetico e machine learning causale, con dati e codice che puoi eseguire.\nUna regione stanzia quaranta milioni per un contributo alle piccole imprese, e tre anni dopo chiede se siano stati soldi ben spesi. Il corso fornisce gli strumenti adeguati per rispondere con i metodi controfattuali, usando R."
+    "text": "Nº 03 · strumenti · stagione 2026\n\n\n\nil corso con R\n\n↩︎ torna agli strumenti\n\n\nNº 03       Valutazione delle politiche\nValutazione d’impatto delle politiche con R\nDal controfattuale alla stima: DiD, matching, discontinuità, controllo sintetico e machine learning causale, con dati e codice che puoi eseguire.\nUna regione stanzia quaranta milioni per un contributo alle piccole imprese, e tre anni dopo chiede se siano stati soldi ben spesi. Il corso fornisce gli strumenti adeguati per rispondere con i metodi controfattuali, usando R."
   },
   {
     "objectID": "valutazione.html#il-programma",
@@ -14,81 +14,88 @@
     "text": "Il programma\n\nBenvenuto, installazione, il mondo del corso, 1 ora\nIl controfattuale: che cosa vuol dire davvero «impatto», 1 ora\nL’esperimento: il metro di paragone, e i suoi limiti, 1 ora e 30 minuti\nDifferenze nelle differenze, 1 ora e 30 minuti\nQuando il programma parte in momenti diversi, 1 ora e 30 minuti\nPunteggio di propensione e abbinamento, 1 ora e 30 minuti\nLa discontinuità sulla soglia, 1 ora e 30 minuti\nIl controllo sintetico, 1 ora\nMachine learning causale, 1 ora e 30 minuti\nScegliere il metodo e consegnare il risultato, 1 ora\n\nIn uscita: il link arriverà su questa pagina."
   },
   {
-    "objectID": "ricerca.html",
-    "href": "ricerca.html",
-    "title": "Ricerca",
+    "objectID": "strumenti.html",
+    "href": "strumenti.html",
+    "title": "Strumenti",
     "section": "",
-    "text": "Perché alcuni territori e alcune imprese reggono uno shock e altri no? Questa linea studia come la struttura delle connessioni tra luoghi e tra imprese cambia la risposta alle crisi, dalla crisi finanziaria del 2008 alla pandemia, e quanto contano le istituzioni regionali.\nArticoli pubblicati\n\nCutrini, E., Carfora, A., Ninivaggi, F. (2026). Institutional quality, structural change and regional development in the EU. Regional Studies, Regional Science, 13(1), 2729609. doi:10.1080/21681376.2026.2729609\nNinivaggi, F., Cutrini, E. (2026). Resilient Networks: Exploring the Nexus of Connectivity, Output Complexity, and Market Structures. Networks and Spatial Economics. doi:10.1007/s11067-026-09752-z\nNinivaggi, F., Cutrini, E. (2025). The Vulnerability-Redundancy Nexus through Connectivity. An Analytical Framework. Networks and Spatial Economics. doi:10.1007/s11067-025-09673-3\nCutrini, E., Ninivaggi, F. (2024). Pandemic crisis and firm survival: evidence from the Italian manufacturing industry. Journal of Industrial and Business Economics, 51(2), 265–297. doi:10.1007/s40812-024-00309-0\n\nLavori in corso\n\nUn lavoro in collaborazione studia perché alcune imprese manifatturiere italiane sono cresciute durante la crisi del COVID-19 e altre no, guardando alle risorse che avevano prima dello shock e agli ecosistemi locali in cui operano.\nUn lavoro in collaborazione misura come le regioni europee hanno assorbito la crisi del 2008 e la pandemia, e se la qualità delle istituzioni regionali ha accompagnato una ripresa più rapida.\nUn lavoro in collaborazione studia se le province italiane più legate alle reti globali delle imprese multinazionali producono di più."
+    "text": "Nº 05 · album · stagione 2026\n\n\n\ncorsi, tutorial e strumenti pronti all'uso\n\n↩︎ torna all’album\n\n\nNº 05              Strumenti"
   },
   {
-    "objectID": "ricerca.html#resilienza-reti-e-sviluppo-dei-territori",
-    "href": "ricerca.html#resilienza-reti-e-sviluppo-dei-territori",
-    "title": "Ricerca",
+    "objectID": "strumenti.html#sezioni",
+    "href": "strumenti.html#sezioni",
+    "title": "Strumenti",
+    "section": "Sezioni",
+    "text": "Sezioni\n\n\n\n  \n    \n      Nº 01\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      AI adoption\n      Leading AI adoption services\n    \n    \n      Nº 01 · AI adoption\n      corsi0contenuti0video0\n      Ruolo: allenatore, le indicazioni utili alla partita\n      Apri →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 02\n      \n      ?\n      \n      \n      \n      \n      Progetti\n      dal problema allo strumento\n    \n    \n      Nº 02 · Progetti\n      progetti1post1\n      Ruolo: trequartista, trasforma l'idea in giocata\n      Apri →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 03\n      \n      \n      \n      \n      \n      \n      Valutazione delle politiche\n      il corso con R\n    \n    \n      Nº 03 · Valutazione delle politiche\n      moduli10ore di corso13\n      Ruolo: VAR, rivede l'azione prima della decisione\n      Apri →\n    \n  \n  ↻"
+  },
+  {
+    "objectID": "progetti.html",
+    "href": "progetti.html",
+    "title": "Progetti",
     "section": "",
-    "text": "Perché alcuni territori e alcune imprese reggono uno shock e altri no? Questa linea studia come la struttura delle connessioni tra luoghi e tra imprese cambia la risposta alle crisi, dalla crisi finanziaria del 2008 alla pandemia, e quanto contano le istituzioni regionali.\nArticoli pubblicati\n\nCutrini, E., Carfora, A., Ninivaggi, F. (2026). Institutional quality, structural change and regional development in the EU. Regional Studies, Regional Science, 13(1), 2729609. doi:10.1080/21681376.2026.2729609\nNinivaggi, F., Cutrini, E. (2026). Resilient Networks: Exploring the Nexus of Connectivity, Output Complexity, and Market Structures. Networks and Spatial Economics. doi:10.1007/s11067-026-09752-z\nNinivaggi, F., Cutrini, E. (2025). The Vulnerability-Redundancy Nexus through Connectivity. An Analytical Framework. Networks and Spatial Economics. doi:10.1007/s11067-025-09673-3\nCutrini, E., Ninivaggi, F. (2024). Pandemic crisis and firm survival: evidence from the Italian manufacturing industry. Journal of Industrial and Business Economics, 51(2), 265–297. doi:10.1007/s40812-024-00309-0\n\nLavori in corso\n\nUn lavoro in collaborazione studia perché alcune imprese manifatturiere italiane sono cresciute durante la crisi del COVID-19 e altre no, guardando alle risorse che avevano prima dello shock e agli ecosistemi locali in cui operano.\nUn lavoro in collaborazione misura come le regioni europee hanno assorbito la crisi del 2008 e la pandemia, e se la qualità delle istituzioni regionali ha accompagnato una ripresa più rapida.\nUn lavoro in collaborazione studia se le province italiane più legate alle reti globali delle imprese multinazionali producono di più."
+    "text": "Nº 02 · strumenti · stagione 2026\n\n\n\ndal problema allo strumento\n\n↩︎ torna agli strumenti\n\n\nNº 02  ?     Progetti\nStrumenti costruiti a partire da un problema concreto di imprese e professionisti. Ogni scheda racconta da quale esigenza nasce lo strumento e come funziona, con una demo da provare."
   },
   {
-    "objectID": "ricerca.html#misurare-il-benessere-e-la-vivibilità-dei-luoghi",
-    "href": "ricerca.html#misurare-il-benessere-e-la-vivibilità-dei-luoghi",
-    "title": "Ricerca",
-    "section": "Misurare il benessere e la vivibilità dei luoghi",
-    "text": "Misurare il benessere e la vivibilità dei luoghi\nLe misure con cui si descrive un luogo decidono chi riceve attenzione e risorse. Questa linea costruisce misure del benessere locale da dati aperti e controlla se rappresentano davvero luoghi e persone, dalle province italiane alle comunità rurali dell’Ovest americano.\nArticoli pubblicati\n\nNinivaggi, F., Cutrini, E. (2024). Exploring local well-being and vulnerability through OpenStreetMap: the case of Italy. Quality & Quantity, 58(4), 3435–3473. doi:10.1007/s11135-023-01805-6\nNinivaggi, F., Cutrini, E. (2025). Resilience, Proximity and the 15-Minute City: A Case Study for Central Italy. Networks and Spatial Economics. doi:10.1007/s11067-025-09669-z\n\nLavori in corso\n\nUn lavoro in collaborazione studia quali comunità selezionano le classificazioni federali della lontananza nell’Ovest degli Stati Uniti, e chi è povero all’interno dei luoghi remoti.\nUn lavoro in collaborazione confronta la mappa dei marciapiedi costruita dai volontari con gli inventari comunali e misura quanto la scelta della fonte cambia i quartieri che una città sceglierebbe di riparare. Un’estensione porta la stessa domanda nei piccoli centri rurali.\nUn lavoro in collaborazione, su un’indagine tra gli over 65 di Marche, Umbria e Abruzzo, misura quanto le scelte di costruzione di un indice di invecchiamento attivo cambiano chi finisce in fondo alla graduatoria."
+    "objectID": "progetti.html#progetti",
+    "href": "progetti.html#progetti",
+    "title": "Progetti",
+    "section": "Progetti",
+    "text": "Progetti\n\n\n\n  \n    \n      Nº 01\n      \n      \n      \n      \n      \n      \n      € 2.577\n      Preventivatore\n      dal listino Excel al preventivo\n    \n    \n      Nº 01 · Preventivatore\n      post1ultimo2026-11-21\n      \n      Apri →\n    \n  \n  ↻"
   },
   {
-    "objectID": "ricerca.html#credito-banche-e-bilanci",
-    "href": "ricerca.html#credito-banche-e-bilanci",
-    "title": "Ricerca",
-    "section": "Credito, banche e bilanci",
-    "text": "Credito, banche e bilanci\nIl credito alle piccole imprese passa da banche, garanzie pubbliche e cartolarizzazioni, e i bilanci decidono che cosa di un’impresa si vede. Questa linea studia gli incentivi che questi strumenti creano, la presenza delle banche nei territori e che cosa i principi contabili lasciano fuori dal bilancio.\nLavori in corso\n\nGuarantees That Negligence Voids. Screening Effort, Capital Relief, and the Solvency of Guaranteed Lending. Evidence from the Italian Central Guarantee Fund\nWorking paper, 2026\nIn Italia la garanzia pubblica sul credito è condizionata: il Fondo di Garanzia per le PMI la dichiara inefficace quando la banca ha concesso il prestito su dati che poteva controllare con la dovuta diligenza, oppure ha condotto il recupero senza quella diligenza. L’articolo modella questa condizione e mostra che il risultato classico, per cui una garanzia più alta indebolisce la selezione dei prenditori, vale solo per una garanzia che paga sempre: quando la validità dipende dalla diligenza, la selezione può crescere con la copertura. Un secondo canale passa dal capitale. La quota garantita del prestito ha ponderazione di rischio nulla, quindi la copertura moltiplica i prestiti che lo stesso capitale sostiene, e una banca può essere prudente su ogni euro e insolvente nel complesso. Chi disegna la politica ottiene diligenza a un costo minore inasprendo lo standard di diligenza che tagliando la copertura. La calibrazione su Banca Progetto, in amministrazione straordinaria da marzo 2025, indica che la garanzia doveva essere onorata sul 29-66% delle posizioni in default perché la banca reggesse, mentre 459 pagine dei suoi bilanci non nominano mai il rischio che la garanzia decada.\n\n\nMeasurement Is Not the Constraint: Why internally generated data fails IAS 38 recognition, and what follows for the data valuation literature\nWorking paper, 2026\nUn’ampia letteratura propone metodi per valutare i dati delle imprese, partendo dall’idea che i dati manchino dai bilanci perché non si possono misurare. L’articolo mostra che l’idea è sbagliata per i dati che l’impresa genera al proprio interno. Il paragrafo 63 dello IAS 38, il principio contabile internazionale sulle attività immateriali, vieta di iscrivere le liste clienti generate internamente e le voci simili nella sostanza, e il paragrafo 64 fonda il divieto sull’impossibilità di separare quella spesa dal costo dell’attività nel suo complesso. Nessuno dei due è un requisito di misura, quindi un metodo di valutazione migliore non apre la strada all’iscrizione in bilancio. L’articolo ricava cinque condizioni che un metodo deve rispettare per incidere sull’iscrizione e le applica ai lavori citati da due rassegne recenti. I metodi trovano posto nell’informativa, nelle aggregazioni aziendali e nel test di impairment.\n\nUn lavoro in collaborazione studia la presenza delle banche di credito cooperativo nei territori italiani e il loro ruolo nell’accesso ai servizi finanziari.\nUn lavoro in collaborazione studia il divario di genere nell’accesso al credito delle imprese italiane, provincia per provincia.\nUn lavoro in collaborazione studia come le banche italiane meno significative comunicano il proprio impegno ambientale, sociale e di governo."
-  },
-  {
-    "objectID": "ricerca.html#strumenti",
-    "href": "ricerca.html#strumenti",
-    "title": "Ricerca",
-    "section": "Strumenti",
-    "text": "Strumenti\nSoftware aperto nato dal lavoro di ricerca.\n\n\nNinivaggi, F. (2026). ggaltdata: Data-Driven Alternative Text and Data Tables for ‘ggplot2’ Charts. Pacchetto R su CRAN, versione 0.1.0. doi:10.32614/cran.package.ggaltdata"
-  },
-  {
-    "objectID": "progetti/progetti-preventivatore.html",
-    "href": "progetti/progetti-preventivatore.html",
-    "title": "Progetti: Preventivatore",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Federico Ninivaggi",
     "section": "",
-    "text": "Nº 01 · progetti · stagione 2026\n\n\n\ndal listino Excel al preventivo\n\n↩︎ torna ai progetti\n\n\nNº 01       € 2.577 Preventivatore\nUn’applicazione web che trasforma il listino Excel di un’impresa in preventivi completi di costo, ricarico, prezzo di vendita, margine e IVA. Nasce per un’impresa di catering per eventi, dove titolare e dipendenti preparavano i preventivi con listini e logiche diverse, a partire da un listino Excel di oltre 150 voci.\nIl titolare indica il tipo di evento e il numero di persone, poi seleziona le voci. L’applicazione calcola i totali e produce due documenti: il PDF per il cliente, privo dei costi interni, e un file Excel con il dettaglio per l’archivio dell’azienda.\nLa demo contiene listini fittizi per tre attività diverse, dal catering all’enoteca, e si apre in una nuova scheda: prova la demo."
+    "text": "album · stagione 2026\n\nEconomista dei territori, data scientist, ricercatore post-dottorato alla University of Idaho e match analyst abilitato dalla FIGC.\n\n\nNº 00\n\nFederico Ninivaggi"
   },
   {
-    "objectID": "progetti/progetti-preventivatore.html#articoli-sul-progetto",
-    "href": "progetti/progetti-preventivatore.html#articoli-sul-progetto",
-    "title": "Progetti: Preventivatore",
-    "section": "Articoli sul progetto",
-    "text": "Articoli sul progetto"
+    "objectID": "index.html#chi-sono",
+    "href": "index.html#chi-sono",
+    "title": "Federico Ninivaggi",
+    "section": "Chi sono",
+    "text": "Chi sono\nDal luglio 2026 sono ricercatore post-dottorato al Western Rural Development Center della University of Idaho, a Boise. Studio come le reti tra luoghi e tra imprese cambiano la risposta alle crisi e come si misura il benessere di un territorio, dalle province italiane alle comunità rurali dell’Ovest americano.\nHo conseguito il dottorato in Quantitative Methods for Policy Evaluation all’Università di Macerata, dove nel 2026 ho insegnato come professore a contratto i corsi Data Mining e Analisi dei sistemi territoriali. Ho pubblicato articoli su riviste internazionali di settore tra cui Networks and Spatial Economics, Journal of Industrial and Business Economics, Quality & Quantity e Regional Studies, Regional Science.\nHo lavorato come data scientist per banche, fintech e istituzioni finanziarie italiane nell’ambito del rischio di credito. Sono dal 2022 match analyst abilitato dal Settore Tecnico della FIGC a Coverciano. Nel calcio come nella ricerca cerco di analizzare i dati con rigore metodologico cercando di ricavarne la massima qualità informativa.\nCurriculum · Profilo LinkedIn\n\n\n\n\n  \n    \n      Nº 01\n      \n      \n      \n      \n      \n      \n      \n      CV\n      la carriera\n    \n    \n      Nº 01 · CV\n      pubblicazioni6conferenze8\n      Ruolo: capitano, tiene insieme la squadra\n      Apri →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 02\n      \n      \n      \n      \n      \n      \n      \n      Ricerca\n      dai territori al credito\n    \n    \n      Nº 02 · Ricerca\n      articoli6working paper2in corso9dal2024\n      Ruolo: regista, detta i tempi del gioco\n      Apri →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 03\n      \n      \n      \n      \n      \n      \n      \n      Calcio\n      dati e match analysis\n    \n    \n      Nº 03 · Calcio\n      working paper1\n      Ruolo: match analyst, le analisi che aiutano a vincere\n      Apri →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 04\n      \n      \n      \n      \n      \n      Blog\n      grafici, long read e video\n    \n    \n      Nº 04 · Blog\n      post12\n      Ruolo: ala, punta dritto al lettore\n      Apri →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 05\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      Strumenti\n      corsi, tutorial e strumenti pronti all'uso\n    \n    \n      Nº 05 · Strumenti\n      progetti1ore di corso13post1\n      Ruolo: trequartista, trasforma l'idea in giocata\n      Apri →\n    \n  \n  ↻"
   },
   {
-    "objectID": "finanza.html",
-    "href": "finanza.html",
-    "title": "Credito e finanza",
+    "objectID": "index.html#dal-blog",
+    "href": "index.html#dal-blog",
+    "title": "Federico Ninivaggi",
+    "section": "Dal blog",
+    "text": "Dal blog\nNº 28 · preventivatore · 2026-11-21Dal listino compilato a mano al preventivo completoNº 27 · calcio · 2026-11-21Bethune e Santos, due modi di fare la trequartistaNº 16 · calcio · 2026-11-21L'intesa Rodman-Cantore nelle Washington Spirit\nTutti i post →"
+  },
+  {
+    "objectID": "en/wellbeing.html",
+    "href": "en/wellbeing.html",
+    "title": "Wellbeing of places",
     "section": "",
-    "text": "Nº 03 · album · stagione 2026\n\n\n\ncredito e banche\n\n↩︎ torna all’album\n\n\nNº 03       Finanza\nIl credito alle piccole imprese passa da banche, garanzie pubbliche e cartolarizzazioni, e i bilanci determinano che cosa di un’impresa si vede all’esterno. Questa linea studia gli incentivi che questi strumenti creano, la presenza delle banche nei territori e che cosa i principi contabili lasciano fuori dal bilancio."
+    "text": "Nº 02 · research · 2026 season\n\n\n\nmeasuring places\n\n↩︎ back to research\n\n\nNº 02         Wellbeing\nThe measures used to describe a place decide who receives attention and resources. This line of work builds measures of local well-being from open data and checks whether they truly represent places and people, from Italian provinces to rural communities in the American West."
   },
   {
-    "objectID": "finanza.html#ricerca",
-    "href": "finanza.html#ricerca",
-    "title": "Credito e finanza",
-    "section": "Ricerca",
-    "text": "Ricerca\n\n\n\nworking paper · 2026Guarantees That Negligence Voids. Screening Effort, Capital Relief, and the Solvency of Guaranteed Lending. Evidence from the Italian Central Guarantee Fund\n\nIn Italia la garanzia pubblica sul credito è condizionata: il Fondo di Garanzia per le PMI la dichiara inefficace quando la banca ha concesso il prestito su dati che poteva controllare con la dovuta diligenza, oppure ha condotto il recupero senza quella diligenza. L’articolo modella questa condizione e mostra che il risultato classico, per cui una garanzia più alta indebolisce la selezione dei prenditori, vale solo per una garanzia che paga sempre: quando la validità dipende dalla diligenza, la selezione può crescere con la copertura. Un secondo canale passa dal capitale. La quota garantita del prestito ha ponderazione di rischio nulla, quindi la copertura moltiplica i prestiti che lo stesso capitale sostiene, e una banca può essere prudente su ogni euro e insolvente nel complesso. Chi disegna la politica ottiene diligenza a un costo minore inasprendo lo standard di diligenza che tagliando la copertura. La calibrazione su Banca Progetto, in amministrazione straordinaria da marzo 2025, indica che la garanzia doveva essere onorata sul 29-66% delle posizioni in default perché la banca reggesse, mentre 459 pagine dei suoi bilanci non nominano mai il rischio che la garanzia decada.\n\n\n\nworking paper · 2026Measurement Is Not the Constraint: Why internally generated data fails IAS 38 recognition, and what follows for the data valuation literature\n\nUn’ampia letteratura propone metodi per valutare i dati delle imprese, partendo dall’idea che i dati manchino dai bilanci perché non si possono misurare. L’articolo mostra che l’idea è sbagliata per i dati che l’impresa genera al proprio interno. Il paragrafo 63 dello IAS 38, il principio contabile internazionale sulle attività immateriali, vieta di iscrivere le liste clienti generate internamente e le voci simili nella sostanza, e il paragrafo 64 fonda il divieto sull’impossibilità di separare quella spesa dal costo dell’attività nel suo complesso. Nessuno dei due è un requisito di misura, quindi un metodo di valutazione migliore non apre la strada all’iscrizione in bilancio. L’articolo ricava cinque condizioni che un metodo deve rispettare per incidere sull’iscrizione e le applica ai lavori citati da due rassegne recenti. I metodi trovano posto nell’informativa, nelle aggregazioni aziendali e nel test di impairment.\n\n\n\nin corsoBanche di credito cooperativo nei territori\n\nUn lavoro in collaborazione studia la presenza delle banche di credito cooperativo nei territori italiani e il loro ruolo nell’accesso ai servizi finanziari.\n\n\n\nin corsoGenere e accesso al credito\n\nUn lavoro in collaborazione studia il divario di genere nell’accesso al credito delle imprese italiane, provincia per provincia.\n\n\n\nin corsoLe banche meno significative e l'ESG\n\nUn lavoro in collaborazione studia come le banche italiane meno significative comunicano il proprio impegno ambientale, sociale e di governo."
+    "objectID": "en/wellbeing.html#research",
+    "href": "en/wellbeing.html#research",
+    "title": "Wellbeing of places",
+    "section": "Research",
+    "text": "Research\n\n\n\narticle · 2024Exploring local well-being and vulnerability through OpenStreetMap: the case of Italy\n\nNinivaggi, F., Cutrini, E. (2024). Quality & Quantity, 58.\nRead the article\n\n\n\narticle · 2025Resilience, Proximity and the 15-Minute City: A Case Study for Central Italy\n\nNinivaggi, F., Cutrini, E. (2025). Networks and Spatial Economics.\nRead the article\n\n\n\nin progressRemoteness and poverty in the American West\n\nA joint paper studies which communities the federal classifications of remoteness select in the western United States, and who is poor within remote places.\n\n\n\nin progressSidewalks: volunteer maps and municipal inventories\n\nA joint paper compares the sidewalk map built by volunteers with municipal inventories and measures how much the choice of source changes the neighbourhoods a city would choose to repair. An extension takes the same question to small rural towns.\n\n\n\nin progressAn active ageing index\n\nA joint project, based on a survey of people over 65 in Marche, Umbria and Abruzzo, measures how much the construction choices of an active ageing index change who ends up at the bottom of the ranking."
   },
   {
     "objectID": "en/research.html",
     "href": "en/research.html",
     "title": "Research",
     "section": "",
-    "text": "Why do some places and firms withstand a shock while others do not? This line of work studies how the structure of connections between places and between firms shapes the response to crises, from the 2008 financial crisis to the pandemic, and how much regional institutions matter.\nPublished articles\n\nCutrini, E., Carfora, A., Ninivaggi, F. (2026). Institutional quality, structural change and regional development in the EU. Regional Studies, Regional Science, 13(1), 2729609. doi:10.1080/21681376.2026.2729609\nNinivaggi, F., Cutrini, E. (2026). Resilient Networks: Exploring the Nexus of Connectivity, Output Complexity, and Market Structures. Networks and Spatial Economics. doi:10.1007/s11067-026-09752-z\nNinivaggi, F., Cutrini, E. (2025). The Vulnerability-Redundancy Nexus through Connectivity. An Analytical Framework. Networks and Spatial Economics. doi:10.1007/s11067-025-09673-3\nCutrini, E., Ninivaggi, F. (2024). Pandemic crisis and firm survival: evidence from the Italian manufacturing industry. Journal of Industrial and Business Economics, 51(2), 265–297. doi:10.1007/s40812-024-00309-0\n\nWork in progress\n\nA joint paper studies why some Italian manufacturing firms grew during the COVID-19 crisis while others did not, looking at the resources they held before the shock and at the local ecosystems in which they operate.\nA joint project measures how European regions absorbed the 2008 crisis and the pandemic, and whether the quality of regional institutions went with a faster recovery.\nA joint project asks whether the Italian provinces more closely tied to the global networks of multinational firms produce more."
+    "text": "Nº 02 · album · 2026 season\n\n\n\nfrom places to credit\n\n↩︎ back to the album\n\n\nNº 02        Research"
+  },
+  {
+    "objectID": "en/research.html#research-lines",
+    "href": "en/research.html#research-lines",
+    "title": "Research",
+    "section": "Research lines",
+    "text": "Research lines\n\n\n\n  \n    \n      Nº 01\n      \n      \n      \n      \n      \n      \n      \n      Places\n      networks and resilience\n    \n    \n      Nº 01 · Places\n      articles4in progress3since2024\n      Role: playmaker, moves the ball between nodes\n      Open →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 02\n      \n      \n      \n      \n      \n      \n      \n      \n      Wellbeing\n      measuring places\n    \n    \n      Nº 02 · Wellbeing\n      articles2in progress3since2024\n      Role: holding midfielder, covers every yard\n      Open →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 03\n      \n      \n      \n      \n      \n      \n      Banks and credit\n      public guarantees and financial statements\n    \n    \n      Nº 03 · Banks and credit\n      working papers2in progress3since2026\n      Role: sweeper, reads the risk before anyone\n      Open →\n    \n  \n  ↻"
   },
   {
     "objectID": "en/research.html#resilience-networks-and-regional-development",
     "href": "en/research.html#resilience-networks-and-regional-development",
     "title": "Research",
-    "section": "",
-    "text": "Why do some places and firms withstand a shock while others do not? This line of work studies how the structure of connections between places and between firms shapes the response to crises, from the 2008 financial crisis to the pandemic, and how much regional institutions matter.\nPublished articles\n\nCutrini, E., Carfora, A., Ninivaggi, F. (2026). Institutional quality, structural change and regional development in the EU. Regional Studies, Regional Science, 13(1), 2729609. doi:10.1080/21681376.2026.2729609\nNinivaggi, F., Cutrini, E. (2026). Resilient Networks: Exploring the Nexus of Connectivity, Output Complexity, and Market Structures. Networks and Spatial Economics. doi:10.1007/s11067-026-09752-z\nNinivaggi, F., Cutrini, E. (2025). The Vulnerability-Redundancy Nexus through Connectivity. An Analytical Framework. Networks and Spatial Economics. doi:10.1007/s11067-025-09673-3\nCutrini, E., Ninivaggi, F. (2024). Pandemic crisis and firm survival: evidence from the Italian manufacturing industry. Journal of Industrial and Business Economics, 51(2), 265–297. doi:10.1007/s40812-024-00309-0\n\nWork in progress\n\nA joint paper studies why some Italian manufacturing firms grew during the COVID-19 crisis while others did not, looking at the resources they held before the shock and at the local ecosystems in which they operate.\nA joint project measures how European regions absorbed the 2008 crisis and the pandemic, and whether the quality of regional institutions went with a faster recovery.\nA joint project asks whether the Italian provinces more closely tied to the global networks of multinational firms produce more."
+    "section": "Resilience, networks and regional development",
+    "text": "Resilience, networks and regional development\nWhy do some places and firms withstand a shock while others do not? This line of work studies how the structure of connections between places and between firms shapes the response to crises, from the 2008 financial crisis to the pandemic, and how much regional institutions matter.\nPublished articles\n\nCutrini, E., Carfora, A., Ninivaggi, F. (2026). Institutional quality, structural change and regional development in the EU. Regional Studies, Regional Science, 13(1), 2729609. doi:10.1080/21681376.2026.2729609\nNinivaggi, F., Cutrini, E. (2026). Resilient Networks: Exploring the Nexus of Connectivity, Output Complexity, and Market Structures. Networks and Spatial Economics. doi:10.1007/s11067-026-09752-z\nNinivaggi, F., Cutrini, E. (2025). The Vulnerability-Redundancy Nexus through Connectivity. An Analytical Framework. Networks and Spatial Economics. doi:10.1007/s11067-025-09673-3\nCutrini, E., Ninivaggi, F. (2024). Pandemic crisis and firm survival: evidence from the Italian manufacturing industry. Journal of Industrial and Business Economics, 51(2), 265–297. doi:10.1007/s40812-024-00309-0\n\nWork in progress\n\nA joint paper studies why some Italian manufacturing firms grew during the COVID-19 crisis while others did not, looking at the resources they held before the shock and at the local ecosystems in which they operate.\nA joint project measures how European regions absorbed the 2008 crisis and the pandemic, and whether the quality of regional institutions went with a faster recovery.\nA joint project asks whether the Italian provinces more closely tied to the global networks of multinational firms produce more."
   },
   {
     "objectID": "en/research.html#measuring-well-being-and-livability-of-places",
@@ -116,7 +123,7 @@
     "href": "en/projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Nº 09 · album · 2026 season\n\n\n\nfrom the problem to the tool\n\n↩︎ back to the album\n\n\nNº 09  ?     Projects\nTools built from a concrete problem faced by firms and professionals. Each project page explains the need behind the tool and how it works, with a demo to try."
+    "text": "Nº 02 · tools · 2026 season\n\n\n\nfrom the problem to the tool\n\n↩︎ back to the tools\n\n\nNº 02  ?     Projects\nTools built from a concrete problem faced by firms and professionals. Each project page explains the need behind the tool and how it works, with a demo to try."
   },
   {
     "objectID": "en/projects.html#projects",
@@ -130,7 +137,7 @@
     "href": "en/places.html",
     "title": "Places and networks",
     "section": "",
-    "text": "Nº 01 · album · 2026 season\n\n\n\nnetworks and resilience\n\n↩︎ back to the album\n\n\nNº 01        Places\nThis line of research asks why some places and firms adapt to a shock better than others, how the structure of connections between places and between firms shapes the response to crises, from the 2008 financial crisis to the pandemic, and how much regional and local institutions matter."
+    "text": "Nº 01 · research · 2026 season\n\n\n\nnetworks and resilience\n\n↩︎ back to research\n\n\nNº 01        Places\nThis line of research asks why some places and firms adapt to a shock better than others, how the structure of connections between places and between firms shapes the response to crises, from the 2008 financial crisis to the pandemic, and how much regional and local institutions matter."
   },
   {
     "objectID": "en/places.html#research",
@@ -144,14 +151,14 @@
     "href": "en/football_wsl.html",
     "title": "WSL",
     "section": "",
-    "text": "Nº 04 · footballWSLGraphics on the English Women’s Super League, one player or one match at a time.↩ back to FootballNº 04\n      \n      \n      \n      \n      \n      Football\nThe graphics are built on the events of every match: passes, shots, tackles and ball recoveries, each with the point on the pitch where it happens. Each graphic tells the story of one player, in a single match or over a season.\n\n\n\n\n\n\n\n\n\n\nDaniela Arques, London City’s passing hub\n\n\nWhere she plays, how she passes and how she compares with the WSL’s central midfielders, in three graphics.\n\n\n\n\n\nNov 16, 2026\n\n\n\n\n\n\n\nFrida Maanum’s match against London City\n\n\nHer touches, passes, ball wins and shots in the 1-1 draw of 15 November 2026, on one graphic.\n\n\n\n\n\nNov 16, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Nº 03 · footballWSLGraphics on the English Women’s Super League, one player or one match at a time.↩ back to FootballNº 03\n      \n      \n      \n      \n      \n      Football\nThe graphics are built on the events of every match: passes, shots, tackles and ball recoveries, each with the point on the pitch where it happens. Each graphic tells the story of one player, in a single match or over a season.\n\n\n\n\n\n\n\n\n\n\nDaniela Arques, London City’s passing hub\n\n\nWhere she plays, how she passes and how she compares with the WSL’s central midfielders, in three graphics.\n\n\n\n\n\nNov 16, 2026\n\n\n\n\n\n\n\nFrida Maanum’s match against London City\n\n\nHer touches, passes, ball wins and shots in the 1-1 draw of 15 November 2026, on one graphic.\n\n\n\n\n\nNov 16, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "en/football.html",
     "href": "en/football.html",
     "title": "Football",
     "section": "",
-    "text": "Nº 04 · album · 2026 season\n\n\n\ndata and match analysis\n\n↩︎ back to the album\n\n\nNº 04        Football\nI have been a match analyst qualified by the Technical Sector of the Italian Football Federation, FIGC, at Coverciano since April 2022."
+    "text": "Nº 03 · album · 2026 season\n\n\n\ndata and match analysis\n\n↩︎ back to the album\n\n\nNº 03        Football\nI have been a match analyst qualified by the Technical Sector of the Italian Football Federation, FIGC, at Coverciano since April 2022."
   },
   {
     "objectID": "en/football.html#research",
@@ -172,7 +179,7 @@
     "href": "en/cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Nº 06 · album · 2026 season\n\n\n\nthe career\n\n↩︎ back to the album\n\n\nNº 06        CV\nLinkedIn profile"
+    "text": "Nº 01 · album · 2026 season\n\n\n\nthe career\n\n↩︎ back to the album\n\n\nNº 01        CV\nLinkedIn profile"
   },
   {
     "objectID": "en/cv.html#work-experience",
@@ -242,7 +249,7 @@
     "href": "en/blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Nº 05 · album · 2026 season\n\n\n\ncharts, long reads and videos\n\n↩︎ back to the album\n\n\nNº 05      Blog"
+    "text": "Nº 04 · album · 2026 season\n\n\n\ncharts, long reads and videos\n\n↩︎ back to the album\n\n\nNº 04      Blog"
   },
   {
     "objectID": "en/blog.html#sections",
@@ -263,7 +270,7 @@
     "href": "cv.html",
     "title": "Curriculum",
     "section": "",
-    "text": "Nº 06 · album · stagione 2026\n\n\n\nla carriera\n\n↩︎ torna all’album\n\n\nNº 06        CV\nProfilo LinkedIn"
+    "text": "Nº 01 · album · stagione 2026\n\n\n\nla carriera\n\n↩︎ torna all’album\n\n\nNº 01        CV\nProfilo LinkedIn"
   },
   {
     "objectID": "cv.html#esperienze-lavorative",
@@ -319,7 +326,7 @@
     "href": "calcio.html",
     "title": "Calcio",
     "section": "",
-    "text": "Nº 04 · album · stagione 2026\n\n\n\ndati e match analysis\n\n↩︎ torna all’album\n\n\nNº 04        Calcio\nSono match analyst abilitato dal Settore Tecnico della FIGC a Coverciano dall’aprile 2022."
+    "text": "Nº 03 · album · stagione 2026\n\n\n\ndati e match analysis\n\n↩︎ torna all’album\n\n\nNº 03        Calcio\nSono match analyst abilitato dal Settore Tecnico della FIGC a Coverciano dall’aprile 2022."
   },
   {
     "objectID": "calcio.html#ricerca",
@@ -697,7 +704,7 @@
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "Nº 05 · album · stagione 2026\n\n\n\ngrafici, long read e video\n\n↩︎ torna all’album\n\n\nNº 05      Blog"
+    "text": "Nº 04 · album · stagione 2026\n\n\n\ngrafici, long read e video\n\n↩︎ torna all’album\n\n\nNº 04      Blog"
   },
   {
     "objectID": "blog/index.html#sezioni",
@@ -725,7 +732,7 @@
     "href": "ai.html",
     "title": "Leading AI adoption services",
     "section": "",
-    "text": "Nº 07 · album · stagione 2026\n\n\n\nLeading AI adoption services\n\n↩︎ torna all’album\n\n\nNº 07          AI adoption\nCorsi e tutorial per professionisti e piccole e medie imprese che vogliono usare l’intelligenza artificiale in modo corretto: come funzionano i modelli, l’etica, l’uso sul lavoro."
+    "text": "Nº 01 · strumenti · stagione 2026\n\n\n\nLeading AI adoption services\n\n↩︎ torna agli strumenti\n\n\nNº 01          AI adoption\nCorsi e tutorial per professionisti e piccole e medie imprese che vogliono usare l’intelligenza artificiale in modo corretto: come funzionano i modelli, l’etica, l’uso sul lavoro."
   },
   {
     "objectID": "ai.html#sezioni",
@@ -739,7 +746,7 @@
     "href": "benessere.html",
     "title": "Benessere dei luoghi",
     "section": "",
-    "text": "Nº 02 · album · stagione 2026\n\n\n\nmisurare i territori\n\n↩︎ torna all’album\n\n\nNº 02         Wellbeing\nLe misure con cui si descrive un luogo decidono chi riceve attenzione e risorse. Questa linea costruisce misure del benessere locale da dati aperti e controlla se rappresentano davvero luoghi e persone, dalle province italiane alle comunità rurali dell’Ovest americano."
+    "text": "Nº 02 · ricerca · stagione 2026\n\n\n\nmisurare i territori\n\n↩︎ torna alla ricerca\n\n\nNº 02         Wellbeing\nLe misure con cui si descrive un luogo decidono chi riceve attenzione e risorse. Questa linea costruisce misure del benessere locale da dati aperti e controlla se rappresentano davvero luoghi e persone, dalle province italiane alle comunità rurali dell’Ovest americano."
   },
   {
     "objectID": "benessere.html#ricerca",
@@ -1180,7 +1187,7 @@
     "href": "en/ai.html",
     "title": "Leading AI adoption services",
     "section": "",
-    "text": "Nº 07 · album · 2026 season\n\n\n\nLeading AI adoption services\n\n↩︎ back to the album\n\n\nNº 07          AI adoption\nCourses and tutorials for professionals and small and medium-sized firms that want to use artificial intelligence the right way: how the models work, the ethics, the use at work."
+    "text": "Nº 01 · tools · 2026 season\n\n\n\nLeading AI adoption services\n\n↩︎ back to the tools\n\n\nNº 01          AI adoption\nCourses and tutorials for professionals and small and medium-sized firms that want to use artificial intelligence the right way: how the models work, the ethics, the use at work."
   },
   {
     "objectID": "en/ai.html#sections",
@@ -1206,14 +1213,14 @@
   {
     "objectID": "en/finance.html",
     "href": "en/finance.html",
-    "title": "Credit and finance",
+    "title": "Banks and credit",
     "section": "",
-    "text": "Nº 03 · album · 2026 season\n\n\n\ncredit and banks\n\n↩︎ back to the album\n\n\nNº 03       Finance\nCredit to small firms flows through banks, public guarantees and securitisations, and financial statements determine what of a firm can be seen from the outside. This line of work studies the incentives these instruments create, the presence of banks across places and what accounting standards leave off the balance sheet."
+    "text": "Nº 03 · research · 2026 season\n\n\n\npublic guarantees and financial statements\n\n↩︎ back to research\n\n\nNº 03       Banks and credit\nCredit to small firms flows through banks, public guarantees and securitisations, and financial statements determine what of a firm can be seen from the outside. This line of work studies the incentives these instruments create, the presence of banks across places and what accounting standards leave off the balance sheet."
   },
   {
     "objectID": "en/finance.html#research",
     "href": "en/finance.html#research",
-    "title": "Credit and finance",
+    "title": "Banks and credit",
     "section": "Research",
     "text": "Research\n\n\n\nworking paper · 2026Guarantees That Negligence Voids. Screening Effort, Capital Relief, and the Solvency of Guaranteed Lending. Evidence from the Italian Central Guarantee Fund\n\nPublic credit guarantees in Italy are conditional. The Central Guarantee Fund voids its protection when the lender granted credit on data it could have checked with due diligence, or pursued recovery without it. The paper models this condition and shows that the classic result, in which a higher guarantee weakens the bank’s screening of borrowers, holds only for a guarantee that always pays: when validity depends on diligence, screening can rise with coverage. A second channel runs through capital. The guaranteed share carries a zero risk weight, so coverage multiplies the lending that a given capital base supports, and a bank can be prudent on every euro and insolvent in aggregate. A planner obtains diligence more cheaply by tightening the diligence standard than by cutting coverage. The calibration on Banca Progetto, placed under extraordinary administration in March 2025, finds that the guarantee had to be honoured on 29 to 66% of defaulted positions for the bank to survive, while 459 pages of its accounts never mention the risk that the guarantee is voided.\n\n\n\nworking paper · 2026Measurement Is Not the Constraint: Why internally generated data fails IAS 38 recognition, and what follows for the data valuation literature\n\nA large literature proposes methods for valuing corporate data, on the premise that data is missing from balance sheets because it cannot be measured. The paper shows that the premise is wrong for data a firm generates internally. Paragraph 63 of IAS 38, the international accounting standard on intangible assets, prohibits recognising internally generated customer lists and items similar in substance, and paragraph 64 grounds the prohibition in the inseparability of that expenditure from the cost of the business as a whole. Neither is a measurement requirement, so a better valuation method cannot unlock recognition. The paper derives five conditions a method must meet to bear on recognition and applies them to the works cited by two recent surveys of the field. The methods belong in disclosure, business combinations and impairment testing.\n\n\n\nin progressCooperative banks across places\n\nA joint paper studies the presence of cooperative credit banks across Italian places and their role in access to financial services.\n\n\n\nin progressGender and access to credit\n\nA joint paper studies the gender gap in access to credit among Italian firms, province by province.\n\n\n\nin progressLess significant banks and ESG\n\nA joint project studies how less significant Italian banks communicate their environmental, social and governance commitments."
   },
@@ -1229,7 +1236,7 @@
     "href": "en/index.html#about",
     "title": "Federico Ninivaggi",
     "section": "About",
-    "text": "About\nSince July 2026 I have been a postdoctoral researcher at the Western Rural Development Center of the University of Idaho, in Boise. I study how networks between places and between firms shape the response to crises, and how the well-being of a place can be measured, from Italian provinces to rural communities in the American West.\nI hold a PhD in Quantitative Methods for Policy Evaluation from the University of Macerata, where in 2026 I taught Data Mining and Territorial Systems Analysis as an adjunct professor. I have published articles in international field journals, including Networks and Spatial Economics, the Journal of Industrial and Business Economics, Quality & Quantity and Regional Studies, Regional Science.\nI worked as a data scientist for Italian banks, fintechs and financial institutions in credit risk. Since 2022 I have been a match analyst qualified by the Technical Sector of the Italian Football Federation at Coverciano. In football as in research I try to analyse data with methodological rigour, to draw from them as much information as they can give.\nCurriculum Vitae · LinkedIn profile\n\n\n\n\n  \n    \n      Nº 01\n      \n      \n      \n      \n      \n      \n      \n      Places\n      networks and resilience\n    \n    \n      Nº 01 · Places\n      articles4in progress3since2024\n      Role: playmaker, moves the ball between nodes\n      Open →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 02\n      \n      \n      \n      \n      \n      \n      \n      \n      Wellbeing\n      measuring places\n    \n    \n      Nº 02 · Wellbeing\n      articles2in progress3since2024\n      Role: holding midfielder, covers every yard\n      Open →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 03\n      \n      \n      \n      \n      \n      \n      Finance\n      credit and banks\n    \n    \n      Nº 03 · Finance\n      working papers2in progress3since2026\n      Role: sweeper, reads the risk before anyone\n      Open →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 04\n      \n      \n      \n      \n      \n      \n      \n      Football\n      data and match analysis\n    \n    \n      Nº 04 · Football\n      working papers1WSL posts2\n      Role: match analyst, the analysis that helps win\n      Open →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 05\n      \n      \n      \n      \n      \n      Blog\n      charts, long reads and videos\n    \n    \n      Nº 05 · Blog\n      posts21\n      Role: winger, runs straight at the reader\n      Open →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 06\n      \n      \n      \n      \n      \n      \n      \n      CV\n      the career\n    \n    \n      Nº 06 · CV\n      publications6conferences8\n      Role: captain, holds the team together\n      Open →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 07\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      AI adoption\n      Leading AI adoption services\n    \n    \n      Nº 07 · AI adoption\n      courses0content0videos0\n      Role: coach, the instructions that matter for the match\n      Open →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 08\n      \n      \n      \n      \n      \n      \n      Policy evaluation\n      the course in R\n    \n    \n      Nº 08 · Policy evaluation\n      modules10hours of course13\n      Role: VAR, reviews the play before the decision\n      Open →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 09\n      \n      ?\n      \n      \n      \n      \n      Projects\n      from the problem to the tool\n    \n    \n      Nº 09 · Projects\n      projects1posts1\n      Role: attacking midfielder, turns the idea into a play\n      Open →\n    \n  \n  ↻"
+    "text": "About\nSince July 2026 I have been a postdoctoral researcher at the Western Rural Development Center of the University of Idaho, in Boise. I study how networks between places and between firms shape the response to crises, and how the well-being of a place can be measured, from Italian provinces to rural communities in the American West.\nI hold a PhD in Quantitative Methods for Policy Evaluation from the University of Macerata, where in 2026 I taught Data Mining and Territorial Systems Analysis as an adjunct professor. I have published articles in international field journals, including Networks and Spatial Economics, the Journal of Industrial and Business Economics, Quality & Quantity and Regional Studies, Regional Science.\nI worked as a data scientist for Italian banks, fintechs and financial institutions in credit risk. Since 2022 I have been a match analyst qualified by the Technical Sector of the Italian Football Federation at Coverciano. In football as in research I try to analyse data with methodological rigour, to draw from them as much information as they can give.\nCurriculum Vitae · LinkedIn profile\n\n\n\n\n  \n    \n      Nº 01\n      \n      \n      \n      \n      \n      \n      \n      CV\n      the career\n    \n    \n      Nº 01 · CV\n      publications6conferences8\n      Role: captain, holds the team together\n      Open →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 02\n      \n      \n      \n      \n      \n      \n      \n      Research\n      from places to credit\n    \n    \n      Nº 02 · Research\n      articles6working papers2in progress9since2024\n      Role: playmaker, sets the tempo of the game\n      Open →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 03\n      \n      \n      \n      \n      \n      \n      \n      Football\n      data and match analysis\n    \n    \n      Nº 03 · Football\n      working papers1WSL posts2\n      Role: match analyst, the analysis that helps win\n      Open →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 04\n      \n      \n      \n      \n      \n      Blog\n      charts, long reads and videos\n    \n    \n      Nº 04 · Blog\n      posts21\n      Role: winger, runs straight at the reader\n      Open →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 05\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      Tools\n      courses, tutorials and ready-to-use tools\n    \n    \n      Nº 05 · Tools\n      projects1hours of course13posts1\n      Role: attacking midfielder, turns the idea into a play\n      Open →\n    \n  \n  ↻"
   },
   {
     "objectID": "en/index.html#from-the-blog",
@@ -1243,7 +1250,7 @@
     "href": "en/policy-evaluation.html",
     "title": "Policy evaluation",
     "section": "",
-    "text": "Nº 08 · album · 2026 season\n\n\n\nthe course in R\n\n↩︎ back to the album\n\n\nNº 08       Policy evaluation\nValutazione d’impatto delle politiche con R\nFrom the counterfactual to the estimate: DiD, matching, discontinuity, synthetic control and causal machine learning, with data and code you can run.\nA region sets aside forty million for a grant to small firms, and three years later asks whether the money was well spent. The course provides the right tools to answer with counterfactual methods, using R."
+    "text": "Nº 03 · tools · 2026 season\n\n\n\nthe course in R\n\n↩︎ back to the tools\n\n\nNº 03       Policy evaluation\nValutazione d’impatto delle politiche con R\nFrom the counterfactual to the estimate: DiD, matching, discontinuity, synthetic control and causal machine learning, with data and code you can run.\nA region sets aside forty million for a grant to small firms, and three years later asks whether the money was well spent. The course provides the right tools to answer with counterfactual methods, using R."
   },
   {
     "objectID": "en/policy-evaluation.html#the-programme",
@@ -1267,60 +1274,95 @@
     "text": "Posts about the project"
   },
   {
-    "objectID": "en/wellbeing.html",
-    "href": "en/wellbeing.html",
-    "title": "Wellbeing of places",
+    "objectID": "en/tools.html",
+    "href": "en/tools.html",
+    "title": "Tools",
     "section": "",
-    "text": "Nº 02 · album · 2026 season\n\n\n\nmeasuring places\n\n↩︎ back to the album\n\n\nNº 02         Wellbeing\nThe measures used to describe a place decide who receives attention and resources. This line of work builds measures of local well-being from open data and checks whether they truly represent places and people, from Italian provinces to rural communities in the American West."
+    "text": "Nº 05 · album · 2026 season\n\n\n\ncourses, tutorials and ready-to-use tools\n\n↩︎ back to the album\n\n\nNº 05              Tools"
   },
   {
-    "objectID": "en/wellbeing.html#research",
-    "href": "en/wellbeing.html#research",
-    "title": "Wellbeing of places",
-    "section": "Research",
-    "text": "Research\n\n\n\narticle · 2024Exploring local well-being and vulnerability through OpenStreetMap: the case of Italy\n\nNinivaggi, F., Cutrini, E. (2024). Quality & Quantity, 58.\nRead the article\n\n\n\narticle · 2025Resilience, Proximity and the 15-Minute City: A Case Study for Central Italy\n\nNinivaggi, F., Cutrini, E. (2025). Networks and Spatial Economics.\nRead the article\n\n\n\nin progressRemoteness and poverty in the American West\n\nA joint paper studies which communities the federal classifications of remoteness select in the western United States, and who is poor within remote places.\n\n\n\nin progressSidewalks: volunteer maps and municipal inventories\n\nA joint paper compares the sidewalk map built by volunteers with municipal inventories and measures how much the choice of source changes the neighbourhoods a city would choose to repair. An extension takes the same question to small rural towns.\n\n\n\nin progressAn active ageing index\n\nA joint project, based on a survey of people over 65 in Marche, Umbria and Abruzzo, measures how much the construction choices of an active ageing index change who ends up at the bottom of the ranking."
+    "objectID": "en/tools.html#sections",
+    "href": "en/tools.html#sections",
+    "title": "Tools",
+    "section": "Sections",
+    "text": "Sections\n\n\n\n  \n    \n      Nº 01\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      AI adoption\n      Leading AI adoption services\n    \n    \n      Nº 01 · AI adoption\n      courses0content0videos0\n      Role: coach, the instructions that matter for the match\n      Open →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 02\n      \n      ?\n      \n      \n      \n      \n      Projects\n      from the problem to the tool\n    \n    \n      Nº 02 · Projects\n      projects1posts1\n      Role: attacking midfielder, turns the idea into a play\n      Open →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 03\n      \n      \n      \n      \n      \n      \n      Policy evaluation\n      the course in R\n    \n    \n      Nº 03 · Policy evaluation\n      modules10hours of course13\n      Role: VAR, reviews the play before the decision\n      Open →\n    \n  \n  ↻"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Federico Ninivaggi",
+    "objectID": "finanza.html",
+    "href": "finanza.html",
+    "title": "Banche e credito",
     "section": "",
-    "text": "album · stagione 2026\n\nEconomista dei territori, data scientist, ricercatore post-dottorato alla University of Idaho e match analyst abilitato dalla FIGC.\n\n\nNº 00\n\nFederico Ninivaggi"
+    "text": "Nº 03 · ricerca · stagione 2026\n\n\n\ngaranzie pubbliche e bilanci\n\n↩︎ torna alla ricerca\n\n\nNº 03       Banche e credito\nIl credito alle piccole imprese passa da banche, garanzie pubbliche e cartolarizzazioni, e i bilanci determinano che cosa di un’impresa si vede all’esterno. Questa linea studia gli incentivi che questi strumenti creano, la presenza delle banche nei territori e che cosa i principi contabili lasciano fuori dal bilancio."
   },
   {
-    "objectID": "index.html#chi-sono",
-    "href": "index.html#chi-sono",
-    "title": "Federico Ninivaggi",
-    "section": "Chi sono",
-    "text": "Chi sono\nDal luglio 2026 sono ricercatore post-dottorato al Western Rural Development Center della University of Idaho, a Boise. Studio come le reti tra luoghi e tra imprese cambiano la risposta alle crisi e come si misura il benessere di un territorio, dalle province italiane alle comunità rurali dell’Ovest americano.\nHo conseguito il dottorato in Quantitative Methods for Policy Evaluation all’Università di Macerata, dove nel 2026 ho insegnato come professore a contratto i corsi Data Mining e Analisi dei sistemi territoriali. Ho pubblicato articoli su riviste internazionali di settore tra cui Networks and Spatial Economics, Journal of Industrial and Business Economics, Quality & Quantity e Regional Studies, Regional Science.\nHo lavorato come data scientist per banche, fintech e istituzioni finanziarie italiane nell’ambito del rischio di credito. Sono dal 2022 match analyst abilitato dal Settore Tecnico della FIGC a Coverciano. Nel calcio come nella ricerca cerco di analizzare i dati con rigore metodologico cercando di ricavarne la massima qualità informativa.\nCurriculum · Profilo LinkedIn\n\n\n\n\n  \n    \n      Nº 01\n      \n      \n      \n      \n      \n      \n      \n      Territori\n      network e resilienza\n    \n    \n      Nº 01 · Territori\n      articoli4in corso3dal2024\n      Ruolo: regista, smista il gioco tra i nodi\n      Apri →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 02\n      \n      \n      \n      \n      \n      \n      \n      \n      Wellbeing\n      misurare i territori\n    \n    \n      Nº 02 · Wellbeing\n      articoli2in corso3dal2024\n      Ruolo: mediano, copre il campo palmo a palmo\n      Apri →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 03\n      \n      \n      \n      \n      \n      \n      Finanza\n      credito e banche\n    \n    \n      Nº 03 · Finanza\n      working paper2in corso3dal2026\n      Ruolo: libero, legge il rischio prima degli altri\n      Apri →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 04\n      \n      \n      \n      \n      \n      \n      \n      Calcio\n      dati e match analysis\n    \n    \n      Nº 04 · Calcio\n      working paper1\n      Ruolo: match analyst, le analisi che aiutano a vincere\n      Apri →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 05\n      \n      \n      \n      \n      \n      Blog\n      grafici, long read e video\n    \n    \n      Nº 05 · Blog\n      post12\n      Ruolo: ala, punta dritto al lettore\n      Apri →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 06\n      \n      \n      \n      \n      \n      \n      \n      CV\n      la carriera\n    \n    \n      Nº 06 · CV\n      pubblicazioni6conferenze8\n      Ruolo: capitano, tiene insieme la squadra\n      Apri →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 07\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      AI adoption\n      Leading AI adoption services\n    \n    \n      Nº 07 · AI adoption\n      corsi0contenuti0video0\n      Ruolo: allenatore, le indicazioni utili alla partita\n      Apri →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 08\n      \n      \n      \n      \n      \n      \n      Valutazione delle politiche\n      il corso con R\n    \n    \n      Nº 08 · Valutazione delle politiche\n      moduli10ore di corso13\n      Ruolo: VAR, rivede l'azione prima della decisione\n      Apri →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 09\n      \n      ?\n      \n      \n      \n      \n      Progetti\n      dal problema allo strumento\n    \n    \n      Nº 09 · Progetti\n      progetti1post1\n      Ruolo: trequartista, trasforma l'idea in giocata\n      Apri →\n    \n  \n  ↻"
+    "objectID": "finanza.html#ricerca",
+    "href": "finanza.html#ricerca",
+    "title": "Banche e credito",
+    "section": "Ricerca",
+    "text": "Ricerca\n\n\n\nworking paper · 2026Guarantees That Negligence Voids. Screening Effort, Capital Relief, and the Solvency of Guaranteed Lending. Evidence from the Italian Central Guarantee Fund\n\nIn Italia la garanzia pubblica sul credito è condizionata: il Fondo di Garanzia per le PMI la dichiara inefficace quando la banca ha concesso il prestito su dati che poteva controllare con la dovuta diligenza, oppure ha condotto il recupero senza quella diligenza. L’articolo modella questa condizione e mostra che il risultato classico, per cui una garanzia più alta indebolisce la selezione dei prenditori, vale solo per una garanzia che paga sempre: quando la validità dipende dalla diligenza, la selezione può crescere con la copertura. Un secondo canale passa dal capitale. La quota garantita del prestito ha ponderazione di rischio nulla, quindi la copertura moltiplica i prestiti che lo stesso capitale sostiene, e una banca può essere prudente su ogni euro e insolvente nel complesso. Chi disegna la politica ottiene diligenza a un costo minore inasprendo lo standard di diligenza che tagliando la copertura. La calibrazione su Banca Progetto, in amministrazione straordinaria da marzo 2025, indica che la garanzia doveva essere onorata sul 29-66% delle posizioni in default perché la banca reggesse, mentre 459 pagine dei suoi bilanci non nominano mai il rischio che la garanzia decada.\n\n\n\nworking paper · 2026Measurement Is Not the Constraint: Why internally generated data fails IAS 38 recognition, and what follows for the data valuation literature\n\nUn’ampia letteratura propone metodi per valutare i dati delle imprese, partendo dall’idea che i dati manchino dai bilanci perché non si possono misurare. L’articolo mostra che l’idea è sbagliata per i dati che l’impresa genera al proprio interno. Il paragrafo 63 dello IAS 38, il principio contabile internazionale sulle attività immateriali, vieta di iscrivere le liste clienti generate internamente e le voci simili nella sostanza, e il paragrafo 64 fonda il divieto sull’impossibilità di separare quella spesa dal costo dell’attività nel suo complesso. Nessuno dei due è un requisito di misura, quindi un metodo di valutazione migliore non apre la strada all’iscrizione in bilancio. L’articolo ricava cinque condizioni che un metodo deve rispettare per incidere sull’iscrizione e le applica ai lavori citati da due rassegne recenti. I metodi trovano posto nell’informativa, nelle aggregazioni aziendali e nel test di impairment.\n\n\n\nin corsoBanche di credito cooperativo nei territori\n\nUn lavoro in collaborazione studia la presenza delle banche di credito cooperativo nei territori italiani e il loro ruolo nell’accesso ai servizi finanziari.\n\n\n\nin corsoGenere e accesso al credito\n\nUn lavoro in collaborazione studia il divario di genere nell’accesso al credito delle imprese italiane, provincia per provincia.\n\n\n\nin corsoLe banche meno significative e l'ESG\n\nUn lavoro in collaborazione studia come le banche italiane meno significative comunicano il proprio impegno ambientale, sociale e di governo."
   },
   {
-    "objectID": "index.html#dal-blog",
-    "href": "index.html#dal-blog",
-    "title": "Federico Ninivaggi",
-    "section": "Dal blog",
-    "text": "Dal blog\nNº 28 · preventivatore · 2026-11-21Dal listino compilato a mano al preventivo completoNº 27 · calcio · 2026-11-21Bethune e Santos, due modi di fare la trequartistaNº 16 · calcio · 2026-11-21L'intesa Rodman-Cantore nelle Washington Spirit\nTutti i post →"
-  },
-  {
-    "objectID": "progetti.html",
-    "href": "progetti.html",
-    "title": "Progetti",
+    "objectID": "progetti/progetti-preventivatore.html",
+    "href": "progetti/progetti-preventivatore.html",
+    "title": "Progetti: Preventivatore",
     "section": "",
-    "text": "Nº 09 · album · stagione 2026\n\n\n\ndal problema allo strumento\n\n↩︎ torna all’album\n\n\nNº 09  ?     Progetti\nStrumenti costruiti a partire da un problema concreto di imprese e professionisti. Ogni scheda racconta da quale esigenza nasce lo strumento e come funziona, con una demo da provare."
+    "text": "Nº 01 · progetti · stagione 2026\n\n\n\ndal listino Excel al preventivo\n\n↩︎ torna ai progetti\n\n\nNº 01       € 2.577 Preventivatore\nUn’applicazione web che trasforma il listino Excel di un’impresa in preventivi completi di costo, ricarico, prezzo di vendita, margine e IVA. Nasce per un’impresa di catering per eventi, dove titolare e dipendenti preparavano i preventivi con listini e logiche diverse, a partire da un listino Excel di oltre 150 voci.\nIl titolare indica il tipo di evento e il numero di persone, poi seleziona le voci. L’applicazione calcola i totali e produce due documenti: il PDF per il cliente, privo dei costi interni, e un file Excel con il dettaglio per l’archivio dell’azienda.\nLa demo contiene listini fittizi per tre attività diverse, dal catering all’enoteca, e si apre in una nuova scheda: prova la demo."
   },
   {
-    "objectID": "progetti.html#progetti",
-    "href": "progetti.html#progetti",
-    "title": "Progetti",
-    "section": "Progetti",
-    "text": "Progetti\n\n\n\n  \n    \n      Nº 01\n      \n      \n      \n      \n      \n      \n      € 2.577\n      Preventivatore\n      dal listino Excel al preventivo\n    \n    \n      Nº 01 · Preventivatore\n      post1ultimo2026-11-21\n      \n      Apri →\n    \n  \n  ↻"
+    "objectID": "progetti/progetti-preventivatore.html#articoli-sul-progetto",
+    "href": "progetti/progetti-preventivatore.html#articoli-sul-progetto",
+    "title": "Progetti: Preventivatore",
+    "section": "Articoli sul progetto",
+    "text": "Articoli sul progetto"
+  },
+  {
+    "objectID": "ricerca.html",
+    "href": "ricerca.html",
+    "title": "Ricerca",
+    "section": "",
+    "text": "Nº 02 · album · stagione 2026\n\n\n\ndai territori al credito\n\n↩︎ torna all’album\n\n\nNº 02        Ricerca"
+  },
+  {
+    "objectID": "ricerca.html#linee-di-ricerca",
+    "href": "ricerca.html#linee-di-ricerca",
+    "title": "Ricerca",
+    "section": "Linee di ricerca",
+    "text": "Linee di ricerca\n\n\n\n  \n    \n      Nº 01\n      \n      \n      \n      \n      \n      \n      \n      Territori\n      network e resilienza\n    \n    \n      Nº 01 · Territori\n      articoli4in corso3dal2024\n      Ruolo: regista, smista il gioco tra i nodi\n      Apri →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 02\n      \n      \n      \n      \n      \n      \n      \n      \n      Wellbeing\n      misurare i territori\n    \n    \n      Nº 02 · Wellbeing\n      articoli2in corso3dal2024\n      Ruolo: mediano, copre il campo palmo a palmo\n      Apri →\n    \n  \n  ↻\n\n\n  \n    \n      Nº 03\n      \n      \n      \n      \n      \n      \n      Banche e credito\n      garanzie pubbliche e bilanci\n    \n    \n      Nº 03 · Banche e credito\n      working paper2in corso3dal2026\n      Ruolo: libero, legge il rischio prima degli altri\n      Apri →\n    \n  \n  ↻"
+  },
+  {
+    "objectID": "ricerca.html#resilienza-reti-e-sviluppo-dei-territori",
+    "href": "ricerca.html#resilienza-reti-e-sviluppo-dei-territori",
+    "title": "Ricerca",
+    "section": "Resilienza, reti e sviluppo dei territori",
+    "text": "Resilienza, reti e sviluppo dei territori\nPerché alcuni territori e alcune imprese reggono uno shock e altri no? Questa linea studia come la struttura delle connessioni tra luoghi e tra imprese cambia la risposta alle crisi, dalla crisi finanziaria del 2008 alla pandemia, e quanto contano le istituzioni regionali.\nArticoli pubblicati\n\nCutrini, E., Carfora, A., Ninivaggi, F. (2026). Institutional quality, structural change and regional development in the EU. Regional Studies, Regional Science, 13(1), 2729609. doi:10.1080/21681376.2026.2729609\nNinivaggi, F., Cutrini, E. (2026). Resilient Networks: Exploring the Nexus of Connectivity, Output Complexity, and Market Structures. Networks and Spatial Economics. doi:10.1007/s11067-026-09752-z\nNinivaggi, F., Cutrini, E. (2025). The Vulnerability-Redundancy Nexus through Connectivity. An Analytical Framework. Networks and Spatial Economics. doi:10.1007/s11067-025-09673-3\nCutrini, E., Ninivaggi, F. (2024). Pandemic crisis and firm survival: evidence from the Italian manufacturing industry. Journal of Industrial and Business Economics, 51(2), 265–297. doi:10.1007/s40812-024-00309-0\n\nLavori in corso\n\nUn lavoro in collaborazione studia perché alcune imprese manifatturiere italiane sono cresciute durante la crisi del COVID-19 e altre no, guardando alle risorse che avevano prima dello shock e agli ecosistemi locali in cui operano.\nUn lavoro in collaborazione misura come le regioni europee hanno assorbito la crisi del 2008 e la pandemia, e se la qualità delle istituzioni regionali ha accompagnato una ripresa più rapida.\nUn lavoro in collaborazione studia se le province italiane più legate alle reti globali delle imprese multinazionali producono di più."
+  },
+  {
+    "objectID": "ricerca.html#misurare-il-benessere-e-la-vivibilità-dei-luoghi",
+    "href": "ricerca.html#misurare-il-benessere-e-la-vivibilità-dei-luoghi",
+    "title": "Ricerca",
+    "section": "Misurare il benessere e la vivibilità dei luoghi",
+    "text": "Misurare il benessere e la vivibilità dei luoghi\nLe misure con cui si descrive un luogo decidono chi riceve attenzione e risorse. Questa linea costruisce misure del benessere locale da dati aperti e controlla se rappresentano davvero luoghi e persone, dalle province italiane alle comunità rurali dell’Ovest americano.\nArticoli pubblicati\n\nNinivaggi, F., Cutrini, E. (2024). Exploring local well-being and vulnerability through OpenStreetMap: the case of Italy. Quality & Quantity, 58(4), 3435–3473. doi:10.1007/s11135-023-01805-6\nNinivaggi, F., Cutrini, E. (2025). Resilience, Proximity and the 15-Minute City: A Case Study for Central Italy. Networks and Spatial Economics. doi:10.1007/s11067-025-09669-z\n\nLavori in corso\n\nUn lavoro in collaborazione studia quali comunità selezionano le classificazioni federali della lontananza nell’Ovest degli Stati Uniti, e chi è povero all’interno dei luoghi remoti.\nUn lavoro in collaborazione confronta la mappa dei marciapiedi costruita dai volontari con gli inventari comunali e misura quanto la scelta della fonte cambia i quartieri che una città sceglierebbe di riparare. Un’estensione porta la stessa domanda nei piccoli centri rurali.\nUn lavoro in collaborazione, su un’indagine tra gli over 65 di Marche, Umbria e Abruzzo, misura quanto le scelte di costruzione di un indice di invecchiamento attivo cambiano chi finisce in fondo alla graduatoria."
+  },
+  {
+    "objectID": "ricerca.html#credito-banche-e-bilanci",
+    "href": "ricerca.html#credito-banche-e-bilanci",
+    "title": "Ricerca",
+    "section": "Credito, banche e bilanci",
+    "text": "Credito, banche e bilanci\nIl credito alle piccole imprese passa da banche, garanzie pubbliche e cartolarizzazioni, e i bilanci decidono che cosa di un’impresa si vede. Questa linea studia gli incentivi che questi strumenti creano, la presenza delle banche nei territori e che cosa i principi contabili lasciano fuori dal bilancio.\nLavori in corso\n\nGuarantees That Negligence Voids. Screening Effort, Capital Relief, and the Solvency of Guaranteed Lending. Evidence from the Italian Central Guarantee Fund\nWorking paper, 2026\nIn Italia la garanzia pubblica sul credito è condizionata: il Fondo di Garanzia per le PMI la dichiara inefficace quando la banca ha concesso il prestito su dati che poteva controllare con la dovuta diligenza, oppure ha condotto il recupero senza quella diligenza. L’articolo modella questa condizione e mostra che il risultato classico, per cui una garanzia più alta indebolisce la selezione dei prenditori, vale solo per una garanzia che paga sempre: quando la validità dipende dalla diligenza, la selezione può crescere con la copertura. Un secondo canale passa dal capitale. La quota garantita del prestito ha ponderazione di rischio nulla, quindi la copertura moltiplica i prestiti che lo stesso capitale sostiene, e una banca può essere prudente su ogni euro e insolvente nel complesso. Chi disegna la politica ottiene diligenza a un costo minore inasprendo lo standard di diligenza che tagliando la copertura. La calibrazione su Banca Progetto, in amministrazione straordinaria da marzo 2025, indica che la garanzia doveva essere onorata sul 29-66% delle posizioni in default perché la banca reggesse, mentre 459 pagine dei suoi bilanci non nominano mai il rischio che la garanzia decada.\n\n\nMeasurement Is Not the Constraint: Why internally generated data fails IAS 38 recognition, and what follows for the data valuation literature\nWorking paper, 2026\nUn’ampia letteratura propone metodi per valutare i dati delle imprese, partendo dall’idea che i dati manchino dai bilanci perché non si possono misurare. L’articolo mostra che l’idea è sbagliata per i dati che l’impresa genera al proprio interno. Il paragrafo 63 dello IAS 38, il principio contabile internazionale sulle attività immateriali, vieta di iscrivere le liste clienti generate internamente e le voci simili nella sostanza, e il paragrafo 64 fonda il divieto sull’impossibilità di separare quella spesa dal costo dell’attività nel suo complesso. Nessuno dei due è un requisito di misura, quindi un metodo di valutazione migliore non apre la strada all’iscrizione in bilancio. L’articolo ricava cinque condizioni che un metodo deve rispettare per incidere sull’iscrizione e le applica ai lavori citati da due rassegne recenti. I metodi trovano posto nell’informativa, nelle aggregazioni aziendali e nel test di impairment.\n\nUn lavoro in collaborazione studia la presenza delle banche di credito cooperativo nei territori italiani e il loro ruolo nell’accesso ai servizi finanziari.\nUn lavoro in collaborazione studia il divario di genere nell’accesso al credito delle imprese italiane, provincia per provincia.\nUn lavoro in collaborazione studia come le banche italiane meno significative comunicano il proprio impegno ambientale, sociale e di governo."
+  },
+  {
+    "objectID": "ricerca.html#strumenti",
+    "href": "ricerca.html#strumenti",
+    "title": "Ricerca",
+    "section": "Strumenti",
+    "text": "Strumenti\nSoftware aperto nato dal lavoro di ricerca.\n\n\nNinivaggi, F. (2026). ggaltdata: Data-Driven Alternative Text and Data Tables for ‘ggplot2’ Charts. Pacchetto R su CRAN, versione 0.1.0. doi:10.32614/cran.package.ggaltdata"
   },
   {
     "objectID": "territori.html",
     "href": "territori.html",
     "title": "Territori e reti",
     "section": "",
-    "text": "Nº 01 · album · stagione 2026\n\n\n\nnetwork e resilienza\n\n↩︎ torna all’album\n\n\nNº 01        Territori\nQuesta linea di ricerca indaga perché alcuni territori e alcune imprese si adattano meglio di altri ad uno shock, come la struttura delle connessioni tra luoghi e tra imprese cambia la risposta alle crisi, dalla crisi finanziaria del 2008 alla pandemia, e quanto contano le istituzioni regionali e locali."
+    "text": "Nº 01 · ricerca · stagione 2026\n\n\n\nnetwork e resilienza\n\n↩︎ torna alla ricerca\n\n\nNº 01        Territori\nQuesta linea di ricerca indaga perché alcuni territori e alcune imprese si adattano meglio di altri ad uno shock, come la struttura delle connessioni tra luoghi e tra imprese cambia la risposta alle crisi, dalla crisi finanziaria del 2008 alla pandemia, e quanto contano le istituzioni regionali e locali."
   },
   {
     "objectID": "territori.html#ricerca",

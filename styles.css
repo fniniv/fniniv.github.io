@@ -291,6 +291,10 @@ body:has(.testata) .cv-voce { border-top-color: #E8E0CC; }
 .home-album { margin: -2rem 0 2.4rem; padding: 2.6rem 1rem 3rem; background-color: #1F3A5F; color: #F4EEDF; overflow-x: clip; 
               background-image: radial-gradient(rgba(244, 238, 223, .09) 1px, transparent 1.4px); background-size: 14px 14px; }
 @media (max-width: 767.98px) { .home-album { margin-top: -1.2rem; } }
+
+.home-album-testa { padding-bottom: 2.6rem; }
+.home-album-testa .home-testa { margin-bottom: 0; }
+.home-album.home-album-carte { margin-top: 2.4rem; padding-top: 3rem; }
 .home-testa { max-width: 900px; margin: 0 auto 2.2rem; }
 .home-nome { font-family: Oswald, "Arial Narrow", Impact, sans-serif; font-weight: 600; text-transform: uppercase;
              letter-spacing: .03em; font-size: clamp(2.6rem, 8.5vw, 5.4rem); line-height: 1; margin: 0; color: #F4EEDF; }

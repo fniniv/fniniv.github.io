@@ -19,26 +19,21 @@
     ]
   },
   {
-    "listing": "/en/blog.html",
+    "listing": "/en/blog_brief.html",
     "items": [
-      "/blog/posts/2026-11-17-sofia-cantore-and-the-trinity-rodman-pass/index.html",
-      "/blog/posts/2026-11-21-bethune-and-santos-two-ways-to-play-the-no-10/index.html",
-      "/blog/posts/2026-11-18-ac-boise-s-points-matched-its-chances-among-league-one-s-bes/index.html",
-      "/blog/posts/2026-11-17-the-nwsl-final-the-best-team-on-the-break-against-the-hardes/index.html",
-      "/blog/posts/2026-11-17-when-a-public-guarantee-is-voided-the-working-paper-in-a-vid/index.html",
-      "/blog/posts/2026-11-16-daniela-arques-london-city-s-passing-hub/index.html",
-      "/blog/posts/2026-11-16-frida-maanum-s-match-against-london-city/index.html",
-      "/blog/posts/2026-11-14-smaller-us-cities-and-planned-ai-power/index.html",
-      "/blog/posts/2026-10-06-the-markets-new-heavyweight-borrower/index.html"
+      "/blog/posts/2026-11-27-il-difficile-rapporto-tra-il-porto-di-ancona-e-la-grecia-neg/index.html"
     ]
   },
   {
-    "listing": "/calcio_wsl.html",
-    "items": []
+    "listing": "/blog/video.html",
+    "items": [
+      "/blog/posts/2026-11-17-quando-la-garanzia-pubblica-decade-il-working-paper-in-un-vi/index.html"
+    ]
   },
   {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/posts/2026-11-27-il-difficile-rapporto-tra-il-porto-di-ancona-e-la-grecia-neg/index.html",
       "/blog/posts/2026-11-17-sofia-cantore-e-i-passaggi-di-trinity-rodman/index.html",
       "/blog/posts/2026-11-21-bethune-e-santos-due-modi-di-fare-la-trequartista/index.html",
       "/blog/posts/2026-11-21-dal-listino-compilato-a-mano-al-preventivo-che-mostra-costo/index.html",
@@ -63,6 +58,12 @@
     ]
   },
   {
+    "listing": "/blog/brief.html",
+    "items": [
+      "/blog/posts/2026-11-27-il-difficile-rapporto-tra-il-porto-di-ancona-e-la-grecia-neg/index.html"
+    ]
+  },
+  {
     "listing": "/blog/grafici.html",
     "items": [
       "/blog/posts/2026-11-14-il-reddito-dei-25-34enni-rispetto-ai-50-64enni/index.html"
@@ -79,9 +80,21 @@
     ]
   },
   {
-    "listing": "/blog/video.html",
+    "listing": "/calcio_wsl.html",
+    "items": []
+  },
+  {
+    "listing": "/en/blog.html",
     "items": [
-      "/blog/posts/2026-11-17-quando-la-garanzia-pubblica-decade-il-working-paper-in-un-vi/index.html"
+      "/blog/posts/2026-11-17-sofia-cantore-and-the-trinity-rodman-pass/index.html",
+      "/blog/posts/2026-11-21-bethune-and-santos-two-ways-to-play-the-no-10/index.html",
+      "/blog/posts/2026-11-18-ac-boise-s-points-matched-its-chances-among-league-one-s-bes/index.html",
+      "/blog/posts/2026-11-17-the-nwsl-final-the-best-team-on-the-break-against-the-hardes/index.html",
+      "/blog/posts/2026-11-17-when-a-public-guarantee-is-voided-the-working-paper-in-a-vid/index.html",
+      "/blog/posts/2026-11-16-daniela-arques-london-city-s-passing-hub/index.html",
+      "/blog/posts/2026-11-16-frida-maanum-s-match-against-london-city/index.html",
+      "/blog/posts/2026-11-14-smaller-us-cities-and-planned-ai-power/index.html",
+      "/blog/posts/2026-10-06-the-markets-new-heavyweight-borrower/index.html"
     ]
   },
   {
